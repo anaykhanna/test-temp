@@ -1,0 +1,11 @@
+{
+  "queue_id": 12,
+  "case_name": "014_termios",
+  "subpath": "freebsd_source_files/014_termios",
+  "originating_queue_id": "14",
+  "originating_bundle": "freebsd_bundles/gen_13",
+  "reported_source": "freebsd_bundles/gen_13/termios.c",
+  "original_diagnostic_id": "f43b032b239c4777b77faf9f473b46c1",
+  "bytes": 6026,
+  "sha256": "db7acda7bee444473ed9634a75734d4e994e5456d2c1b5f2558743f0d3f8bc60"
+}

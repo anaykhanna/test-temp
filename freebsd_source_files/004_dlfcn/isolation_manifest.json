@@ -1,0 +1,11 @@
+{
+  "queue_id": 2,
+  "case_name": "004_dlfcn",
+  "subpath": "freebsd_source_files/004_dlfcn",
+  "originating_queue_id": "4",
+  "originating_bundle": "freebsd_bundles/gen_03",
+  "reported_source": "freebsd_bundles/gen_03/dlfcn.c",
+  "original_diagnostic_id": "81862e2152974d1eade3e67cca8a59b3",
+  "bytes": 8675,
+  "sha256": "a2356aee60fef5feec48a3046117888aa99b66987d314017c1d16f72de15c3cd"
+}

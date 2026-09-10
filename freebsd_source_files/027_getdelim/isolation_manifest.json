@@ -1,0 +1,11 @@
+{
+  "queue_id": 25,
+  "case_name": "027_getdelim",
+  "subpath": "freebsd_source_files/027_getdelim",
+  "originating_queue_id": "27",
+  "originating_bundle": "freebsd_bundles/stdio_04",
+  "reported_source": "freebsd_bundles/stdio_04/getdelim.c",
+  "original_diagnostic_id": "57e118e12dc549be980e5e9ec2a64421",
+  "bytes": 4903,
+  "sha256": "a597fe235b64b0785754ba448acf5722efed57e4c61863fb34754c385fcb1623"
+}

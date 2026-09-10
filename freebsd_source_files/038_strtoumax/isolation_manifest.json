@@ -1,0 +1,11 @@
+{
+  "queue_id": 35,
+  "case_name": "038_strtoumax",
+  "subpath": "freebsd_source_files/038_strtoumax",
+  "originating_queue_id": "38",
+  "originating_bundle": "freebsd_bundles/stdlib_05",
+  "reported_source": "freebsd_bundles/stdlib_05/strtoumax.c",
+  "original_diagnostic_id": "a12cbcfdbc9643dea0fcfd131fc5a217",
+  "bytes": 4031,
+  "sha256": "f0a1feb667a156513921a664e9fa3b41112ee7a3a6a2b24557f297c2d684d54d"
+}

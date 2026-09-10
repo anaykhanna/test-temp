@@ -1,0 +1,11 @@
+{
+  "queue_id": 24,
+  "case_name": "026_local",
+  "subpath": "freebsd_source_files/026_local",
+  "originating_queue_id": "26",
+  "originating_bundle": "freebsd_bundles/stdio_03",
+  "reported_source": "freebsd_bundles/stdio_03/local.h",
+  "original_diagnostic_id": "d79d0650fef14034bb757312e05f36a7",
+  "bytes": 5727,
+  "sha256": "d8af4c0af32a8d98d5a7ebd6172365be1d3a37507c235cbad523420f7072c657"
+}

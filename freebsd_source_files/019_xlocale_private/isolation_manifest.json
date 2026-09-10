@@ -1,0 +1,11 @@
+{
+  "queue_id": 17,
+  "case_name": "019_xlocale_private",
+  "subpath": "freebsd_source_files/019_xlocale_private",
+  "originating_queue_id": "19",
+  "originating_bundle": "freebsd_bundles/locale_03",
+  "reported_source": "freebsd_bundles/locale_03/xlocale_private.h",
+  "original_diagnostic_id": "8af25a5614aa479b8d5d3f30687cdbad",
+  "bytes": 8400,
+  "sha256": "326feef84f3d6f264328db732b9aed6b52bda457b6d1550c905ffd0d0a03bb1b"
+}

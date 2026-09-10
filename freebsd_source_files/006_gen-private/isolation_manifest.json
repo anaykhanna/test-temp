@@ -1,0 +1,11 @@
+{
+  "queue_id": 4,
+  "case_name": "006_gen-private",
+  "subpath": "freebsd_source_files/006_gen-private",
+  "originating_queue_id": "6",
+  "originating_bundle": "freebsd_bundles/gen_05",
+  "reported_source": "freebsd_bundles/gen_05/gen-private.h",
+  "original_diagnostic_id": "96c0a6adde1b4d02a20fbebbe1f2fb4e",
+  "bytes": 2758,
+  "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+}

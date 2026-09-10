@@ -1,0 +1,11 @@
+{
+  "queue_id": 11,
+  "case_name": "013_sigsetops",
+  "subpath": "freebsd_source_files/013_sigsetops",
+  "originating_queue_id": "13",
+  "originating_bundle": "freebsd_bundles/gen_12",
+  "reported_source": "freebsd_bundles/gen_12/sigsetops.c",
+  "original_diagnostic_id": "38a7e37c21e8482f9314d086665e649e",
+  "bytes": 3206,
+  "sha256": "b11d21a9d9266a9379a30688630027de8677352bf7a7761d332eb4521fecf34a"
+}

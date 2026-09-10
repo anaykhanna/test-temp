@@ -1,0 +1,11 @@
+{
+  "queue_id": 1,
+  "case_name": "003_arc4random",
+  "subpath": "freebsd_source_files/003_arc4random",
+  "originating_queue_id": "3",
+  "originating_bundle": "freebsd_bundles/gen_02",
+  "reported_source": "freebsd_bundles/gen_02/arc4random.c",
+  "original_diagnostic_id": "04cc2eeac21a4b8d80f7057f538b28d0",
+  "bytes": 6494,
+  "sha256": "2fa8152b569eb99fe54adad9cc1ae9a5594f2710b2c72cf4eb8723b84445f1b9"
+}

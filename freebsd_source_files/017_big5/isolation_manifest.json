@@ -1,0 +1,11 @@
+{
+  "queue_id": 15,
+  "case_name": "017_big5",
+  "subpath": "freebsd_source_files/017_big5",
+  "originating_queue_id": "17",
+  "originating_bundle": "freebsd_bundles/locale_01",
+  "reported_source": "freebsd_bundles/locale_01/big5.c",
+  "original_diagnostic_id": "07ef195ef1cb4f09ac06a72dd15f1c9e",
+  "bytes": 5449,
+  "sha256": "b48bdace4a07dedd4402a8bed617aca2359ad9a26ef275e6deb60e736ed19d75"
+}

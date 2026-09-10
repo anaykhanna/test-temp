@@ -1,0 +1,11 @@
+{
+  "queue_id": 38,
+  "case_name": "045_wcscmp",
+  "subpath": "freebsd_source_files/045_wcscmp",
+  "originating_queue_id": "45",
+  "originating_bundle": "freebsd_bundles/string_05",
+  "reported_source": "freebsd_bundles/string_05/wcscmp.c",
+  "original_diagnostic_id": "4d8d52a39f1f49f1a14e18d2922da65c",
+  "bytes": 2282,
+  "sha256": "d567e95a6c22dcdbfe89e17ada74ec5c6f5242b7f4a2d7e973facdf1ac8d7cc0"
+}
