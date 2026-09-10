@@ -1,0 +1,31 @@
+{
+  "queue_id": 33,
+  "name": "stdio_10",
+  "module": "stdio",
+  "subpath": "freebsd_bundles/stdio_10",
+  "selected_c_files": 3,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdio_10/xprintf_str.c",
+      "upstream_path": "lib/libc/stdio/xprintf_str.c",
+      "role": "selected_source",
+      "bytes": 5335,
+      "sha256": "a76d4461eeb8ed70c4bcf1a900362757833bf2786c81a0256ac76bcbd4d6d339"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_10/xprintf_time.c",
+      "upstream_path": "lib/libc/stdio/xprintf_time.c",
+      "role": "selected_source",
+      "bytes": 3649,
+      "sha256": "f124f2c113ef6db3bd33d3244a71fa561f82ca45cf4dd01e8c43e6e39a59b371"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_10/xprintf_vis.c",
+      "upstream_path": "lib/libc/stdio/xprintf_vis.c",
+      "role": "selected_source",
+      "bytes": 2525,
+      "sha256": "05963aae956a768e500b89f3156ffb833863a96d426dafa6f739660aeab203a6"
+    }
+  ]
+}

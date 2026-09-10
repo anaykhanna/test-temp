@@ -1,0 +1,87 @@
+{
+  "queue_id": 16,
+  "name": "gen_15",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_15",
+  "selected_c_files": 10,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_15/unvis-compat.c",
+      "upstream_path": "lib/libc/gen/unvis-compat.c",
+      "role": "selected_source",
+      "bytes": 1964,
+      "sha256": "3e23b59cbe832079a3f80a317e324598e781fc2174d48f9ebde411d59fc804d8"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/usleep.c",
+      "upstream_path": "lib/libc/gen/usleep.c",
+      "role": "selected_source",
+      "bytes": 2284,
+      "sha256": "955e297530b107f06a800427b0c7148e51ab96342c22d3ddb14146eaa54992fb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/utime.c",
+      "upstream_path": "lib/libc/gen/utime.c",
+      "role": "selected_source",
+      "bytes": 2074,
+      "sha256": "0f78b6448cf23fc435c259b2ad1c056bc4d95f148ace46d7a571e6c9c3360d9f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/utxdb.c",
+      "upstream_path": "lib/libc/gen/utxdb.c",
+      "role": "selected_source",
+      "bytes": 4784,
+      "sha256": "684b22766d4091014822f0e3897c7514559c7ec26227080942b28bbe895a922e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/utxdb.h",
+      "upstream_path": "lib/libc/gen/utxdb.h",
+      "role": "local_include_dependency",
+      "bytes": 2292,
+      "sha256": "1df33fe678f78e4299677c8bd4f7309fd6690833a07802c6897691ba912a3b7f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/valloc.c",
+      "upstream_path": "lib/libc/gen/valloc.c",
+      "role": "selected_source",
+      "bytes": 1917,
+      "sha256": "ebc0d52f9f5eb7173a3b1e55db519ddfe6f9d6ddf8113a679f754708e6405901"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/wait.c",
+      "upstream_path": "lib/libc/gen/wait.c",
+      "role": "selected_source",
+      "bytes": 2178,
+      "sha256": "59735a151f1b3f1a242bdec45d5fd1968a7b8617ae0b76180a99ec94c3e3f39c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/wait3.c",
+      "upstream_path": "lib/libc/gen/wait3.c",
+      "role": "selected_source",
+      "bytes": 2209,
+      "sha256": "a191ce32378fae6a39ee69d45c453cbdc7f8aabfa3c82da6184350572efeca32"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/waitid.c",
+      "upstream_path": "lib/libc/gen/waitid.c",
+      "role": "selected_source",
+      "bytes": 2559,
+      "sha256": "13e592b7ed44cecb16ba3a7144ea52df6bf9c8abfb90ede2272fcf16f66f5300"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/waitpid.c",
+      "upstream_path": "lib/libc/gen/waitpid.c",
+      "role": "selected_source",
+      "bytes": 2236,
+      "sha256": "38ddf2499f5e280ae8d2647b1216f78946beff56728b15b0b5f586e77fa7a0dd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_15/wordexp.c",
+      "upstream_path": "lib/libc/gen/wordexp.c",
+      "role": "selected_source",
+      "bytes": 11087,
+      "sha256": "da4828ba99386590bb726e99a179ac04bce60269917187b27132303a92b150ca"
+    }
+  ]
+}

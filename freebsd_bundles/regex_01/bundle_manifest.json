@@ -1,0 +1,66 @@
+{
+  "queue_id": 23,
+  "name": "regex_01",
+  "module": "regex",
+  "subpath": "freebsd_bundles/regex_01",
+  "selected_c_files": 5,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/regex_01/cname.h",
+      "upstream_path": "lib/libc/regex/cname.h",
+      "role": "local_include_dependency",
+      "bytes": 4114,
+      "sha256": "fec67b5c3a1382b49c0cfd3005257cac8c39c75e48ceef8e3c1f8f9fab79cc4b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/regex_01/engine.c",
+      "upstream_path": "lib/libc/regex/engine.c",
+      "role": "selected_source",
+      "bytes": 32708,
+      "sha256": "4eef1efd8d268beab832eff0da6169963fc9315e30fab18682f12473e3e35814"
+    },
+    {
+      "bundle_path": "freebsd_bundles/regex_01/regcomp.c",
+      "upstream_path": "lib/libc/regex/regcomp.c",
+      "role": "selected_source",
+      "bytes": 56408,
+      "sha256": "e59d21059062ffe0be529156fee935765f409abf5fe570aed46b7cba040b94f0"
+    },
+    {
+      "bundle_path": "freebsd_bundles/regex_01/regerror.c",
+      "upstream_path": "lib/libc/regex/regerror.c",
+      "role": "selected_source",
+      "bytes": 5547,
+      "sha256": "9e3780f5febf019b5687d7dcce1462e3537fa7ca05cb4c0d5303275d581a7226"
+    },
+    {
+      "bundle_path": "freebsd_bundles/regex_01/regex2.h",
+      "upstream_path": "lib/libc/regex/regex2.h",
+      "role": "local_include_dependency",
+      "bytes": 7538,
+      "sha256": "cf044188b5ccd52d87d5b06fba4a1368b5a9781b57667f9904910b84afbc9420"
+    },
+    {
+      "bundle_path": "freebsd_bundles/regex_01/regexec.c",
+      "upstream_path": "lib/libc/regex/regexec.c",
+      "role": "selected_source",
+      "bytes": 7630,
+      "sha256": "59c786f0c43b7de8025c6150cce4f8c2f833820d16421be654e2f2839f2c02e3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/regex_01/regfree.c",
+      "upstream_path": "lib/libc/regex/regfree.c",
+      "role": "selected_source",
+      "bytes": 3015,
+      "sha256": "0754f9b82a443e4f2eb28f6b6a7e3049100e07fcd0ebc40f36d9c3c5691ec55d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/regex_01/utils.h",
+      "upstream_path": "lib/libc/regex/utils.h",
+      "role": "local_include_dependency",
+      "bytes": 2403,
+      "sha256": "a5b07f86f3ce9782721a67a8ce064e9ade921f134af6e3f34dcc6b751255665b"
+    }
+  ]
+}

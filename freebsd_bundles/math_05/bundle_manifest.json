@@ -1,0 +1,115 @@
+{
+  "queue_id": 53,
+  "name": "math_05",
+  "module": "math",
+  "subpath": "freebsd_bundles/math_05",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_log2f.c",
+      "upstream_path": "lib/msun/src/e_log2f.c",
+      "role": "selected_source",
+      "bytes": 2444,
+      "sha256": "2f8d69105e0b38d755290a1bc4a2a1f0eb9968dd7533cb8ba944fd70f8f787fd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_logf.c",
+      "upstream_path": "lib/msun/src/e_logf.c",
+      "role": "selected_source",
+      "bytes": 2448,
+      "sha256": "649a88cf6c6eef0df2ac53bfe288d35bfeda27f8ee9f6e6b45d77665a28b74c0"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_pow.c",
+      "upstream_path": "lib/msun/src/e_pow.c",
+      "role": "selected_source",
+      "bytes": 10324,
+      "sha256": "787a70a02b8816f67b9835b235d72bb98c1a19879970b0c317a1f0b0882cd5bc"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_powf.c",
+      "upstream_path": "lib/msun/src/e_powf.c",
+      "role": "selected_source",
+      "bytes": 7702,
+      "sha256": "0412140cc29c91daeb2857120a1694e414d5d8a555ac608a2d1c6cdde91951c3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_rem_pio2.c",
+      "upstream_path": "lib/msun/src/e_rem_pio2.c",
+      "role": "selected_source",
+      "bytes": 4944,
+      "sha256": "121585174f9b90e973544157162e6f4ea85a11ff522dde080effa3470dd7a152"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_rem_pio2f.c",
+      "upstream_path": "lib/msun/src/e_rem_pio2f.c",
+      "role": "selected_source",
+      "bytes": 2039,
+      "sha256": "537fe7dbc5333db6343dbd402762c52896a2beb7d9e46ecc84a32f8180113d18"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_remainder.c",
+      "upstream_path": "lib/msun/src/e_remainder.c",
+      "role": "selected_source",
+      "bytes": 1796,
+      "sha256": "24ca791ce7daa8d22bae2835430df98403376f826a998316f241ac8796746d17"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_remainderf.c",
+      "upstream_path": "lib/msun/src/e_remainderf.c",
+      "role": "selected_source",
+      "bytes": 1439,
+      "sha256": "81ab4d488c9b2b31050a8beae6286d77f8738cfbdf1b1513c47aa18ce4f148ff"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_remainderl.c",
+      "upstream_path": "lib/msun/src/e_remainderl.c",
+      "role": "selected_source",
+      "bytes": 1573,
+      "sha256": "16025b92d60d16161d34b8bfb0f32baade484e9db1cd6b238b7c2ba8063e19d0"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_scalb.c",
+      "upstream_path": "lib/msun/src/e_scalb.c",
+      "role": "selected_source",
+      "bytes": 1058,
+      "sha256": "2c2b7280e1aba17529f53ced98b3bd2583d0f5ba1c64f0a69ca2be059541f1e9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_scalbf.c",
+      "upstream_path": "lib/msun/src/e_scalbf.c",
+      "role": "selected_source",
+      "bytes": 1058,
+      "sha256": "b91249ccadd8dced3e3c3244468cfca18b7c8841bebcf06f3c576cfbf291c8e3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/e_sinh.c",
+      "upstream_path": "lib/msun/src/e_sinh.c",
+      "role": "selected_source",
+      "bytes": 2077,
+      "sha256": "d04785a0e93c5f44dca5334abdd795e2ae4513f88c6858b2df1d9bc6491945f2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/k_logf.h",
+      "upstream_path": "lib/msun/src/k_logf.h",
+      "role": "local_include_dependency",
+      "bytes": 981,
+      "sha256": "d8be23d0f077c833fc66a02a020b264f260b24e128c658f45c9e905e301a8c84"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/math.h",
+      "upstream_path": "lib/msun/src/math.h",
+      "role": "local_include_dependency",
+      "bytes": 14623,
+      "sha256": "87bec43e9642243de91c3fc55c703bc10b84d57553761ed8caeceb0c82cbc15b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_05/math_private.h",
+      "upstream_path": "lib/msun/src/math_private.h",
+      "role": "local_include_dependency",
+      "bytes": 22733,
+      "sha256": "697e8edc2aac87432dcfa7a284fa1cc291558a1b7d14581da70d18d1524ad19c"
+    }
+  ]
+}

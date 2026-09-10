@@ -1,0 +1,101 @@
+{
+  "queue_id": 36,
+  "name": "stdlib_03",
+  "module": "stdlib",
+  "subpath": "freebsd_bundles/stdlib_03",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/hsearch.h",
+      "upstream_path": "lib/libc/stdlib/hsearch.h",
+      "role": "local_include_dependency",
+      "bytes": 1693,
+      "sha256": "d0cd6ebd1b2407fa56bd33b3784861321cdd862b844d7ddb53ee5da25b47ff77"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/hsearch_r.c",
+      "upstream_path": "lib/libc/stdlib/hsearch_r.c",
+      "role": "selected_source",
+      "bytes": 4562,
+      "sha256": "44fb5ca7c6150c5b46489d30c8e1bc5cab9c0df8210befda613e939ee4632264"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/imaxabs.c",
+      "upstream_path": "lib/libc/stdlib/imaxabs.c",
+      "role": "selected_source",
+      "bytes": 1536,
+      "sha256": "bd2d34f251184415f38439ae054fc2cd45bbe24f2d39b7c9f1b08317bd2c0e23"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/imaxdiv.c",
+      "upstream_path": "lib/libc/stdlib/imaxdiv.c",
+      "role": "selected_source",
+      "bytes": 1845,
+      "sha256": "de7e52c46b4cea158c750213b2f2bee055a879605fbb23c8fbcd9f42998eb3cd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/insque.c",
+      "upstream_path": "lib/libc/stdlib/insque.c",
+      "role": "selected_source",
+      "bytes": 922,
+      "sha256": "c01c0afcb3814e9c67778bfdaceee35b8973983d793ad77b96b75bf8f37816f1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/l64a.c",
+      "upstream_path": "lib/libc/stdlib/l64a.c",
+      "role": "selected_source",
+      "bytes": 744,
+      "sha256": "b192f6518f4de2695b3b9b65afffa88f45d5898f6599bdd256c32a7c0b8d0c00"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/labs.c",
+      "upstream_path": "lib/libc/stdlib/labs.c",
+      "role": "selected_source",
+      "bytes": 1885,
+      "sha256": "73f4be291e014a0b492706480bc9825046154fbaefd9d998794502b5f28f5323"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/ldiv.c",
+      "upstream_path": "lib/libc/stdlib/ldiv.c",
+      "role": "selected_source",
+      "bytes": 2223,
+      "sha256": "e35abc1afc388cced1d3bf0ab5c47bdd5a6f52844661a1a03851bdbdd7739f37"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/llabs.c",
+      "upstream_path": "lib/libc/stdlib/llabs.c",
+      "role": "selected_source",
+      "bytes": 1534,
+      "sha256": "a62566dd2bf8d2ce15dadd8bae5badb13178fd7e420236a986d7fdb4b6088169"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/lldiv.c",
+      "upstream_path": "lib/libc/stdlib/lldiv.c",
+      "role": "selected_source",
+      "bytes": 1839,
+      "sha256": "d503cee2185fb7b30118ace5b78d56e4e130ac9d5b9dcb678313af44f5b52ef0"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/lsearch.c",
+      "upstream_path": "lib/libc/stdlib/lsearch.c",
+      "role": "selected_source",
+      "bytes": 1511,
+      "sha256": "4017e56da3bdd662c4185c5b4b57f898d39e31f626f3a2ec151f4c2c78d07270"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/merge.c",
+      "upstream_path": "lib/libc/stdlib/merge.c",
+      "role": "selected_source",
+      "bytes": 9744,
+      "sha256": "40f211b2aec614d2a704eaecef4cc9c0fba18542b578876e956293ae56460c1c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_03/mergesort_b.c",
+      "upstream_path": "lib/libc/stdlib/mergesort_b.c",
+      "role": "selected_source",
+      "bytes": 1427,
+      "sha256": "de4719d5a2e17eea7d65f20cbf1298c03e2b82228414da62d7cee84583abdc76"
+    }
+  ]
+}

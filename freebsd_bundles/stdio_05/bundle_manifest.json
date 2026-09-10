@@ -1,0 +1,108 @@
+{
+  "queue_id": 28,
+  "name": "stdio_05",
+  "module": "stdio",
+  "subpath": "freebsd_bundles/stdio_05",
+  "selected_c_files": 12,
+  "included_dependency_files": 2,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/getw.c",
+      "upstream_path": "lib/libc/stdio/getw.c",
+      "role": "selected_source",
+      "bytes": 2020,
+      "sha256": "efeb5c018b9d77fb290cb1a68368bd8490ce0f7410d6710b398200d787258490"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/getwc.c",
+      "upstream_path": "lib/libc/stdio/getwc.c",
+      "role": "selected_source",
+      "bytes": 2045,
+      "sha256": "dbceedb4e65574ba56b14467cdf6781886336eec5e08ca6db54268ff2979fc13"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/getwchar.c",
+      "upstream_path": "lib/libc/stdio/getwchar.c",
+      "role": "selected_source",
+      "bytes": 1954,
+      "sha256": "07d41ff606418e202fcc000ce5c4e918975409cb7cffd7df171f398aae817391"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/local.h",
+      "upstream_path": "lib/libc/stdio/local.h",
+      "role": "local_include_dependency",
+      "bytes": 5727,
+      "sha256": "d8af4c0af32a8d98d5a7ebd6172365be1d3a37507c235cbad523420f7072c657"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/makebuf.c",
+      "upstream_path": "lib/libc/stdio/makebuf.c",
+      "role": "selected_source",
+      "bytes": 3769,
+      "sha256": "3b656795d7de7f8dd62fc1557065db714986f7707a704d682e9463af4a1dc5e4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/mktemp.c",
+      "upstream_path": "lib/libc/stdio/mktemp.c",
+      "role": "selected_source",
+      "bytes": 5311,
+      "sha256": "37404449ea1534b94c6275db34c6d436dce84d75d0a53aa457dcfe4f52210fde"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/open_memstream.c",
+      "upstream_path": "lib/libc/stdio/open_memstream.c",
+      "role": "selected_source",
+      "bytes": 5065,
+      "sha256": "0045b64ebf4841829436bd5963d048189cfe318e445c36dba6f068b10cc3fcac"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/open_wmemstream.c",
+      "upstream_path": "lib/libc/stdio/open_wmemstream.c",
+      "role": "selected_source",
+      "bytes": 6707,
+      "sha256": "b3b75b3e09cd4938947b68d1edae91e5a4a31e96adc0fdd66c036b16a299b7dd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/perror.c",
+      "upstream_path": "lib/libc/stdio/perror.c",
+      "role": "selected_source",
+      "bytes": 2641,
+      "sha256": "75d65dbcc800188cd91ef3157e2cfe48a2ecb982841cbb16a8411d632ab728a3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/printf-pos.c",
+      "upstream_path": "lib/libc/stdio/printf-pos.c",
+      "role": "selected_source",
+      "bytes": 18627,
+      "sha256": "befd7151303e5a93230e8a1bda7f7557c0019fd3c9efe0b81630c8c40b62456d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/printf.c",
+      "upstream_path": "lib/libc/stdio/printf.c",
+      "role": "selected_source",
+      "bytes": 2493,
+      "sha256": "71a7375a423ecbad9bf867d0d46a07158bd6aa29b5b11fec9a1f29f82e589b56"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/printflocal.h",
+      "upstream_path": "lib/libc/stdio/printflocal.h",
+      "role": "local_include_dependency",
+      "bytes": 3497,
+      "sha256": "507144b2de73c2cc98ea18e2cf8e3119845c8af76751f35b622c70de744beddd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/putc.c",
+      "upstream_path": "lib/libc/stdio/putc.c",
+      "role": "selected_source",
+      "bytes": 2362,
+      "sha256": "0d0000fb97b5b9f17c90e57764ec4285469b1452b0aa233ad1bbe51ca2235cb4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_05/putchar.c",
+      "upstream_path": "lib/libc/stdio/putchar.c",
+      "role": "selected_source",
+      "bytes": 2439,
+      "sha256": "ff004624c14e8d2136670d4bd3df694dbdf76e609f11d4528763b96ec16b5c79"
+    }
+  ]
+}

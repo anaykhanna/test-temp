@@ -1,0 +1,101 @@
+{
+  "queue_id": 41,
+  "name": "string_01",
+  "module": "string",
+  "subpath": "freebsd_bundles/string_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/string_01/bcmp.c",
+      "upstream_path": "lib/libc/string/bcmp.c",
+      "role": "selected_source",
+      "bytes": 2110,
+      "sha256": "94dec3258fdb975267cf1b7f7f1cb0b410613a006c6ed457fbf3a93492b3cc57"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/bcopy.c",
+      "upstream_path": "lib/libc/string/bcopy.c",
+      "role": "selected_source",
+      "bytes": 4132,
+      "sha256": "09d60699fb30e30c504820179f33baee15d4b2a051609cee4d4acf41a5dde4f1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/bzero.c",
+      "upstream_path": "lib/libc/string/bzero.c",
+      "role": "selected_source",
+      "bytes": 36,
+      "sha256": "c4bd3fbe1056ab54b6f73316740c658733bdf6fb1ba9214565ba33d571f28624"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/ffs.c",
+      "upstream_path": "lib/libc/string/ffs.c",
+      "role": "selected_source",
+      "bytes": 2128,
+      "sha256": "0aec9ba509735934296afa7909d9dd07a3e4281564610dc18fe6bd3065fcd8cd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/ffsl.c",
+      "upstream_path": "lib/libc/string/ffsl.c",
+      "role": "selected_source",
+      "bytes": 1993,
+      "sha256": "85a464f647c8e1aedfecd1e6c00c31d60eaf4c2f41b26a38b50386ee59c51196"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/ffsll.c",
+      "upstream_path": "lib/libc/string/ffsll.c",
+      "role": "selected_source",
+      "bytes": 2000,
+      "sha256": "eef52ddf6e4d76ed0d31ead6b30528b008ab879dfb77eec11c3c29b3e8bfcc08"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/fls.c",
+      "upstream_path": "lib/libc/string/fls.c",
+      "role": "selected_source",
+      "bytes": 2032,
+      "sha256": "34228b8d2a9f906dba0a432a688fad2edb5f99401d82cc49b9512905cd7e3e32"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/flsl.c",
+      "upstream_path": "lib/libc/string/flsl.c",
+      "role": "selected_source",
+      "bytes": 2037,
+      "sha256": "e1f9212089068aecdce465213b2635fed5fa09a1c31a402d5da70f05d053a14d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/flsll.c",
+      "upstream_path": "lib/libc/string/flsll.c",
+      "role": "selected_source",
+      "bytes": 2042,
+      "sha256": "4efc200d296befcd23ef2ac4bb5af61f0d1c2c14394415f48b010a82b593ff74"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/memccpy.c",
+      "upstream_path": "lib/libc/string/memccpy.c",
+      "role": "selected_source",
+      "bytes": 2114,
+      "sha256": "27bc3053394b81c5b9ce46eaaa0b3171b9a1f6b0aa0ab696668ed56604ca0e3d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/memchr.c",
+      "upstream_path": "lib/libc/string/memchr.c",
+      "role": "selected_source",
+      "bytes": 1953,
+      "sha256": "e401df00ab81c110569cf60519b9b9092402ff5c272d9b2cd03058f3a3934c77"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/memcmp.c",
+      "upstream_path": "lib/libc/string/memcmp.c",
+      "role": "selected_source",
+      "bytes": 2183,
+      "sha256": "def8819c015cb21bac1fa89fa610cf95f1f3eb32eb2825bb499ab9e1a9668d36"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_01/memset.c",
+      "upstream_path": "lib/libc/string/memset.c",
+      "role": "local_include_dependency",
+      "bytes": 3849,
+      "sha256": "cf7b686d8c5c50a3bdcdc36c92d80108f84d0035a14a5e845fe44e874869d20c"
+    }
+  ]
+}

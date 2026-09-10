@@ -1,0 +1,108 @@
+{
+  "queue_id": 4,
+  "name": "gen_03",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_03",
+  "selected_c_files": 12,
+  "included_dependency_files": 2,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_03/cpuset_alloc.c",
+      "upstream_path": "lib/libc/gen/cpuset_alloc.c",
+      "role": "selected_source",
+      "bytes": 1506,
+      "sha256": "b0c03c12c9668982d97acd6ce08f8d6ffe8832e3bcce25fdd760587ef7f23478"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/cpuset_free.c",
+      "upstream_path": "lib/libc/gen/cpuset_free.c",
+      "role": "selected_source",
+      "bytes": 1471,
+      "sha256": "892a12ef336a41c200b17b3be23c244367056f4ea44631959cc4e64ccbeb8162"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/crypt.c",
+      "upstream_path": "lib/libc/gen/crypt.c",
+      "role": "selected_source",
+      "bytes": 3268,
+      "sha256": "9a9c9af4aa290b6ab94d135f2e28d15e7d56c230b9627fe855ba76dddfd43ad7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/ctermid.c",
+      "upstream_path": "lib/libc/gen/ctermid.c",
+      "role": "selected_source",
+      "bytes": 2278,
+      "sha256": "fb4a25fee5696318644923fae822fc8171ec0be71e7cffe2d93adb413a2a2865"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/daemon.c",
+      "upstream_path": "lib/libc/gen/daemon.c",
+      "role": "selected_source",
+      "bytes": 3256,
+      "sha256": "7937ed341f3ec70300a81f82d444aa1b84931ea720b9cd8e9185ac9a1249a37f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/devname-compat11.c",
+      "upstream_path": "lib/libc/gen/devname-compat11.c",
+      "role": "selected_source",
+      "bytes": 1829,
+      "sha256": "e0a15551366d98cb7daf67724f93d1b762c5f8796387263158b35ab448f2e720"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/devname.c",
+      "upstream_path": "lib/libc/gen/devname.c",
+      "role": "selected_source",
+      "bytes": 2519,
+      "sha256": "4dd25c6c7d1d81c3353c2439ef331865f47a072bf1b1386e14a11874583fc7bb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/dirfd.c",
+      "upstream_path": "lib/libc/gen/dirfd.c",
+      "role": "selected_source",
+      "bytes": 1630,
+      "sha256": "cddaab557f5af852c692466624fe35348054b5eb0ab71cd9ca6bace789479509"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/dirname.c",
+      "upstream_path": "lib/libc/gen/dirname.c",
+      "role": "selected_source",
+      "bytes": 2363,
+      "sha256": "dc6b513cc2921e191b1884645f09cb2bab809637ca4567d632c76ceba72f0fe9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/dirname_compat.c",
+      "upstream_path": "lib/libc/gen/dirname_compat.c",
+      "role": "selected_source",
+      "bytes": 2128,
+      "sha256": "0bb02e30df54b75ff1e9f60a2a82a65b92aae3f40d2431c9ded293b3a8cdfe40"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/disklabel.c",
+      "upstream_path": "lib/libc/gen/disklabel.c",
+      "role": "selected_source",
+      "bytes": 5117,
+      "sha256": "11074df1508be4baa79b5f9bd5aa1542d1c7119fcdaaed36277503bd3d4926ec"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/dlfcn.c",
+      "upstream_path": "lib/libc/gen/dlfcn.c",
+      "role": "selected_source",
+      "bytes": 8675,
+      "sha256": "a2356aee60fef5feec48a3046117888aa99b66987d314017c1d16f72de15c3cd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/gen-compat.h",
+      "upstream_path": "lib/libc/gen/gen-compat.h",
+      "role": "local_include_dependency",
+      "bytes": 2442,
+      "sha256": "de7690e2df9fd065fc8c163d72428335adccdaca9610cfca73ae99536a724d84"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_03/gen-private.h",
+      "upstream_path": "lib/libc/gen/gen-private.h",
+      "role": "local_include_dependency",
+      "bytes": 2758,
+      "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+    }
+  ]
+}

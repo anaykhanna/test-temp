@@ -1,0 +1,94 @@
+{
+  "queue_id": 43,
+  "name": "string_03",
+  "module": "string",
+  "subpath": "freebsd_bundles/string_03",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/string_03/strchr.c",
+      "upstream_path": "lib/libc/string/strchr.c",
+      "role": "selected_source",
+      "bytes": 1428,
+      "sha256": "d2b056a742476508f2351c4b833fe97fe9bb20b070005370955364fce12e25a9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strchrnul.c",
+      "upstream_path": "lib/libc/string/strchrnul.c",
+      "role": "selected_source",
+      "bytes": 1995,
+      "sha256": "4e5e42e619a7780ad24483955dfcd9cf60118e0bcba13fe7c21b1e4b2b9987cd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strcmp.c",
+      "upstream_path": "lib/libc/string/strcmp.c",
+      "role": "selected_source",
+      "bytes": 2138,
+      "sha256": "68b0d05336adc877b5cc4fbf853b3784396ace6f0126dd2058e90b3565d56adf"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strcoll.c",
+      "upstream_path": "lib/libc/string/strcoll.c",
+      "role": "selected_source",
+      "bytes": 3571,
+      "sha256": "b507297ccd846876e2dff909e7d67926f1b471abe73ec1d0f2fa30d08969dd1e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strcpy.c",
+      "upstream_path": "lib/libc/string/strcpy.c",
+      "role": "selected_source",
+      "bytes": 2099,
+      "sha256": "65c821494bdb496ffc9e4047f641bfd90120dd2ea7a35797b5a331f1de6cc4ff"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strcspn.c",
+      "upstream_path": "lib/libc/string/strcspn.c",
+      "role": "selected_source",
+      "bytes": 2401,
+      "sha256": "f1cc201fc2fec49a061bfa0eefeaa33ca4eb9a1bd0d01b059cee96301e1e97f3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strdup.c",
+      "upstream_path": "lib/libc/string/strdup.c",
+      "role": "selected_source",
+      "bytes": 2068,
+      "sha256": "ff737c1c877b0e80f55414f4886b254ac5e301a86214793842c58e59d273047d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strerror.c",
+      "upstream_path": "lib/libc/string/strerror.c",
+      "role": "selected_source",
+      "bytes": 4040,
+      "sha256": "8f17722d420df679192667f335885f0f18f8d643ba64f4a25b29bb22aa7402fd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strlcat.c",
+      "upstream_path": "lib/libc/string/strlcat.c",
+      "role": "selected_source",
+      "bytes": 1825,
+      "sha256": "f5878fd0354f4ead77a6cb854aa79638c593217f2a59c2abe63e8b3748f51eaa"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strlcpy.c",
+      "upstream_path": "lib/libc/string/strlcpy.c",
+      "role": "selected_source",
+      "bytes": 1673,
+      "sha256": "fafce0a4b4d6c5b6d5b53fd5c95f81dd7e4128987a534b595862551b9947e1f5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strlen.c",
+      "upstream_path": "lib/libc/string/strlen.c",
+      "role": "selected_source",
+      "bytes": 3716,
+      "sha256": "ef0062596b401d877229d0f1afebc7c9f533afee92d6df3146b9ad1709525051"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_03/strmode.c",
+      "upstream_path": "lib/libc/string/strmode.c",
+      "role": "selected_source",
+      "bytes": 3613,
+      "sha256": "8a2ee80a88ea79701d06c8cef8d99c4e8d3dc86e8042b351bdfa6d883ce11a39"
+    }
+  ]
+}

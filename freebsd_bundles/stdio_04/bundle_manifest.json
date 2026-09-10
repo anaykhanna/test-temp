@@ -1,0 +1,115 @@
+{
+  "queue_id": 27,
+  "name": "stdio_04",
+  "module": "stdio",
+  "subpath": "freebsd_bundles/stdio_04",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/fvwrite.c",
+      "upstream_path": "lib/libc/stdio/fvwrite.c",
+      "role": "selected_source",
+      "bytes": 5991,
+      "sha256": "984ae83c235f79001d459dd66d0e21ad7afa9a606d7e7e7cee0670bdc06696c4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/fvwrite.h",
+      "upstream_path": "lib/libc/stdio/fvwrite.h",
+      "role": "local_include_dependency",
+      "bytes": 2039,
+      "sha256": "927f8184408839838a61c5b4e2ea9f243a4840e41bbe6260e374f7790bddbc9b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/fwalk.c",
+      "upstream_path": "lib/libc/stdio/fwalk.c",
+      "role": "selected_source",
+      "bytes": 2557,
+      "sha256": "9587b2f720962ecf3ef0a29ddc1cb84632cdf7a7fc275b22af5045a2e2c76ada"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/fwide.c",
+      "upstream_path": "lib/libc/stdio/fwide.c",
+      "role": "selected_source",
+      "bytes": 1869,
+      "sha256": "f110acc9d53cb20fc33ba8f3ac1a1a4682107f0e8bf207b415a9e52f03656aa9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/fwprintf.c",
+      "upstream_path": "lib/libc/stdio/fwprintf.c",
+      "role": "selected_source",
+      "bytes": 2095,
+      "sha256": "5e5985744bb8dc9b35d1c96dfe7d0409ca49cb171bd4cda2ee044a6e1c371dfb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/fwrite.c",
+      "upstream_path": "lib/libc/stdio/fwrite.c",
+      "role": "selected_source",
+      "bytes": 3589,
+      "sha256": "83925dea011c20fcf2b7262b5cc88583de57d58af34ad61cec762ef29c29980b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/fwscanf.c",
+      "upstream_path": "lib/libc/stdio/fwscanf.c",
+      "role": "selected_source",
+      "bytes": 2079,
+      "sha256": "92ac5c2bf98e3179c06eb0dc25f24670285df77dba510b8e745cc825a3a5dd35"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/getc.c",
+      "upstream_path": "lib/libc/stdio/getc.c",
+      "role": "selected_source",
+      "bytes": 2341,
+      "sha256": "d621d214d93f09404f7427b5251e9aedab1d0a1d1a4f2af718163c9dc4955a3e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/getchar.c",
+      "upstream_path": "lib/libc/stdio/getchar.c",
+      "role": "selected_source",
+      "bytes": 2416,
+      "sha256": "e54f7e371c5f113f10dad1f46570a9eef204eea5b8e65e5be1b2da877ce6c2cc"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/getdelim.c",
+      "upstream_path": "lib/libc/stdio/getdelim.c",
+      "role": "selected_source",
+      "bytes": 4903,
+      "sha256": "a597fe235b64b0785754ba448acf5722efed57e4c61863fb34754c385fcb1623"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/getline.c",
+      "upstream_path": "lib/libc/stdio/getline.c",
+      "role": "selected_source",
+      "bytes": 1622,
+      "sha256": "2a89a5a654b06c384b5af21f099234eb369a36daa1b55572e319899469f5e3c8"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/gets.c",
+      "upstream_path": "lib/libc/stdio/gets.c",
+      "role": "selected_source",
+      "bytes": 2646,
+      "sha256": "d0a94c08acf63a62b140bb55fe5dfed80b4f0d54f4ae42bbb510e6c3d06c6dda"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/gets_s.c",
+      "upstream_path": "lib/libc/stdio/gets_s.c",
+      "role": "selected_source",
+      "bytes": 3150,
+      "sha256": "35b13993ed75514b7ed54e5ebadb0d47295a29898e6fffa9732fb6266329c79e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/glue.h",
+      "upstream_path": "lib/libc/stdio/glue.h",
+      "role": "local_include_dependency",
+      "bytes": 2030,
+      "sha256": "e097f85706430e2ee81145cb2f8cdbd85765cb482e9b978db91b4917b7430b10"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_04/local.h",
+      "upstream_path": "lib/libc/stdio/local.h",
+      "role": "local_include_dependency",
+      "bytes": 5727,
+      "sha256": "d8af4c0af32a8d98d5a7ebd6172365be1d3a37507c235cbad523420f7072c657"
+    }
+  ]
+}

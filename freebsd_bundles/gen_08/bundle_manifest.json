@@ -1,0 +1,115 @@
+{
+  "queue_id": 9,
+  "name": "gen_08",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_08",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_08/gen-compat.h",
+      "upstream_path": "lib/libc/gen/gen-compat.h",
+      "role": "local_include_dependency",
+      "bytes": 2442,
+      "sha256": "de7690e2df9fd065fc8c163d72428335adccdaca9610cfca73ae99536a724d84"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/getvfsbyname.c",
+      "upstream_path": "lib/libc/gen/getvfsbyname.c",
+      "role": "selected_source",
+      "bytes": 3236,
+      "sha256": "e882426b50d1a1a2e2937c4dc1cb6f34a197984d2a189f5b83f6354a30a45622"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/glob-compat11.c",
+      "upstream_path": "lib/libc/gen/glob-compat11.c",
+      "role": "selected_source",
+      "bytes": 27305,
+      "sha256": "dfed29f633ca7b822f11a8f81991159238e994ebf8d3da44179d3b45fede33f0"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/glob-compat11.h",
+      "upstream_path": "lib/libc/gen/glob-compat11.h",
+      "role": "local_include_dependency",
+      "bytes": 2882,
+      "sha256": "1892989cb12d23932fb77808c0bf77611055296233f99cba6d8f90197755194d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/glob.c",
+      "upstream_path": "lib/libc/gen/glob.c",
+      "role": "selected_source",
+      "bytes": 28178,
+      "sha256": "100e2180738226234e8fc109174b12a530f1d307fc3a3cf014abbc7448078fcb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/initgroups.c",
+      "upstream_path": "lib/libc/gen/initgroups.c",
+      "role": "selected_source",
+      "bytes": 2431,
+      "sha256": "e18480fa8c67cc8eed601ff9010e67e40fd3588b81f0d63eb2b7fec9af87ea2d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/isatty.c",
+      "upstream_path": "lib/libc/gen/isatty.c",
+      "role": "selected_source",
+      "bytes": 1908,
+      "sha256": "39e6cc36b05a3c84652b95e68392600b4a5ed7f2a3d3d7a36fb922340a40ebbe"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/isinf.c",
+      "upstream_path": "lib/libc/gen/isinf.c",
+      "role": "selected_source",
+      "bytes": 2235,
+      "sha256": "4ca735981f0201e273e6116ac434bee11364872c5a222510cc965899ed0fbd9a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/isnan.c",
+      "upstream_path": "lib/libc/gen/isnan.c",
+      "role": "selected_source",
+      "bytes": 2461,
+      "sha256": "50ef8b6ea863cc7ff94298b786050914cc5607cedd58a195fc1db2269a54ecb9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/jrand48.c",
+      "upstream_path": "lib/libc/gen/jrand48.c",
+      "role": "selected_source",
+      "bytes": 639,
+      "sha256": "c260693ff120419f45bfc7b0bcfa0f56f0c61750688dac9cb9c4033cc11267d3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/kqueue1.c",
+      "upstream_path": "lib/libc/gen/kqueue1.c",
+      "role": "selected_source",
+      "bytes": 1981,
+      "sha256": "dfece911f3cd1172facd8d6ec210d6b073b97e1b608bcf1c580208e4483bdafa"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/lcong48.c",
+      "upstream_path": "lib/libc/gen/lcong48.c",
+      "role": "selected_source",
+      "bytes": 815,
+      "sha256": "4a6542ff58e2d97948a6dfe0b7f59c7f5d3922a4c12233cd502ceb3252d75c40"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/ldexp.c",
+      "upstream_path": "lib/libc/gen/ldexp.c",
+      "role": "selected_source",
+      "bytes": 197,
+      "sha256": "e0f7a3ba4bc3ce07a818ea05ec5a861149f1c3ab4fff3aaf6faf5deff239fc8e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/libc_dlopen.c",
+      "upstream_path": "lib/libc/gen/libc_dlopen.c",
+      "role": "selected_source",
+      "bytes": 1905,
+      "sha256": "44d99b787bc9420751150f1c3d8a9446efa2ebb966724e4db12a2713708461ff"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_08/rand48.h",
+      "upstream_path": "lib/libc/gen/rand48.h",
+      "role": "local_include_dependency",
+      "bytes": 825,
+      "sha256": "81cfb890e5031844543f80ff14259bceb75e0130c1a57751f884ec8f3dad5802"
+    }
+  ]
+}

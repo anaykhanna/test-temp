@@ -1,0 +1,115 @@
+{
+  "queue_id": 8,
+  "name": "gen_07",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_07",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_07/gen-compat.h",
+      "upstream_path": "lib/libc/gen/gen-compat.h",
+      "role": "local_include_dependency",
+      "bytes": 2442,
+      "sha256": "de7690e2df9fd065fc8c163d72428335adccdaca9610cfca73ae99536a724d84"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getmntinfo-compat11.c",
+      "upstream_path": "lib/libc/gen/getmntinfo-compat11.c",
+      "role": "selected_source",
+      "bytes": 2690,
+      "sha256": "fab7651c8adc72717875e53a6f3eb7fa618d3300b5289006c72567cfe681cc7a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getmntinfo.c",
+      "upstream_path": "lib/libc/gen/getmntinfo.c",
+      "role": "selected_source",
+      "bytes": 2680,
+      "sha256": "6028641f84ce1ab55cd666a3d349bd237dc7005f26ebe9b9bfa8e5597e48c30e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getnetgrent.c",
+      "upstream_path": "lib/libc/gen/getnetgrent.c",
+      "role": "selected_source",
+      "bytes": 26447,
+      "sha256": "fce4d9ad0926239e8c9e22abb787a6ae245a2bea0447793d9f96a8ac23faec6f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getosreldate.c",
+      "upstream_path": "lib/libc/gen/getosreldate.c",
+      "role": "selected_source",
+      "bytes": 2174,
+      "sha256": "365f9a9ac9d7277be6c727f5e159a6155a2a793c9798e26fa266ffe314653544"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getpagesize.c",
+      "upstream_path": "lib/libc/gen/getpagesize.c",
+      "role": "selected_source",
+      "bytes": 2566,
+      "sha256": "5306bbb25080e4bac66ab904747deec15817484a87c132f23cf83817aecc0d0d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getpagesizes.c",
+      "upstream_path": "lib/libc/gen/getpagesizes.c",
+      "role": "selected_source",
+      "bytes": 3089,
+      "sha256": "69b60562ad75192b46b481ce265dd5faa62c21c8c334f07a10a826be8817ecba"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getpeereid.c",
+      "upstream_path": "lib/libc/gen/getpeereid.c",
+      "role": "selected_source",
+      "bytes": 1998,
+      "sha256": "48ea70bb46098672777363ada68e2af2b90820344e8866f2b1db1d2d1f2b6870"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getprogname.c",
+      "upstream_path": "lib/libc/gen/getprogname.c",
+      "role": "selected_source",
+      "bytes": 216,
+      "sha256": "cbc67b6c7f12f1b41f1858edff2485760565172e9e53001af19860ea127d2185"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getpwent.c",
+      "upstream_path": "lib/libc/gen/getpwent.c",
+      "role": "selected_source",
+      "bytes": 47783,
+      "sha256": "51121dbe2263b306c509d53fb23ab6478e78138f593ee56953af834c0cf937af"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getttyent.c",
+      "upstream_path": "lib/libc/gen/getttyent.c",
+      "role": "selected_source",
+      "bytes": 7147,
+      "sha256": "d2e459cfd8d35053313f236f97c4633c07edb32d94094c1a065a1751f4af5fea"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getusershell.c",
+      "upstream_path": "lib/libc/gen/getusershell.c",
+      "role": "selected_source",
+      "bytes": 6110,
+      "sha256": "8dcedb38e17eb8450916b07ef2a47caf788b6a6e5242d390700055fc4826db88"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/getutxent.c",
+      "upstream_path": "lib/libc/gen/getutxent.c",
+      "role": "selected_source",
+      "bytes": 5192,
+      "sha256": "22e9f8c01d79df5a68852f1c4612d76c9fcb1ac8baf52edf448a5d586e4e56bb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/pw_scan.h",
+      "upstream_path": "lib/libc/gen/pw_scan.h",
+      "role": "local_include_dependency",
+      "bytes": 1866,
+      "sha256": "c58612ebb1908e1973040aaf4c9447b3c0266059efb5bd32b4f0aa37f67314a7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_07/utxdb.h",
+      "upstream_path": "lib/libc/gen/utxdb.h",
+      "role": "local_include_dependency",
+      "bytes": 2292,
+      "sha256": "1df33fe678f78e4299677c8bd4f7309fd6690833a07802c6897691ba912a3b7f"
+    }
+  ]
+}

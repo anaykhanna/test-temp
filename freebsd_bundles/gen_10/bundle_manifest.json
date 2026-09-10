@@ -1,0 +1,129 @@
+{
+  "queue_id": 11,
+  "name": "gen_10",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_10",
+  "selected_c_files": 12,
+  "included_dependency_files": 5,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_10/gen-compat.h",
+      "upstream_path": "lib/libc/gen/gen-compat.h",
+      "role": "local_include_dependency",
+      "bytes": 2442,
+      "sha256": "de7690e2df9fd065fc8c163d72428335adccdaca9610cfca73ae99536a724d84"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/gen-private.h",
+      "upstream_path": "lib/libc/gen/gen-private.h",
+      "role": "local_include_dependency",
+      "bytes": 2758,
+      "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/opendir2.c",
+      "upstream_path": "lib/libc/gen/opendir2.c",
+      "role": "selected_source",
+      "bytes": 8592,
+      "sha256": "223dddc939fffa6d87f23a71b7c99f4b6773dc1d9171ba6f07e53b3bc4928f96"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/pause.c",
+      "upstream_path": "lib/libc/gen/pause.c",
+      "role": "selected_source",
+      "bytes": 2092,
+      "sha256": "3d1af77d8f20668f8969d68bd71fbe0142bca26835556a21efd0ca687d0ed23d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/pmadvise.c",
+      "upstream_path": "lib/libc/gen/pmadvise.c",
+      "role": "selected_source",
+      "bytes": 401,
+      "sha256": "aca9dba17764c94dd086ff207fe9f67f09f3114e6e0855875cadfd329505fe16"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/popen.c",
+      "upstream_path": "lib/libc/gen/popen.c",
+      "role": "selected_source",
+      "bytes": 6297,
+      "sha256": "f53dc8d1b89d98d89cced8e56005eba3843dc3ae362823d345503f6ccf10796b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/posix_spawn.c",
+      "upstream_path": "lib/libc/gen/posix_spawn.c",
+      "role": "selected_source",
+      "bytes": 17336,
+      "sha256": "5071a65f6d43bb8b534c1c9ad60ef8a15387572d0e25e18be2f2ebeda5c37c69"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/psignal.c",
+      "upstream_path": "lib/libc/gen/psignal.c",
+      "role": "selected_source",
+      "bytes": 2398,
+      "sha256": "f674398a2cd2e5f8378e0b528467a9569e2c5b0fb7d718ca415287564cdb753f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/pututxline.c",
+      "upstream_path": "lib/libc/gen/pututxline.c",
+      "role": "selected_source",
+      "bytes": 7798,
+      "sha256": "48f60087d043aa6ee1d4282d38c3159e0d48221f4a79c7934c31146e3f3fa503"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/pw_scan.c",
+      "upstream_path": "lib/libc/gen/pw_scan.c",
+      "role": "selected_source",
+      "bytes": 6647,
+      "sha256": "24497f14b66d22f76787acfb83cc0e7e0d0c7f05b4d081b6824bd18ee5cb074e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/pw_scan.h",
+      "upstream_path": "lib/libc/gen/pw_scan.h",
+      "role": "local_include_dependency",
+      "bytes": 1866,
+      "sha256": "c58612ebb1908e1973040aaf4c9447b3c0266059efb5bd32b4f0aa37f67314a7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/raise.c",
+      "upstream_path": "lib/libc/gen/raise.c",
+      "role": "selected_source",
+      "bytes": 2031,
+      "sha256": "3ecb71cc9cab0709d85726a77840e28cf91fbefafa11966f517ecda04eb78faa"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/readdir-compat11.c",
+      "upstream_path": "lib/libc/gen/readdir-compat11.c",
+      "role": "selected_source",
+      "bytes": 3786,
+      "sha256": "ecf5cc720f67d01894738da9b4f7c08af4082ccc7c7fbbfc5e2477a92ee73033"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/readdir.c",
+      "upstream_path": "lib/libc/gen/readdir.c",
+      "role": "selected_source",
+      "bytes": 4116,
+      "sha256": "22ea91fe3e706a792eb11b9840bd8ca1ea4f60d3c69f005f4eea47322a340702"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/readpassphrase.c",
+      "upstream_path": "lib/libc/gen/readpassphrase.c",
+      "role": "selected_source",
+      "bytes": 5936,
+      "sha256": "25c96f5cd8b04da38ede4e9791c54cc014eb70944fe1bb90a528d9868dbb83d2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/telldir.h",
+      "upstream_path": "lib/libc/gen/telldir.h",
+      "role": "local_include_dependency",
+      "bytes": 4069,
+      "sha256": "85be32d109b0f65b86974a97ab2cb4f72fe9dbaf7203cdf447e7a6bfa1d4e8ac"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_10/utxdb.h",
+      "upstream_path": "lib/libc/gen/utxdb.h",
+      "role": "local_include_dependency",
+      "bytes": 2292,
+      "sha256": "1df33fe678f78e4299677c8bd4f7309fd6690833a07802c6897691ba912a3b7f"
+    }
+  ]
+}

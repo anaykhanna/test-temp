@@ -1,0 +1,122 @@
+{
+  "queue_id": 52,
+  "name": "math_04",
+  "module": "math",
+  "subpath": "freebsd_bundles/math_04",
+  "selected_c_files": 12,
+  "included_dependency_files": 4,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_j1f.c",
+      "upstream_path": "lib/msun/src/e_j1f.c",
+      "role": "selected_source",
+      "bytes": 10470,
+      "sha256": "1f29f1159e24124267cf12453fc3f21ab098855a5dd612df4f0dde1e1d9e6412"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_jn.c",
+      "upstream_path": "lib/msun/src/e_jn.c",
+      "role": "selected_source",
+      "bytes": 7342,
+      "sha256": "d29c4dc3f6f2e44df79f686042b77f931a4cb20316296349c747451017b35ee1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_jnf.c",
+      "upstream_path": "lib/msun/src/e_jnf.c",
+      "role": "selected_source",
+      "bytes": 4890,
+      "sha256": "306b19332436c2200da44b41b4914bc06a9d37cd9ad106040e8d5e67e26b387e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_lgamma.c",
+      "upstream_path": "lib/msun/src/e_lgamma.c",
+      "role": "selected_source",
+      "bytes": 768,
+      "sha256": "95c9c3950472b2b5ac18b19ea7d0489332a3da4119847bdc408a778ef5e2c396"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_lgamma_r.c",
+      "upstream_path": "lib/msun/src/e_lgamma_r.c",
+      "role": "selected_source",
+      "bytes": 11134,
+      "sha256": "6070f2ba7936f6876b60d308f4c496df89e1fa593895c5cdf7ae7a5ee1b21fed"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_lgammaf.c",
+      "upstream_path": "lib/msun/src/e_lgammaf.c",
+      "role": "selected_source",
+      "bytes": 764,
+      "sha256": "f260121dd472b84999e0288257f9b8c0e2952465aa4a0f6ca5dc6de33ab8b713"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_lgammaf_r.c",
+      "upstream_path": "lib/msun/src/e_lgammaf_r.c",
+      "role": "selected_source",
+      "bytes": 6053,
+      "sha256": "e4ac4771520fc147e2bb8d0634303cc255b059c7493dd4d55a23a433c19d5044"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_lgammal.c",
+      "upstream_path": "lib/msun/src/e_lgammal.c",
+      "role": "selected_source",
+      "bytes": 574,
+      "sha256": "581261c8699b8194e69fbabd4fb7c5622211666cc91a7af7cbf0ed3464288635"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_log.c",
+      "upstream_path": "lib/msun/src/e_log.c",
+      "role": "selected_source",
+      "bytes": 4606,
+      "sha256": "e9548bb67359635633cc8744a1618a6f6d156163077395ec02270df3c2f47a8d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_log10.c",
+      "upstream_path": "lib/msun/src/e_log10.c",
+      "role": "selected_source",
+      "bytes": 2599,
+      "sha256": "8a0fca66748949c02a3906adbc6cc89a1780780e71c54f62afcc77db4db8e92f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_log10f.c",
+      "upstream_path": "lib/msun/src/e_log10f.c",
+      "role": "selected_source",
+      "bytes": 1986,
+      "sha256": "c9fbb9e6d42ca115413fa0d1233505b2646973a6520820d07383b208431d79d1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/e_log2.c",
+      "upstream_path": "lib/msun/src/e_log2.c",
+      "role": "selected_source",
+      "bytes": 3782,
+      "sha256": "485093c2763847879245c3c6c76035daf559552b67e0c488dbafdb803f1ce2db"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/k_log.h",
+      "upstream_path": "lib/msun/src/k_log.h",
+      "role": "local_include_dependency",
+      "bytes": 3466,
+      "sha256": "60c725dcafb2decb957d0111c17f772a65cf1beaacba002a29d789be8d9bacf5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/k_logf.h",
+      "upstream_path": "lib/msun/src/k_logf.h",
+      "role": "local_include_dependency",
+      "bytes": 981,
+      "sha256": "d8be23d0f077c833fc66a02a020b264f260b24e128c658f45c9e905e301a8c84"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/math.h",
+      "upstream_path": "lib/msun/src/math.h",
+      "role": "local_include_dependency",
+      "bytes": 14623,
+      "sha256": "87bec43e9642243de91c3fc55c703bc10b84d57553761ed8caeceb0c82cbc15b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_04/math_private.h",
+      "upstream_path": "lib/msun/src/math_private.h",
+      "role": "local_include_dependency",
+      "bytes": 22733,
+      "sha256": "697e8edc2aac87432dcfa7a284fa1cc291558a1b7d14581da70d18d1524ad19c"
+    }
+  ]
+}

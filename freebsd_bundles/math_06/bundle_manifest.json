@@ -1,0 +1,108 @@
+{
+  "queue_id": 54,
+  "name": "math_06",
+  "module": "math",
+  "subpath": "freebsd_bundles/math_06",
+  "selected_c_files": 12,
+  "included_dependency_files": 2,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/math_06/e_sinhf.c",
+      "upstream_path": "lib/msun/src/e_sinhf.c",
+      "role": "selected_source",
+      "bytes": 1452,
+      "sha256": "0f13cb17aabfd5f9390be517bc946ed4e0b54f02df98f101c5333d202241fed1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/e_sinhl.c",
+      "upstream_path": "lib/msun/src/e_sinhl.c",
+      "role": "selected_source",
+      "bytes": 4302,
+      "sha256": "e26ae1a7f5e002783612ad5a993f336e5f01238479f2015cbfc23472932ee651"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/e_sqrt.c",
+      "upstream_path": "lib/msun/src/e_sqrt.c",
+      "role": "selected_source",
+      "bytes": 14937,
+      "sha256": "998dc592a3d1a8691580e2fb724db64f179bc66a83849e275b9c15b024622dc8"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/e_sqrtf.c",
+      "upstream_path": "lib/msun/src/e_sqrtf.c",
+      "role": "selected_source",
+      "bytes": 2077,
+      "sha256": "6d4d83d32d64e897c54b952833cb3e0849f7f50c6f6b13cb3d4a12f1886cff01"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/e_sqrtl.c",
+      "upstream_path": "lib/msun/src/e_sqrtl.c",
+      "role": "selected_source",
+      "bytes": 4485,
+      "sha256": "1fb89139898a16e46e28acd3951ff4463fe2fd57b057ad28f4c8b200f0c06511"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/k_cos.c",
+      "upstream_path": "lib/msun/src/k_cos.c",
+      "role": "selected_source",
+      "bytes": 2840,
+      "sha256": "b4a1330cab9d3735ed25894e868d09a3a0ff638234a3b5c8eaea1e7526981d43"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/k_cosf.c",
+      "upstream_path": "lib/msun/src/k_cosf.c",
+      "role": "selected_source",
+      "bytes": 1220,
+      "sha256": "c6a6d3944be70906888925652b83862454d43bef8abdaa181f5b1cc382925ca6"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/k_exp.c",
+      "upstream_path": "lib/msun/src/k_exp.c",
+      "role": "selected_source",
+      "bytes": 3689,
+      "sha256": "8eefa1a6ef3575b6b932ab4a1f4d7acf14fb2b52d138d4d7ff51869869a862c8"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/k_expf.c",
+      "upstream_path": "lib/msun/src/k_expf.c",
+      "role": "selected_source",
+      "bytes": 2763,
+      "sha256": "e70653fd3c1de9406239038ef0e071a7e34b03f6e1d733bf32236e1e6970f16c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/k_rem_pio2.c",
+      "upstream_path": "lib/msun/src/k_rem_pio2.c",
+      "role": "selected_source",
+      "bytes": 16275,
+      "sha256": "e6c3bd88bc151fc8b34e2f6bf4137294d7da045e9103b8636003c5b6b9de7a57"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/k_sin.c",
+      "upstream_path": "lib/msun/src/k_sin.c",
+      "role": "selected_source",
+      "bytes": 2341,
+      "sha256": "2acbc9914ad8a0d30e43b6d95ea63ac5060891226ec6113fe8dbf3de4b03e3ec"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/k_sinf.c",
+      "upstream_path": "lib/msun/src/k_sinf.c",
+      "role": "selected_source",
+      "bytes": 1203,
+      "sha256": "d9b5cb150c3c3e3015ae7b01e7a2ed7a60b5965e956d8ce80abde56d7d97019d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/math.h",
+      "upstream_path": "lib/msun/src/math.h",
+      "role": "local_include_dependency",
+      "bytes": 14623,
+      "sha256": "87bec43e9642243de91c3fc55c703bc10b84d57553761ed8caeceb0c82cbc15b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_06/math_private.h",
+      "upstream_path": "lib/msun/src/math_private.h",
+      "role": "local_include_dependency",
+      "bytes": 22733,
+      "sha256": "697e8edc2aac87432dcfa7a284fa1cc291558a1b7d14581da70d18d1524ad19c"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "queue_id": 66,
+  "name": "math_18",
+  "module": "math",
+  "subpath": "freebsd_bundles/math_18",
+  "selected_c_files": 12,
+  "included_dependency_files": 12,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/math_18/e_rem_pio2.c",
+      "upstream_path": "lib/msun/src/e_rem_pio2.c",
+      "role": "local_include_dependency",
+      "bytes": 4944,
+      "sha256": "121585174f9b90e973544157162e6f4ea85a11ff522dde080effa3470dd7a152"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/e_rem_pio2f.c",
+      "upstream_path": "lib/msun/src/e_rem_pio2f.c",
+      "role": "local_include_dependency",
+      "bytes": 2039,
+      "sha256": "537fe7dbc5333db6343dbd402762c52896a2beb7d9e46ecc84a32f8180113d18"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/k_cosf.c",
+      "upstream_path": "lib/msun/src/k_cosf.c",
+      "role": "local_include_dependency",
+      "bytes": 1220,
+      "sha256": "c6a6d3944be70906888925652b83862454d43bef8abdaa181f5b1cc382925ca6"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/k_cospi.h",
+      "upstream_path": "lib/msun/src/k_cospi.h",
+      "role": "local_include_dependency",
+      "bytes": 1727,
+      "sha256": "47c0adfa1ddd0809fea59692115644e4483d5b54d439c02059ca1f4a43d5ee9c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/k_sincos.h",
+      "upstream_path": "lib/msun/src/k_sincos.h",
+      "role": "local_include_dependency",
+      "bytes": 1747,
+      "sha256": "6864591030fc420b8b295b0cfd90de4a31998ac246cd2fee7eeb291411f42a2e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/k_sincosf.h",
+      "upstream_path": "lib/msun/src/k_sincosf.h",
+      "role": "local_include_dependency",
+      "bytes": 1404,
+      "sha256": "ff5f66877bc8980ff86325ffc2c0b0580a496c6ea1276603df7abd4a9cfcbad9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/k_sincosl.h",
+      "upstream_path": "lib/msun/src/k_sincosl.h",
+      "role": "local_include_dependency",
+      "bytes": 5058,
+      "sha256": "d96d703411d7cb038b383d780e92c1ef9e7cb97b36afab03691fe862019d1126"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/k_sinf.c",
+      "upstream_path": "lib/msun/src/k_sinf.c",
+      "role": "local_include_dependency",
+      "bytes": 1203,
+      "sha256": "d9b5cb150c3c3e3015ae7b01e7a2ed7a60b5965e956d8ce80abde56d7d97019d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/k_sinpi.h",
+      "upstream_path": "lib/msun/src/k_sinpi.h",
+      "role": "local_include_dependency",
+      "bytes": 1728,
+      "sha256": "bb9e32b62bcfe75e573c55fda24a679dc585d2b87dfc044259be8bf5d475d66f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/k_tanf.c",
+      "upstream_path": "lib/msun/src/k_tanf.c",
+      "role": "local_include_dependency",
+      "bytes": 1998,
+      "sha256": "1efc2c83afbe52432f23af10db1532d2ab5dcd9f48651aaade51ef36ce2ca01f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/math.h",
+      "upstream_path": "lib/msun/src/math.h",
+      "role": "local_include_dependency",
+      "bytes": 14623,
+      "sha256": "87bec43e9642243de91c3fc55c703bc10b84d57553761ed8caeceb0c82cbc15b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/math_private.h",
+      "upstream_path": "lib/msun/src/math_private.h",
+      "role": "local_include_dependency",
+      "bytes": 22733,
+      "sha256": "697e8edc2aac87432dcfa7a284fa1cc291558a1b7d14581da70d18d1524ad19c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_sincos.c",
+      "upstream_path": "lib/msun/src/s_sincos.c",
+      "role": "selected_source",
+      "bytes": 1666,
+      "sha256": "97167d5383babc326650a1a24079a32fcdbb114697133773ef6d489c8a6b5639"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_sincosf.c",
+      "upstream_path": "lib/msun/src/s_sincosf.c",
+      "role": "selected_source",
+      "bytes": 2709,
+      "sha256": "cbf4d8bb7f148ae96118fb16fc0b57a6e0a899dc06a485557d8b7b44e86aa4eb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_sincosl.c",
+      "upstream_path": "lib/msun/src/s_sincosl.c",
+      "role": "selected_source",
+      "bytes": 2768,
+      "sha256": "ef88a970949ac07442fb4214b92d81722b502e0557a2c0d12ba76447a463bc44"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_sinf.c",
+      "upstream_path": "lib/msun/src/s_sinf.c",
+      "role": "selected_source",
+      "bytes": 2263,
+      "sha256": "8c5bd80e8147ad1c3f8677e0543201e89bd75cda11c7b8fce0acc0be1fd58895"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_sinl.c",
+      "upstream_path": "lib/msun/src/s_sinl.c",
+      "role": "selected_source",
+      "bytes": 2587,
+      "sha256": "4523e9ccf1361e434fdd92299ce82a092bde7c81e9c1e7bafc2d36d927399476"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_sinpi.c",
+      "upstream_path": "lib/msun/src/s_sinpi.c",
+      "role": "selected_source",
+      "bytes": 5302,
+      "sha256": "c932e61bc1c598e06cd0653cd5bfcef449cc49a075b9c50c2bedebce49c3607d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_sinpif.c",
+      "upstream_path": "lib/msun/src/s_sinpif.c",
+      "role": "selected_source",
+      "bytes": 3454,
+      "sha256": "92c4a360cc709dfc798566fe5d15902f5318155dc30478377da109b2841831a1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_tan.c",
+      "upstream_path": "lib/msun/src/s_tan.c",
+      "role": "selected_source",
+      "bytes": 2102,
+      "sha256": "3940544645790fa4532e924d817de6e278ef3f19b74780c0ec1d026e950e61c7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_tanf.c",
+      "upstream_path": "lib/msun/src/s_tanf.c",
+      "role": "selected_source",
+      "bytes": 2038,
+      "sha256": "11af94a8ad7976359566fc6a9c229af08f1e30f53ded89fc88f0165df0449166"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_tanh.c",
+      "upstream_path": "lib/msun/src/s_tanh.c",
+      "role": "selected_source",
+      "bytes": 2107,
+      "sha256": "a7cb536144fcff6e1dfe3b371c88104f8e242d9e6efe010f304289fb82db8eee"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_tanhf.c",
+      "upstream_path": "lib/msun/src/s_tanhf.c",
+      "role": "selected_source",
+      "bytes": 1429,
+      "sha256": "e3f997418dabd11798aeeceee53f2f49d4f548b690e2a1f09b5e387d156707cd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_18/s_tanhl.c",
+      "upstream_path": "lib/msun/src/s_tanhl.c",
+      "role": "selected_source",
+      "bytes": 5338,
+      "sha256": "9fcd9a9e291a72bcff865a96fc84496f12371cb8f032cba1c0acc9e8ab607c6c"
+    }
+  ]
+}

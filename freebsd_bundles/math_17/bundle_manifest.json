@@ -1,0 +1,115 @@
+{
+  "queue_id": 65,
+  "name": "math_17",
+  "module": "math",
+  "subpath": "freebsd_bundles/math_17",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/math_17/e_rem_pio2.c",
+      "upstream_path": "lib/msun/src/e_rem_pio2.c",
+      "role": "local_include_dependency",
+      "bytes": 4944,
+      "sha256": "121585174f9b90e973544157162e6f4ea85a11ff522dde080effa3470dd7a152"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/math.h",
+      "upstream_path": "lib/msun/src/math.h",
+      "role": "local_include_dependency",
+      "bytes": 14623,
+      "sha256": "87bec43e9642243de91c3fc55c703bc10b84d57553761ed8caeceb0c82cbc15b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/math_private.h",
+      "upstream_path": "lib/msun/src/math_private.h",
+      "role": "local_include_dependency",
+      "bytes": 22733,
+      "sha256": "697e8edc2aac87432dcfa7a284fa1cc291558a1b7d14581da70d18d1524ad19c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_round.c",
+      "upstream_path": "lib/msun/src/s_round.c",
+      "role": "selected_source",
+      "bytes": 1874,
+      "sha256": "332de83618aa2cbeafeab4d6b9ab6dadcbee2cd689197f4debb73bd6473cd553"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_roundf.c",
+      "upstream_path": "lib/msun/src/s_roundf.c",
+      "role": "selected_source",
+      "bytes": 1784,
+      "sha256": "85d59d45ef9b61fe96a18d2b23c390248cc5bb7f8bf781ecedba2153df04280c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_roundl.c",
+      "upstream_path": "lib/msun/src/s_roundl.c",
+      "role": "selected_source",
+      "bytes": 1895,
+      "sha256": "346c00202cdeff0f9dbb74cefaa84a362586c6b7a96241f15309f25618db2c58"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_scalbln.c",
+      "upstream_path": "lib/msun/src/s_scalbln.c",
+      "role": "selected_source",
+      "bytes": 1865,
+      "sha256": "24a14bda65d9ba8267d225c05d60cae3ef17689e1e6916a222b2ba1899104777"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_scalbn.c",
+      "upstream_path": "lib/msun/src/s_scalbn.c",
+      "role": "selected_source",
+      "bytes": 955,
+      "sha256": "39452e5b94097708873d8fe07c1d312d209674dac19491176b5ec2afd34dc797"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_scalbnf.c",
+      "upstream_path": "lib/msun/src/s_scalbnf.c",
+      "role": "selected_source",
+      "bytes": 746,
+      "sha256": "94b405b54f8bf0fbddc6364cec70b4bd3baae527fa624f19be327c48840d85c9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_scalbnl.c",
+      "upstream_path": "lib/msun/src/s_scalbnl.c",
+      "role": "selected_source",
+      "bytes": 1093,
+      "sha256": "ec16991db9d578a5dacbc1729eac405135b73df2716d59ef31b46c85674c81d4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_signbit.c",
+      "upstream_path": "lib/msun/src/s_signbit.c",
+      "role": "selected_source",
+      "bytes": 1774,
+      "sha256": "02f068f67379947ae146b518377b30695e678a8305b59358d17b393349d57aeb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_signgam.c",
+      "upstream_path": "lib/msun/src/s_signgam.c",
+      "role": "selected_source",
+      "bytes": 64,
+      "sha256": "ce3aae41e1ce584ad0719d5a30d64877e75fc9343d17c315fbc9623eab1b8816"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_significand.c",
+      "upstream_path": "lib/msun/src/s_significand.c",
+      "role": "selected_source",
+      "bytes": 696,
+      "sha256": "0b9306d4181b6d201146a54551bf7bcc784f5668dcecd3e22149ad8fc336bd11"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_significandf.c",
+      "upstream_path": "lib/msun/src/s_significandf.c",
+      "role": "selected_source",
+      "bytes": 657,
+      "sha256": "ede5d2296210630c8705723380a405b7b85259b4047c4aff06b5cab9f02979a2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_17/s_sin.c",
+      "upstream_path": "lib/msun/src/s_sin.c",
+      "role": "selected_source",
+      "bytes": 2268,
+      "sha256": "0b502fb2aae432963d130f7de86eaf4a1c7cdd0924ec61d5c62efce366287a44"
+    }
+  ]
+}

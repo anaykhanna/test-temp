@@ -1,0 +1,115 @@
+{
+  "queue_id": 14,
+  "name": "gen_13",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_13",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_13/gen-private.h",
+      "upstream_path": "lib/libc/gen/gen-private.h",
+      "role": "local_include_dependency",
+      "bytes": 2758,
+      "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/rand48.h",
+      "upstream_path": "lib/libc/gen/rand48.h",
+      "role": "local_include_dependency",
+      "bytes": 825,
+      "sha256": "81cfb890e5031844543f80ff14259bceb75e0130c1a57751f884ec8f3dad5802"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/sleep.c",
+      "upstream_path": "lib/libc/gen/sleep.c",
+      "role": "selected_source",
+      "bytes": 2720,
+      "sha256": "8baa4deee5406a37cc331400db44f1549226fc2370012d03be846eaa6b8fc7e3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/srand48.c",
+      "upstream_path": "lib/libc/gen/srand48.c",
+      "role": "selected_source",
+      "bytes": 889,
+      "sha256": "675b47b28ffcb746703455d4a844c794bfa7819b0ac81f42b7e2da7b5f61fe3a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/statvfs.c",
+      "upstream_path": "lib/libc/gen/statvfs.c",
+      "role": "selected_source",
+      "bytes": 4020,
+      "sha256": "44a91b3b7889d688972474cd029839a71fb61200e4edd9c37e55e8f1b0a9c92d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/stringlist.c",
+      "upstream_path": "lib/libc/gen/stringlist.c",
+      "role": "selected_source",
+      "bytes": 2893,
+      "sha256": "85a7cc8af14f3cabc1741efa0b1088bdcbc5b7483a7a622f50c323ce753a57ab"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/strtofflags.c",
+      "upstream_path": "lib/libc/gen/strtofflags.c",
+      "role": "selected_source",
+      "bytes": 5033,
+      "sha256": "e1e9739a576bccb8cbb5b34ab802d5711256fd6fa7941bc70b34835dda656f63"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/sysconf.c",
+      "upstream_path": "lib/libc/gen/sysconf.c",
+      "role": "selected_source",
+      "bytes": 16590,
+      "sha256": "6bf410e6004ac93770af7996410e2dec9de5f39d1058e97ec1181f0668712c6e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/sysctl.c",
+      "upstream_path": "lib/libc/gen/sysctl.c",
+      "role": "selected_source",
+      "bytes": 5713,
+      "sha256": "23fd29e86d33b5a9811c84139b91fe6064fa0a0e5848c676871b9f74a9d592de"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/sysctlbyname.c",
+      "upstream_path": "lib/libc/gen/sysctlbyname.c",
+      "role": "selected_source",
+      "bytes": 2096,
+      "sha256": "d6817df8ff2cfddd7e03e3e570c64a7282671787efe5544e2fe6ecea86bc1e96"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/sysctlnametomib.c",
+      "upstream_path": "lib/libc/gen/sysctlnametomib.c",
+      "role": "selected_source",
+      "bytes": 2192,
+      "sha256": "a903935172ab261cc1b2cad7e96c3fd55427256068a36dc6f0e63c1231d67856"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/syslog.c",
+      "upstream_path": "lib/libc/gen/syslog.c",
+      "role": "selected_source",
+      "bytes": 13160,
+      "sha256": "ce94778589c9bd4976c33d56c96b46f00a0ec51aed10abb284573b164a550a85"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/telldir.c",
+      "upstream_path": "lib/libc/gen/telldir.c",
+      "role": "selected_source",
+      "bytes": 5939,
+      "sha256": "667448bf722417559b24e6bafbc4cffd94e89155aa081b70aeb7d52b1775fe72"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/telldir.h",
+      "upstream_path": "lib/libc/gen/telldir.h",
+      "role": "local_include_dependency",
+      "bytes": 4069,
+      "sha256": "85be32d109b0f65b86974a97ab2cb4f72fe9dbaf7203cdf447e7a6bfa1d4e8ac"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_13/termios.c",
+      "upstream_path": "lib/libc/gen/termios.c",
+      "role": "selected_source",
+      "bytes": 6026,
+      "sha256": "db7acda7bee444473ed9634a75734d4e994e5456d2c1b5f2558743f0d3f8bc60"
+    }
+  ]
+}

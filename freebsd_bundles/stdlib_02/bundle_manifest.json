@@ -1,0 +1,108 @@
+{
+  "queue_id": 35,
+  "name": "stdlib_02",
+  "module": "stdlib",
+  "subpath": "freebsd_bundles/stdlib_02",
+  "selected_c_files": 12,
+  "included_dependency_files": 2,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/atexit.h",
+      "upstream_path": "lib/libc/stdlib/atexit.h",
+      "role": "local_include_dependency",
+      "bytes": 1830,
+      "sha256": "5fc5d099a2a3c878096b6554b164fe69fdacd121126df1fbff3aa0eb0669eed2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/cxa_thread_atexit_impl.c",
+      "upstream_path": "lib/libc/stdlib/cxa_thread_atexit_impl.c",
+      "role": "selected_source",
+      "bytes": 4846,
+      "sha256": "5f3772f49b98db8555baa8a74fd9953459d79f6380ef58525d4619dc2ec8fffa"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/div.c",
+      "upstream_path": "lib/libc/stdlib/div.c",
+      "role": "selected_source",
+      "bytes": 3096,
+      "sha256": "4fc32718d74eb9d044522bbcbc72001fc7d453d07d6947f14143efb0915afa0a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/exit.c",
+      "upstream_path": "lib/libc/stdlib/exit.c",
+      "role": "selected_source",
+      "bytes": 3325,
+      "sha256": "3998c41993bda8e605bf0fd60888d91f858dec10385778f5e36102c2649c2a40"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/getenv.c",
+      "upstream_path": "lib/libc/stdlib/getenv.c",
+      "role": "selected_source",
+      "bytes": 18819,
+      "sha256": "5dcc7dd7f286b0318374cafd34d310ea36be02f2a7367f288972a225c23bbdea"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/getopt.c",
+      "upstream_path": "lib/libc/stdlib/getopt.c",
+      "role": "selected_source",
+      "bytes": 4409,
+      "sha256": "4b04b745a859c46c384c8c095a9d39f85c50eefc39d320f2b2d2d77dcbdfa45b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/getopt_long.c",
+      "upstream_path": "lib/libc/stdlib/getopt_long.c",
+      "role": "selected_source",
+      "bytes": 17363,
+      "sha256": "611164e3587e9104ff55d54e5a2465ddf7334370b5723be073cb16955a1fd228"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/getsubopt.c",
+      "upstream_path": "lib/libc/stdlib/getsubopt.c",
+      "role": "selected_source",
+      "bytes": 3256,
+      "sha256": "83c61ff73dea47318ff4685e57540132bc0fd1bda12e24c3fbe5af9b4cef7074"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/hcreate.c",
+      "upstream_path": "lib/libc/stdlib/hcreate.c",
+      "role": "selected_source",
+      "bytes": 2303,
+      "sha256": "acde58382eef2f5c3054ad99156cae1ef8b8310978e02ab32fd92b42e875c65e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/hcreate_r.c",
+      "upstream_path": "lib/libc/stdlib/hcreate_r.c",
+      "role": "selected_source",
+      "bytes": 2334,
+      "sha256": "2f8e80be82101a5121ba2f7d20de1cdf622be7892d8f58e2ae408059e093771f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/hdestroy_r.c",
+      "upstream_path": "lib/libc/stdlib/hdestroy_r.c",
+      "role": "selected_source",
+      "bytes": 1636,
+      "sha256": "5fdfcfd3591918f4ebbc82bfe0270d63bac1d325ddabe098f41ca7e2cdb38f38"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/heapsort.c",
+      "upstream_path": "lib/libc/stdlib/heapsort.c",
+      "role": "selected_source",
+      "bytes": 6941,
+      "sha256": "88c7eca144a846aec3892872f4d403f69cddb917f6ad5870286ddb5a0183e2f2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/heapsort_b.c",
+      "upstream_path": "lib/libc/stdlib/heapsort_b.c",
+      "role": "selected_source",
+      "bytes": 1429,
+      "sha256": "5f0cdbfabd41985f359161ef94fe5894f8224c64a51b8d9186da6e4e9da26fbc"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_02/hsearch.h",
+      "upstream_path": "lib/libc/stdlib/hsearch.h",
+      "role": "local_include_dependency",
+      "bytes": 1693,
+      "sha256": "d0cd6ebd1b2407fa56bd33b3784861321cdd862b844d7ddb53ee5da25b47ff77"
+    }
+  ]
+}

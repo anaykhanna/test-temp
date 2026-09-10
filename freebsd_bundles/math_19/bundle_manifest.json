@@ -1,0 +1,115 @@
+{
+  "queue_id": 67,
+  "name": "math_19",
+  "module": "math",
+  "subpath": "freebsd_bundles/math_19",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/math_19/k_tanf.c",
+      "upstream_path": "lib/msun/src/k_tanf.c",
+      "role": "local_include_dependency",
+      "bytes": 1998,
+      "sha256": "1efc2c83afbe52432f23af10db1532d2ab5dcd9f48651aaade51ef36ce2ca01f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/math.h",
+      "upstream_path": "lib/msun/src/math.h",
+      "role": "local_include_dependency",
+      "bytes": 14623,
+      "sha256": "87bec43e9642243de91c3fc55c703bc10b84d57553761ed8caeceb0c82cbc15b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/math_private.h",
+      "upstream_path": "lib/msun/src/math_private.h",
+      "role": "local_include_dependency",
+      "bytes": 22733,
+      "sha256": "697e8edc2aac87432dcfa7a284fa1cc291558a1b7d14581da70d18d1524ad19c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/s_tanl.c",
+      "upstream_path": "lib/msun/src/s_tanl.c",
+      "role": "selected_source",
+      "bytes": 2703,
+      "sha256": "380cfb3525f15b89383efc612b380af7aae971404fad4d41e58880424c41f220"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/s_tanpi.c",
+      "upstream_path": "lib/msun/src/s_tanpi.c",
+      "role": "selected_source",
+      "bytes": 5926,
+      "sha256": "1b35b8ab7067cc9a47256636a71f591a0e12943f9ae3223a52687d6fae2c9d6f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/s_tanpif.c",
+      "upstream_path": "lib/msun/src/s_tanpif.c",
+      "role": "selected_source",
+      "bytes": 3373,
+      "sha256": "39b8334bc54819d1a2a3a096a9c9057fd508053558baa039622c9663ee4ae4a5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/s_tgammaf.c",
+      "upstream_path": "lib/msun/src/s_tgammaf.c",
+      "role": "selected_source",
+      "bytes": 1775,
+      "sha256": "ddfc1aded7ecda1327c992d7c961f6c6f158702f1d1b8814dc5f4a7d7856d158"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/s_trunc.c",
+      "upstream_path": "lib/msun/src/s_trunc.c",
+      "role": "selected_source",
+      "bytes": 1555,
+      "sha256": "9cbc06689098cb27fa3e7ff17bd5abc92678154147a69bd5a4258133f8057901"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/s_truncf.c",
+      "upstream_path": "lib/msun/src/s_truncf.c",
+      "role": "selected_source",
+      "bytes": 1239,
+      "sha256": "2ac38eb6ab726f1d2adcf680e486b7e02ba2999bf5c7deac1022cf92cd04bcd1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/s_truncl.c",
+      "upstream_path": "lib/msun/src/s_truncl.c",
+      "role": "selected_source",
+      "bytes": 1664,
+      "sha256": "e38d20a331adba5570dcb7b2ba05b4180cdc47f438001d5fd10d6ec995868e46"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/w_cabs.c",
+      "upstream_path": "lib/msun/src/w_cabs.c",
+      "role": "selected_source",
+      "bytes": 338,
+      "sha256": "a4d27f39063b07714c21d1a2562638501b385ca183055958746b9d0be1ade288"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/w_cabsf.c",
+      "upstream_path": "lib/msun/src/w_cabsf.c",
+      "role": "selected_source",
+      "bytes": 284,
+      "sha256": "326ecf5ecad60d21a3cfcc88d0e775d515e2ffb7e3f8e9226fb160f8ad45ff5a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/w_cabsl.c",
+      "upstream_path": "lib/msun/src/w_cabsl.c",
+      "role": "selected_source",
+      "bytes": 327,
+      "sha256": "ee36e8b93992e827e1a858759719944961363d457d720c01878a492947297a53"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/w_drem.c",
+      "upstream_path": "lib/msun/src/w_drem.c",
+      "role": "selected_source",
+      "bytes": 225,
+      "sha256": "517e62263ed9b80dbcd4839564ed9338907e704001871d49907fae5faa28db37"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_19/w_dremf.c",
+      "upstream_path": "lib/msun/src/w_dremf.c",
+      "role": "selected_source",
+      "bytes": 253,
+      "sha256": "641c866d82f2e643d928afad512818ef1f3b405d16ec5db90f6a1a6707169283"
+    }
+  ]
+}

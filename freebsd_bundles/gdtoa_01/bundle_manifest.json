@@ -1,0 +1,59 @@
+{
+  "queue_id": 1,
+  "name": "gdtoa_01",
+  "module": "gdtoa",
+  "subpath": "freebsd_bundles/gdtoa_01",
+  "selected_c_files": 7,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gdtoa_01/_hdtoa.c",
+      "upstream_path": "lib/libc/gdtoa/_hdtoa.c",
+      "role": "selected_source",
+      "bytes": 4630,
+      "sha256": "8f45ce2705b11537452e1dcf1a1e706d638eed26fdbc2cdcc8dfa8a5f0bd48be"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gdtoa_01/_hldtoa.c",
+      "upstream_path": "lib/libc/gdtoa/_hldtoa.c",
+      "role": "selected_source",
+      "bytes": 4577,
+      "sha256": "2610ebe974f756141d61e58fa205b6b45072c3915b8d1f6c4e90734a58830aea"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gdtoa_01/_ldtoa.c",
+      "upstream_path": "lib/libc/gdtoa/_ldtoa.c",
+      "role": "selected_source",
+      "bytes": 3374,
+      "sha256": "0fa18e4ba7feb2fc27082f87f847ddeb77f5c3ba26f6669325255c8567f1d98b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gdtoa_01/glue.c",
+      "upstream_path": "lib/libc/gdtoa/glue.c",
+      "role": "selected_source",
+      "bytes": 216,
+      "sha256": "beb492c311643359b8ad88f730a4bfc6c5f808c158883c5541a8f49eca202794"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gdtoa_01/machdep_ldisd.c",
+      "upstream_path": "lib/libc/gdtoa/machdep_ldisd.c",
+      "role": "selected_source",
+      "bytes": 1967,
+      "sha256": "44a87bfd3128845e2b28dd7b8c9410fd4d93d3c07c0cab3b60a5978d5b2bc93c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gdtoa_01/machdep_ldisQ.c",
+      "upstream_path": "lib/libc/gdtoa/machdep_ldisQ.c",
+      "role": "selected_source",
+      "bytes": 2028,
+      "sha256": "61bc43643aad03e11432b896f6306d708f7bee30a4f65cd5373bd09c91f9218f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gdtoa_01/machdep_ldisx.c",
+      "upstream_path": "lib/libc/gdtoa/machdep_ldisx.c",
+      "role": "selected_source",
+      "bytes": 2041,
+      "sha256": "0505561d69ad6b8b6cdc33d805b3377dd90f46f63ec7ad20f4e9b35d52c95d7a"
+    }
+  ]
+}

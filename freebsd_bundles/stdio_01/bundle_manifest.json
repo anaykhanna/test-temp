@@ -1,0 +1,101 @@
+{
+  "queue_id": 24,
+  "name": "stdio_01",
+  "module": "stdio",
+  "subpath": "freebsd_bundles/stdio_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/_flock_stub.c",
+      "upstream_path": "lib/libc/stdio/_flock_stub.c",
+      "role": "selected_source",
+      "bytes": 3827,
+      "sha256": "5a958b5c52521613c69bc5c37d0cd061bbb0a1b175ba854025c75f6567052041"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/asprintf.c",
+      "upstream_path": "lib/libc/stdio/asprintf.c",
+      "role": "selected_source",
+      "bytes": 2395,
+      "sha256": "82616d9767117390ad00c0a5e8891de8ecfe8158dad4739b883b972fc0d0e49b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/clrerr.c",
+      "upstream_path": "lib/libc/stdio/clrerr.c",
+      "role": "selected_source",
+      "bytes": 2195,
+      "sha256": "9796ddc6e3ca6d84c372507018b3c1d57e9b128a2faeb991abdf107f0d4b779f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/dprintf.c",
+      "upstream_path": "lib/libc/stdio/dprintf.c",
+      "role": "selected_source",
+      "bytes": 1711,
+      "sha256": "8b7b03d42eafd9694ffca46b16ee653a671cc4f959ad48c9a6a774f2b641bf7e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/fclose.c",
+      "upstream_path": "lib/libc/stdio/fclose.c",
+      "role": "selected_source",
+      "bytes": 3842,
+      "sha256": "4ea37dbc92fa77e98f300c024243bf28c57621c1f795c3c7911ed315f1b25b93"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/fcloseall.c",
+      "upstream_path": "lib/libc/stdio/fcloseall.c",
+      "role": "selected_source",
+      "bytes": 1568,
+      "sha256": "5548add83b8b64fbe0488288fcb12b49b7d594ef78c981a9a8a81c05ef3b0d6d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/fdopen.c",
+      "upstream_path": "lib/libc/stdio/fdopen.c",
+      "role": "selected_source",
+      "bytes": 3544,
+      "sha256": "11c64edac6447583291ac7d8b57f4a3a795fb69f2577e601bc71bf5b982e0939"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/feof.c",
+      "upstream_path": "lib/libc/stdio/feof.c",
+      "role": "selected_source",
+      "bytes": 2210,
+      "sha256": "f31de90057e546b6f77848ff0f77b7b4ca4c8d48e2fa44d0e4baa0153e33e78e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/ferror.c",
+      "upstream_path": "lib/libc/stdio/ferror.c",
+      "role": "selected_source",
+      "bytes": 2225,
+      "sha256": "1db34fb141549fea6d84cc6ff557ca455efcd72e7ee0119955a7e9a5afe5a7b9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/fflush.c",
+      "upstream_path": "lib/libc/stdio/fflush.c",
+      "role": "selected_source",
+      "bytes": 4335,
+      "sha256": "1ededa33595f1cd49263acee50e3316fac26fd855953a093482fafc5a37a0e8e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/fgetc.c",
+      "upstream_path": "lib/libc/stdio/fgetc.c",
+      "role": "selected_source",
+      "bytes": 2242,
+      "sha256": "1336400969636c074e2f935e28eed0eeb7dbd67d3d892cd495d7770611f66baf"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/fgetln.c",
+      "upstream_path": "lib/libc/stdio/fgetln.c",
+      "role": "selected_source",
+      "bytes": 4849,
+      "sha256": "8923318d27acb557e82d2e33e6353615eaad5cab009b8885c06a238efdba00cf"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_01/local.h",
+      "upstream_path": "lib/libc/stdio/local.h",
+      "role": "local_include_dependency",
+      "bytes": 5727,
+      "sha256": "d8af4c0af32a8d98d5a7ebd6172365be1d3a37507c235cbad523420f7072c657"
+    }
+  ]
+}

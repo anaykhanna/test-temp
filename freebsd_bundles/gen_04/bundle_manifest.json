@@ -1,0 +1,115 @@
+{
+  "queue_id": 5,
+  "name": "gen_04",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_04",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_04/drand48.c",
+      "upstream_path": "lib/libc/gen/drand48.c",
+      "role": "selected_source",
+      "bytes": 580,
+      "sha256": "2a190faa8bf0a3f450e8a6c3058611714097bd32ba4097025677b75847173c9c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/dup3.c",
+      "upstream_path": "lib/libc/gen/dup3.c",
+      "role": "selected_source",
+      "bytes": 2008,
+      "sha256": "68a8da882b17f5754701a92937944c6dca8579fd41c95d0cb35df84366d36205"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/elf_utils.c",
+      "upstream_path": "lib/libc/gen/elf_utils.c",
+      "role": "selected_source",
+      "bytes": 4042,
+      "sha256": "5031b1d758e567ab8f3aea52141fb6499b937180e1f1a67262b8f4ffd991fc4b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/erand48.c",
+      "upstream_path": "lib/libc/gen/erand48.c",
+      "role": "selected_source",
+      "bytes": 667,
+      "sha256": "a0acdc7dc24c778c378206b549c68e253c4b10670706612a7b70ef575d8b5976"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/err.c",
+      "upstream_path": "lib/libc/gen/err.c",
+      "role": "selected_source",
+      "bytes": 4626,
+      "sha256": "2dfe6982c16b69ae7bbe032345b39ed0ed6c677cf482a5708788a224792a26f2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/errlst.c",
+      "upstream_path": "lib/libc/gen/errlst.c",
+      "role": "selected_source",
+      "bytes": 8702,
+      "sha256": "7f8041c5c0cff3016d454e87b32132669e97d7deadc74cea54e29a5b092e5b22"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/errno.c",
+      "upstream_path": "lib/libc/gen/errno.c",
+      "role": "selected_source",
+      "bytes": 1457,
+      "sha256": "d8407cd610f9c87459c8fa377d27cb98fc93ad582f2e6e5191714e7c285fc7f7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/eventfd.c",
+      "upstream_path": "lib/libc/gen/eventfd.c",
+      "role": "selected_source",
+      "bytes": 1837,
+      "sha256": "28d70d769485c6876f679e58071cc6f1c1444de2bf31afba18d0afc2d0b719c9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/exec.c",
+      "upstream_path": "lib/libc/gen/exec.c",
+      "role": "selected_source",
+      "bytes": 7421,
+      "sha256": "50b4173531438d97993f80d912ac2acae279a9a38c679139870ab8ff025f5c9b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/exect.c",
+      "upstream_path": "lib/libc/gen/exect.c",
+      "role": "selected_source",
+      "bytes": 1646,
+      "sha256": "28b9142a71068a6e64d5dcafdcda70735a172046b494eed08a389aa2ccea9b8f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/fdevname.c",
+      "upstream_path": "lib/libc/gen/fdevname.c",
+      "role": "selected_source",
+      "bytes": 1877,
+      "sha256": "304d2ea9b5abd5f061d0e6d1dbb291a35e2997a81f20125d150355cdbaf8e163"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/fdopendir.c",
+      "upstream_path": "lib/libc/gen/fdopendir.c",
+      "role": "selected_source",
+      "bytes": 2144,
+      "sha256": "b58ebb699a7278e93f00598fedbf5f04fab11472b6d8e713033c0b9cfd953a31"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/gen-private.h",
+      "upstream_path": "lib/libc/gen/gen-private.h",
+      "role": "local_include_dependency",
+      "bytes": 2758,
+      "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/rand48.h",
+      "upstream_path": "lib/libc/gen/rand48.h",
+      "role": "local_include_dependency",
+      "bytes": 825,
+      "sha256": "81cfb890e5031844543f80ff14259bceb75e0130c1a57751f884ec8f3dad5802"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_04/telldir.h",
+      "upstream_path": "lib/libc/gen/telldir.h",
+      "role": "local_include_dependency",
+      "bytes": 4069,
+      "sha256": "85be32d109b0f65b86974a97ab2cb4f72fe9dbaf7203cdf447e7a6bfa1d4e8ac"
+    }
+  ]
+}

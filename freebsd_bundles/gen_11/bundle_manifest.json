@@ -1,0 +1,122 @@
+{
+  "queue_id": 12,
+  "name": "gen_11",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_11",
+  "selected_c_files": 12,
+  "included_dependency_files": 4,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_11/gen-compat.h",
+      "upstream_path": "lib/libc/gen/gen-compat.h",
+      "role": "local_include_dependency",
+      "bytes": 2442,
+      "sha256": "de7690e2df9fd065fc8c163d72428335adccdaca9610cfca73ae99536a724d84"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/gen-private.h",
+      "upstream_path": "lib/libc/gen/gen-private.h",
+      "role": "local_include_dependency",
+      "bytes": 2758,
+      "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/rand48.h",
+      "upstream_path": "lib/libc/gen/rand48.h",
+      "role": "local_include_dependency",
+      "bytes": 825,
+      "sha256": "81cfb890e5031844543f80ff14259bceb75e0130c1a57751f884ec8f3dad5802"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/recvmmsg.c",
+      "upstream_path": "lib/libc/gen/recvmmsg.c",
+      "role": "selected_source",
+      "bytes": 2943,
+      "sha256": "0a76e138457fd8fc87f376160309db08bbb4cf1f0d1cc0c091aadcbd8eb82379"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/rewinddir.c",
+      "upstream_path": "lib/libc/gen/rewinddir.c",
+      "role": "selected_source",
+      "bytes": 2383,
+      "sha256": "1d1e60aa97d96ef8fbc884449a8b6cc9d88b53210f9653122f87317b4bfe969d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/scandir-compat11.c",
+      "upstream_path": "lib/libc/gen/scandir-compat11.c",
+      "role": "selected_source",
+      "bytes": 5124,
+      "sha256": "75b9c9f05368e86fafe88615f79f9493aa3fa4b24d0e35fdee4d7eb75ef5512c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/scandir.c",
+      "upstream_path": "lib/libc/gen/scandir.c",
+      "role": "selected_source",
+      "bytes": 6148,
+      "sha256": "facbbecc1346545f4136abe7898ee46f2fa470d1c882fe039f3c54dcbafdd9fc"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/scandir_b.c",
+      "upstream_path": "lib/libc/gen/scandir_b.c",
+      "role": "selected_source",
+      "bytes": 1427,
+      "sha256": "0ab33c7804b6f2edafc3c9abc351cf407b745b32eea1c00a8f0dd54444f1f3e7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/sched_getaffinity.c",
+      "upstream_path": "lib/libc/gen/sched_getaffinity.c",
+      "role": "selected_source",
+      "bytes": 2099,
+      "sha256": "88f6d0462e02896a56fccccdf6c45938ebadc38bd7280eaf1d415f523d39a7e9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/sched_getcpu_gen.c",
+      "upstream_path": "lib/libc/gen/sched_getcpu_gen.c",
+      "role": "selected_source",
+      "bytes": 1608,
+      "sha256": "dd5acf98437f16119e9cfdc6dcb7026cb489ebfa85b60f0b5426abb7b64d8ca2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/sched_setaffinity.c",
+      "upstream_path": "lib/libc/gen/sched_setaffinity.c",
+      "role": "selected_source",
+      "bytes": 2656,
+      "sha256": "98c67b0efd99dc4c9a58a5a22666e2ae4d86130095ab66d6af09641d1f604212"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/seed48.c",
+      "upstream_path": "lib/libc/gen/seed48.c",
+      "role": "selected_source",
+      "bytes": 1017,
+      "sha256": "f79f95d33a584b8619fb1aaaceb274ba2d93df2767d690aa7904efca66bf9f44"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/seekdir.c",
+      "upstream_path": "lib/libc/gen/seekdir.c",
+      "role": "selected_source",
+      "bytes": 2249,
+      "sha256": "3ca549b0cf7c4e04264f6d92ecd3c840de5b14fd707bd9b074aef24428d6e033"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/sem.c",
+      "upstream_path": "lib/libc/gen/sem.c",
+      "role": "selected_source",
+      "bytes": 12112,
+      "sha256": "e020a6c3485d93f967b49c55130418b275dca0b21fc869b46b848646555ead6f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/sem_new.c",
+      "upstream_path": "lib/libc/gen/sem_new.c",
+      "role": "selected_source",
+      "bytes": 10639,
+      "sha256": "e400a3a8333e519fdcfbe82571a0d79593eb5191bd09a3773746127a0fbc4baf"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_11/telldir.h",
+      "upstream_path": "lib/libc/gen/telldir.h",
+      "role": "local_include_dependency",
+      "bytes": 4069,
+      "sha256": "85be32d109b0f65b86974a97ab2cb4f72fe9dbaf7203cdf447e7a6bfa1d4e8ac"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "queue_id": 30,
+  "name": "stdio_07",
+  "module": "stdio",
+  "subpath": "freebsd_bundles/stdio_07",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/local.h",
+      "upstream_path": "lib/libc/stdio/local.h",
+      "role": "local_include_dependency",
+      "bytes": 5727,
+      "sha256": "d8af4c0af32a8d98d5a7ebd6172365be1d3a37507c235cbad523420f7072c657"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/snprintf.c",
+      "upstream_path": "lib/libc/stdio/snprintf.c",
+      "role": "selected_source",
+      "bytes": 3287,
+      "sha256": "835e284f13e7056475b27f7a5eef464ca232a5fa44b4a9aad223dc90492dd762"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/sprintf.c",
+      "upstream_path": "lib/libc/stdio/sprintf.c",
+      "role": "selected_source",
+      "bytes": 2610,
+      "sha256": "ce055f2c95bf6fc4bea80ce60e07f27009fbaad3cc703183d755093b0f086d42"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/sscanf.c",
+      "upstream_path": "lib/libc/stdio/sscanf.c",
+      "role": "selected_source",
+      "bytes": 2587,
+      "sha256": "6ff2281033fcb4d6d343bf6746ce7862c93d2749a62d2159b66ef601ebee6f45"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/stdio.c",
+      "upstream_path": "lib/libc/stdio/stdio.c",
+      "role": "selected_source",
+      "bytes": 4502,
+      "sha256": "e8a8ff1105f22bed071d3bdd4a1c9b8d2511c7bfac207121c49758da5948967b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/swprintf.c",
+      "upstream_path": "lib/libc/stdio/swprintf.c",
+      "role": "selected_source",
+      "bytes": 2126,
+      "sha256": "4c6381276cf3c4e5434c09b4b0ae5b974585000c1ec189fe9dc6f388c8e788ae"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/swscanf.c",
+      "upstream_path": "lib/libc/stdio/swscanf.c",
+      "role": "selected_source",
+      "bytes": 2104,
+      "sha256": "31d1ea997cebfde08a4436be111a2b163477cb68fffde775a9a09f47ec775967"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/tempnam.c",
+      "upstream_path": "lib/libc/stdio/tempnam.c",
+      "role": "selected_source",
+      "bytes": 2967,
+      "sha256": "75cabb34dc6c9a0d9ce85298e0c5006aad722167c5928438d2ea1ca33e39fe9b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/tmpfile.c",
+      "upstream_path": "lib/libc/stdio/tmpfile.c",
+      "role": "selected_source",
+      "bytes": 2905,
+      "sha256": "65226e19f6410c1e731d792678b39404d1ea539b624de84489a81dff4000399a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/tmpnam.c",
+      "upstream_path": "lib/libc/stdio/tmpnam.c",
+      "role": "selected_source",
+      "bytes": 2338,
+      "sha256": "4c93b3a925520259a3cf0a3fb092b732dcca816d6669e0dc2d5ea92adce05fa4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/ungetc.c",
+      "upstream_path": "lib/libc/stdio/ungetc.c",
+      "role": "selected_source",
+      "bytes": 4727,
+      "sha256": "44e32e11ffd53aef1064d18dfc836ccf891b6fdf78a17edcc0ed60d38a1ddb8e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/ungetwc.c",
+      "upstream_path": "lib/libc/stdio/ungetwc.c",
+      "role": "selected_source",
+      "bytes": 2647,
+      "sha256": "0fe08088581ecdc13fef6946d029416ff5cc5de05ec19082bd4fd0a280eef45d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdio_07/vasprintf.c",
+      "upstream_path": "lib/libc/stdio/vasprintf.c",
+      "role": "selected_source",
+      "bytes": 2613,
+      "sha256": "1385eafe2cbc13a91a1e66267674980ade1f8ac43f81614aaf86690bbb5ae51d"
+    }
+  ]
+}

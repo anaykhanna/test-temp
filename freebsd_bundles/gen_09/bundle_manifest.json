@@ -1,0 +1,122 @@
+{
+  "queue_id": 10,
+  "name": "gen_09",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_09",
+  "selected_c_files": 12,
+  "included_dependency_files": 4,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_09/fts-compat11.h",
+      "upstream_path": "lib/libc/gen/fts-compat11.h",
+      "role": "local_include_dependency",
+      "bytes": 4024,
+      "sha256": "649cecc0f513a06b42fd434656e4c6db7228e97f4a36a2b428b5c95d0db8e321"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/gen-private.h",
+      "upstream_path": "lib/libc/gen/gen-private.h",
+      "role": "local_include_dependency",
+      "bytes": 2758,
+      "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/lockf.c",
+      "upstream_path": "lib/libc/gen/lockf.c",
+      "role": "selected_source",
+      "bytes": 2639,
+      "sha256": "e104b88478d73a01e693e9d6a354101eec4cd6ac1338d400b372de6b17d60353"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/lrand48.c",
+      "upstream_path": "lib/libc/gen/lrand48.c",
+      "role": "selected_source",
+      "bytes": 646,
+      "sha256": "1e6eb4d66d8581f1395e6b93dee22f621b2c204ea69eb9a8badf5391fab1a0c7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/memalign.c",
+      "upstream_path": "lib/libc/gen/memalign.c",
+      "role": "selected_source",
+      "bytes": 1804,
+      "sha256": "f792262ca0e3db47e52f8270fb445db2f524ad90aeb4f2b395dc7b7a56197d1b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/memfd_create.c",
+      "upstream_path": "lib/libc/gen/memfd_create.c",
+      "role": "selected_source",
+      "bytes": 3843,
+      "sha256": "9b3de038ad46e54f49701ade8cc0e927e228a6ecf1ca7300dbb94af1e2c805c7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/modf.c",
+      "upstream_path": "lib/libc/gen/modf.c",
+      "role": "selected_source",
+      "bytes": 3112,
+      "sha256": "c303ebbc3a32c1f02a0fa3440d818cfe8df75f86fca4d40765833b1fbb891387"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/mrand48.c",
+      "upstream_path": "lib/libc/gen/mrand48.c",
+      "role": "selected_source",
+      "bytes": 689,
+      "sha256": "7c3f56227fc1abbf2d3ac5f3059371eeae2a374b9d60586a1283ae000b46a135"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/nftw-compat11.c",
+      "upstream_path": "lib/libc/gen/nftw-compat11.c",
+      "role": "selected_source",
+      "bytes": 3049,
+      "sha256": "baad77e313961e4f91247222a89c67367b0e9c34006245cc58722ff10d0e789d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/nftw.c",
+      "upstream_path": "lib/libc/gen/nftw.c",
+      "role": "selected_source",
+      "bytes": 2829,
+      "sha256": "8a0afe70597660fabeccd00c12757287873dcd400a6d8a28f84d71a2a685a1f4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/nice.c",
+      "upstream_path": "lib/libc/gen/nice.c",
+      "role": "selected_source",
+      "bytes": 2224,
+      "sha256": "f1c3f4410f061e799ff6c5960fe921992f1a44ad1e32ddea8c599512baf09fd3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/nlist.c",
+      "upstream_path": "lib/libc/gen/nlist.c",
+      "role": "selected_source",
+      "bytes": 7990,
+      "sha256": "7a91140da0329c42799bb755a86b0b7c673b765193217513085588001d7db0c6"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/nrand48.c",
+      "upstream_path": "lib/libc/gen/nrand48.c",
+      "role": "selected_source",
+      "bytes": 602,
+      "sha256": "d8b2502bb76b6575cb47afeda84ed4ec0d0d27b249de4b1a750b0fdd42c57d85"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/opendir.c",
+      "upstream_path": "lib/libc/gen/opendir.c",
+      "role": "selected_source",
+      "bytes": 2123,
+      "sha256": "e958093286430f342643270c00d25670f1032c164e6e22e98145481cdbfb09a7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/rand48.h",
+      "upstream_path": "lib/libc/gen/rand48.h",
+      "role": "local_include_dependency",
+      "bytes": 825,
+      "sha256": "81cfb890e5031844543f80ff14259bceb75e0130c1a57751f884ec8f3dad5802"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_09/telldir.h",
+      "upstream_path": "lib/libc/gen/telldir.h",
+      "role": "local_include_dependency",
+      "bytes": 4069,
+      "sha256": "85be32d109b0f65b86974a97ab2cb4f72fe9dbaf7203cdf447e7a6bfa1d4e8ac"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "queue_id": 40,
+  "name": "stdtime_01",
+  "module": "stdtime",
+  "subpath": "freebsd_bundles/stdtime_01",
+  "selected_c_files": 4,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdtime_01/strftime.c",
+      "upstream_path": "lib/libc/stdtime/strftime.c",
+      "role": "selected_source",
+      "bytes": 17411,
+      "sha256": "d5f9d023963f8e5a13be756044f3cb175450e114ecb44e91e82d0d81b8ee9cd1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdtime_01/strptime.c",
+      "upstream_path": "lib/libc/stdtime/strptime.c",
+      "role": "selected_source",
+      "bytes": 16524,
+      "sha256": "7b30c992e867aa3bd65818d5c7b75660b617f12a1cd8e7dd55a324494e7f5afd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdtime_01/time32.c",
+      "upstream_path": "lib/libc/stdtime/time32.c",
+      "role": "selected_source",
+      "bytes": 2325,
+      "sha256": "73dea68132ffd6b00189c037bf611c1c85cca1b6dd1cb46d2551033893e89d94"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdtime_01/timelocal.c",
+      "upstream_path": "lib/libc/stdtime/timelocal.c",
+      "role": "selected_source",
+      "bytes": 4246,
+      "sha256": "93dc5dff139d1b98182c413a9318000a04eb32bdca3789189053511faa718d24"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdtime_01/timelocal.h",
+      "upstream_path": "lib/libc/stdtime/timelocal.h",
+      "role": "local_include_dependency",
+      "bytes": 2218,
+      "sha256": "6645f45cdcf92b010cb1f5dfdf7e357864deb5955ac92550d0187d26613d3935"
+    }
+  ]
+}

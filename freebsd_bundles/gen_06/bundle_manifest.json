@@ -1,0 +1,101 @@
+{
+  "queue_id": 7,
+  "name": "gen_06",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_06",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_06/ftw.c",
+      "upstream_path": "lib/libc/gen/ftw.c",
+      "role": "selected_source",
+      "bytes": 2371,
+      "sha256": "83179ccd40023ebba5459073c0030a4622ae6bfd452d490b654904e20fcfc136"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/gen-private.h",
+      "upstream_path": "lib/libc/gen/gen-private.h",
+      "role": "local_include_dependency",
+      "bytes": 2758,
+      "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getbootfile.c",
+      "upstream_path": "lib/libc/gen/getbootfile.c",
+      "role": "selected_source",
+      "bytes": 2063,
+      "sha256": "8fccc590d42b84cd5c995bed53770f9fe6edee43359a5fd981fa47ba7e6bc133"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getbsize.c",
+      "upstream_path": "lib/libc/gen/getbsize.c",
+      "role": "selected_source",
+      "bytes": 3146,
+      "sha256": "eb28f76487195a5e4d0243509c438167cd3db8964ebdfd0f6497d0d763d74858"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getcap.c",
+      "upstream_path": "lib/libc/gen/getcap.c",
+      "role": "selected_source",
+      "bytes": 24508,
+      "sha256": "ada06df50d62a487582e522ebdea1fa724e258b5fcd5df1082cb064e50424dfd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getcwd.c",
+      "upstream_path": "lib/libc/gen/getcwd.c",
+      "role": "selected_source",
+      "bytes": 5951,
+      "sha256": "c11af91505ad5bcd3d7c496b5b846012ef46623024ee2205a9b5ab0fa6ae064a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getdomainname.c",
+      "upstream_path": "lib/libc/gen/getdomainname.c",
+      "role": "selected_source",
+      "bytes": 2055,
+      "sha256": "e390623489ad29475bcf69152a8edde8382645f4c1f845a5a9a4e4d51c958503"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getentropy.c",
+      "upstream_path": "lib/libc/gen/getentropy.c",
+      "role": "selected_source",
+      "bytes": 4359,
+      "sha256": "0f76905e3555fbdbe9fff0f7a67a47964894e40cd784e5ef4d98f0da8c17acb0"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getgrent.c",
+      "upstream_path": "lib/libc/gen/getgrent.c",
+      "role": "selected_source",
+      "bytes": 36733,
+      "sha256": "c38da3cdfe51387e2b18f350d43a622e948337fb6e7479915115e4b0a4fec3dc"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getgrouplist.c",
+      "upstream_path": "lib/libc/gen/getgrouplist.c",
+      "role": "selected_source",
+      "bytes": 2104,
+      "sha256": "e8c22710587c0fd9cee7c7a1d2099a15c2e33aba4d68739bbb370d09d3f6b31e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/gethostname.c",
+      "upstream_path": "lib/libc/gen/gethostname.c",
+      "role": "selected_source",
+      "bytes": 2097,
+      "sha256": "5ca0e0afaee83e9895006889e60bc9d2b5510af8b6aa77a2df7c1bbc0b33f2b1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getloadavg.c",
+      "upstream_path": "lib/libc/gen/getloadavg.c",
+      "role": "selected_source",
+      "bytes": 2486,
+      "sha256": "c5fc1f2677b45624dffdecaf04ac83040a4c7b1dd7266673625e33858f0788bb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_06/getlogin.c",
+      "upstream_path": "lib/libc/gen/getlogin.c",
+      "role": "selected_source",
+      "bytes": 2774,
+      "sha256": "94dd0316fe96e3c75ee3075924a929dcb61de28b05190d7034d010cbf06305a2"
+    }
+  ]
+}

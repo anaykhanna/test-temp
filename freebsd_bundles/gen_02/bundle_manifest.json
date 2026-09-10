@@ -1,0 +1,115 @@
+{
+  "queue_id": 3,
+  "name": "gen_02",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_02",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_02/arc4random.c",
+      "upstream_path": "lib/libc/gen/arc4random.c",
+      "role": "selected_source",
+      "bytes": 6494,
+      "sha256": "2fa8152b569eb99fe54adad9cc1ae9a5594f2710b2c72cf4eb8723b84445f1b9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/arc4random.h",
+      "upstream_path": "lib/libc/gen/arc4random.h",
+      "role": "local_include_dependency",
+      "bytes": 4345,
+      "sha256": "3b9dce7d4629b035908e01653954b44f6932b70013a4ff5175a2958ec510b8cd"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/arc4random_uniform.c",
+      "upstream_path": "lib/libc/gen/arc4random_uniform.c",
+      "role": "selected_source",
+      "bytes": 1851,
+      "sha256": "78f828c9f12873056c12bb92bebd529c2323c442a40c68a3d29d3c984bc8f18d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/assert.c",
+      "upstream_path": "lib/libc/gen/assert.c",
+      "role": "selected_source",
+      "bytes": 2202,
+      "sha256": "c931874bb4e8c869002488e6e584b6de0ea13e0c4b297e151b6b3507d429e44b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/auxv.c",
+      "upstream_path": "lib/libc/gen/auxv.c",
+      "role": "selected_source",
+      "bytes": 9197,
+      "sha256": "01308cbe81d468ff0b1c1e642cc92043a3d798d6450879c6556718adfb0197d2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/basename.c",
+      "upstream_path": "lib/libc/gen/basename.c",
+      "role": "selected_source",
+      "bytes": 1963,
+      "sha256": "f6f53fdf17df9566b9d8517636833d24044a2767c005da0a500f808b55e6698e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/basename_compat.c",
+      "upstream_path": "lib/libc/gen/basename_compat.c",
+      "role": "selected_source",
+      "bytes": 2270,
+      "sha256": "715c4e6e758dc41c599bea3a8c65ed2496f2b5b10864404b00af74c9d7da887a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/cap_sandboxed.c",
+      "upstream_path": "lib/libc/gen/cap_sandboxed.c",
+      "role": "selected_source",
+      "bytes": 1807,
+      "sha256": "b3aab914ee106e274f2d607987b9c1c36697e02fc88f49d528171e6f96102d56"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/check_utility_compat.c",
+      "upstream_path": "lib/libc/gen/check_utility_compat.c",
+      "role": "selected_source",
+      "bytes": 2378,
+      "sha256": "36cad3fe0b9527550d57406ba44d552a6508caf0043ec178943dc86ea7c5bca2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/clock.c",
+      "upstream_path": "lib/libc/gen/clock.c",
+      "role": "selected_source",
+      "bytes": 2239,
+      "sha256": "efd6fd01cdbc320462ffb2f6bafdb980699e149cf7d4e2e74407f20601ad0dc5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/clock_getcpuclockid.c",
+      "upstream_path": "lib/libc/gen/clock_getcpuclockid.c",
+      "role": "selected_source",
+      "bytes": 1695,
+      "sha256": "66af96c214c0dba0a9b8b3461eb47339722d928961880b576a6a647a248f4422"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/closedir.c",
+      "upstream_path": "lib/libc/gen/closedir.c",
+      "role": "selected_source",
+      "bytes": 2485,
+      "sha256": "9dfaabebd29cdab319417bd8ba139b78f7943566371501e5c1138c269af896ca"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/confstr.c",
+      "upstream_path": "lib/libc/gen/confstr.c",
+      "role": "selected_source",
+      "bytes": 3964,
+      "sha256": "ebc0d22480ddb08a24e94ca31bc62b45bdfbf76b8edfd6583640542b080da0fc"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/gen-private.h",
+      "upstream_path": "lib/libc/gen/gen-private.h",
+      "role": "local_include_dependency",
+      "bytes": 2758,
+      "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_02/telldir.h",
+      "upstream_path": "lib/libc/gen/telldir.h",
+      "role": "local_include_dependency",
+      "bytes": 4069,
+      "sha256": "85be32d109b0f65b86974a97ab2cb4f72fe9dbaf7203cdf447e7a6bfa1d4e8ac"
+    }
+  ]
+}

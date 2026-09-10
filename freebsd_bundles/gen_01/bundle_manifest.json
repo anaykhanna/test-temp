@@ -1,0 +1,101 @@
+{
+  "queue_id": 2,
+  "name": "gen_01",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_01/__getosreldate.c",
+      "upstream_path": "lib/libc/gen/__getosreldate.c",
+      "role": "selected_source",
+      "bytes": 2387,
+      "sha256": "27951bc90feab90f132ae585ff3e0fcb1ea6650315be715b69840b3034866627"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/__pthread_mutex_init_calloc_cb_stub.c",
+      "upstream_path": "lib/libc/gen/__pthread_mutex_init_calloc_cb_stub.c",
+      "role": "selected_source",
+      "bytes": 1796,
+      "sha256": "92197a43df1868ab6a35b51780e6f1dfbc040b453d77f9427582157343819b06"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/__xuname.c",
+      "upstream_path": "lib/libc/gen/__xuname.c",
+      "role": "selected_source",
+      "bytes": 3724,
+      "sha256": "5bc2b7c1eaf881eec148c09127654629cc170b8318183e92289e51813e6be545"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/_once_stub.c",
+      "upstream_path": "lib/libc/gen/_once_stub.c",
+      "role": "selected_source",
+      "bytes": 2521,
+      "sha256": "49124f9ecbe90fe2a3ded4de2c526a94e03c0ce7ffddda06cf0f7c0cbc912755"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/_pthread_stubs.c",
+      "upstream_path": "lib/libc/gen/_pthread_stubs.c",
+      "role": "selected_source",
+      "bytes": 14816,
+      "sha256": "6c963ff9cf9825c4df5c06d8e07c495f75d82ed634cfc9f3cdf889af065eacf5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/_rand48.c",
+      "upstream_path": "lib/libc/gen/_rand48.c",
+      "role": "selected_source",
+      "bytes": 1400,
+      "sha256": "2c7f3f8b770fe6473e51ba28144b2c08685e5aecd94513651e081051f8dd6b39"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/_spinlock_stub.c",
+      "upstream_path": "lib/libc/gen/_spinlock_stub.c",
+      "role": "selected_source",
+      "bytes": 2411,
+      "sha256": "c3297602fa6a5648c253d68b2c3c67822f14eea56221ff170f165b106abd425e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/_thread_init.c",
+      "upstream_path": "lib/libc/gen/_thread_init.c",
+      "role": "selected_source",
+      "bytes": 1769,
+      "sha256": "3efd0201a3bb569c8e55a85b2e3029f66b3910eac01b6534325af390d79d3725"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/aio_read2.c",
+      "upstream_path": "lib/libc/gen/aio_read2.c",
+      "role": "selected_source",
+      "bytes": 2175,
+      "sha256": "b3a054750774699dd7d0e3e782de0b8e78bfcc8a7a457bfdefcb33b6381294ea"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/aio_write2.c",
+      "upstream_path": "lib/libc/gen/aio_write2.c",
+      "role": "selected_source",
+      "bytes": 2177,
+      "sha256": "d8ee8d94edadca6887aebd6e633ba1e6642ba5401bd198a5241497a0c1d40b98"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/alarm.c",
+      "upstream_path": "lib/libc/gen/alarm.c",
+      "role": "selected_source",
+      "bytes": 2182,
+      "sha256": "87531b8c0cff11b0e62233c007080b12fe5abe5df692504138a2c427e9b49298"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/arc4random-compat.c",
+      "upstream_path": "lib/libc/gen/arc4random-compat.c",
+      "role": "selected_source",
+      "bytes": 2399,
+      "sha256": "4f70def9dbb2f7e0546b6ce2da878fa65cef44d716bf562ef21bb8b71b523d40"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_01/rand48.h",
+      "upstream_path": "lib/libc/gen/rand48.h",
+      "role": "local_include_dependency",
+      "bytes": 825,
+      "sha256": "81cfb890e5031844543f80ff14259bceb75e0130c1a57751f884ec8f3dad5802"
+    }
+  ]
+}

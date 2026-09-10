@@ -1,0 +1,59 @@
+{
+  "queue_id": 39,
+  "name": "stdlib_06",
+  "module": "stdlib",
+  "subpath": "freebsd_bundles/stdlib_06",
+  "selected_c_files": 6,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdlib_06/strtouq.c",
+      "upstream_path": "lib/libc/stdlib/strtouq.c",
+      "role": "selected_source",
+      "bytes": 2030,
+      "sha256": "29780995409b2199f0149d7ea7721c4007ff57e0ea4583e15fd60b2a798e0d15"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_06/system.c",
+      "upstream_path": "lib/libc/stdlib/system.c",
+      "role": "selected_source",
+      "bytes": 3955,
+      "sha256": "661819a316a728ce6bfccc70832416f46f69a0e877aebb5b4081c0598533f195"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_06/tdelete.c",
+      "upstream_path": "lib/libc/stdlib/tdelete.c",
+      "role": "selected_source",
+      "bytes": 5818,
+      "sha256": "7e63fc84b406bb2866a7895194c7bfc45acc101068a3fed139a24e1648ce424f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_06/tfind.c",
+      "upstream_path": "lib/libc/stdlib/tfind.c",
+      "role": "selected_source",
+      "bytes": 1107,
+      "sha256": "3760ab54622fe4fea0382ebea6a2eb4410aab7558befe0f1e810eb953689a191"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_06/tsearch.c",
+      "upstream_path": "lib/libc/stdlib/tsearch.c",
+      "role": "selected_source",
+      "bytes": 5281,
+      "sha256": "32852f02630d19137e8aa81d7d0ad6688b394249ead30e36d371d7971a08ebd5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_06/tsearch_path.h",
+      "upstream_path": "lib/libc/stdlib/tsearch_path.h",
+      "role": "local_include_dependency",
+      "bytes": 2951,
+      "sha256": "42a2f0cbc3938c13e3a35d8fb7c64c13eb5c5788eb1d90043eef1fe05738808b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_06/twalk.c",
+      "upstream_path": "lib/libc/stdlib/twalk.c",
+      "role": "selected_source",
+      "bytes": 1232,
+      "sha256": "d5c82cb25f2260deb4a40570cbbbe7a9f5d59370bf4d3e4d2806e9c10ac3fbc9"
+    }
+  ]
+}

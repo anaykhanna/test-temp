@@ -1,0 +1,87 @@
+{
+  "queue_id": 22,
+  "name": "locale_06",
+  "module": "locale",
+  "subpath": "freebsd_bundles/locale_06",
+  "selected_c_files": 8,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/locale_06/mblocal.h",
+      "upstream_path": "lib/libc/locale/mblocal.h",
+      "role": "local_include_dependency",
+      "bytes": 5045,
+      "sha256": "a3df7d063ee6117250ea974717c95186260773b848649de0161c2fa8b6fd5218"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/setlocale.h",
+      "upstream_path": "lib/libc/locale/setlocale.h",
+      "role": "local_include_dependency",
+      "bytes": 1670,
+      "sha256": "2195d8cd3a491a37a5c94b62f4db3170ad0dff558d2e6ab6b67114b28abd2ab1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/wcstoull.c",
+      "upstream_path": "lib/libc/locale/wcstoull.c",
+      "role": "selected_source",
+      "bytes": 3999,
+      "sha256": "b80a7c375fbac7c66cfe8958e19610bfe108c52885820656d976fa6177cc823a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/wcstoumax.c",
+      "upstream_path": "lib/libc/locale/wcstoumax.c",
+      "role": "selected_source",
+      "bytes": 3962,
+      "sha256": "b4f0d90734d924493290129f1d5a7a5657acbc387ce90876f8f1393ac595678e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/wctob.c",
+      "upstream_path": "lib/libc/locale/wctob.c",
+      "role": "selected_source",
+      "bytes": 2030,
+      "sha256": "bee22aec7d6b2de27cf47663b8e3ea60e0882ba00a2ee8af510908a3a5f95a94"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/wctomb.c",
+      "upstream_path": "lib/libc/locale/wctomb.c",
+      "role": "selected_source",
+      "bytes": 2175,
+      "sha256": "6cd52a10ca3b6a814c73829ab10009177e76cc2e5574a86780f81d0962798577"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/wctrans.c",
+      "upstream_path": "lib/libc/locale/wctrans.c",
+      "role": "selected_source",
+      "bytes": 2834,
+      "sha256": "c13178ea43a693a8ed752233c45b9ef432c0c6132f160c7085eaf0ae551b9dc4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/wctype.c",
+      "upstream_path": "lib/libc/locale/wctype.c",
+      "role": "selected_source",
+      "bytes": 3139,
+      "sha256": "b5329c220c2fb256fdee8170e1cd70726fa7b4c9f5d37343b953e48b855d71f7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/wcwidth.c",
+      "upstream_path": "lib/libc/locale/wcwidth.c",
+      "role": "selected_source",
+      "bytes": 2488,
+      "sha256": "b79d6c4276463e13e2d65eacff4c6dcd2ee3353e66c9bfb16382d350111f2b58"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/xlocale.c",
+      "upstream_path": "lib/libc/locale/xlocale.c",
+      "role": "selected_source",
+      "bytes": 9285,
+      "sha256": "3132e4d9f2898895dc8946b1c82f3f3fef07fd81346a5b208e8da18a675664e5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_06/xlocale_private.h",
+      "upstream_path": "lib/libc/locale/xlocale_private.h",
+      "role": "local_include_dependency",
+      "bytes": 8400,
+      "sha256": "326feef84f3d6f264328db732b9aed6b52bda457b6d1550c905ffd0d0a03bb1b"
+    }
+  ]
+}

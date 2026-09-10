@@ -1,0 +1,108 @@
+{
+  "queue_id": 49,
+  "name": "math_01",
+  "module": "math",
+  "subpath": "freebsd_bundles/math_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 2,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/math_01/catrig.c",
+      "upstream_path": "lib/msun/src/catrig.c",
+      "role": "selected_source",
+      "bytes": 19607,
+      "sha256": "bd6c44816750ad42caaec8ef657e6710897fe52649bc7ebc698e7e6e516d39d7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/catrigf.c",
+      "upstream_path": "lib/msun/src/catrigf.c",
+      "role": "selected_source",
+      "bytes": 9834,
+      "sha256": "fa9e7b962b65ffb3ca05611dbdff96e617d046b0552f18a29e79050956b3bbce"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/catrigl.c",
+      "upstream_path": "lib/msun/src/catrigl.c",
+      "role": "selected_source",
+      "bytes": 10981,
+      "sha256": "840cb98f75642c029d5f6bbdf3ef89f18482b0f582e8baacfe82abd03a5250a4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/e_acos.c",
+      "upstream_path": "lib/msun/src/e_acos.c",
+      "role": "selected_source",
+      "bytes": 3501,
+      "sha256": "318126d6e514cbe22084634319295cce0fa33cc7df39e4536577184dd1878935"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/e_acosf.c",
+      "upstream_path": "lib/msun/src/e_acosf.c",
+      "role": "selected_source",
+      "bytes": 2346,
+      "sha256": "2314efb42bf0476b75f05a55310abb7e292240b46e7a9ee48672a210a37b35d5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/e_acosh.c",
+      "upstream_path": "lib/msun/src/e_acosh.c",
+      "role": "selected_source",
+      "bytes": 1648,
+      "sha256": "f4b616ad7ea11600b806a67b510f0ef1ea2ae09b4f2b4a3e3057fe89c36d6197"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/e_acoshf.c",
+      "upstream_path": "lib/msun/src/e_acoshf.c",
+      "role": "selected_source",
+      "bytes": 1251,
+      "sha256": "0a6369f344ce334b49d8299a973cab1422f3e3942feafab8c5b7337340f74f7d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/e_acoshl.c",
+      "upstream_path": "lib/msun/src/e_acoshl.c",
+      "role": "selected_source",
+      "bytes": 2283,
+      "sha256": "ac4ae11d26bfbb96de7f1f68d2563db3b2239c419c7a6168cf342fc1188652cf"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/e_acosl.c",
+      "upstream_path": "lib/msun/src/e_acosl.c",
+      "role": "selected_source",
+      "bytes": 2246,
+      "sha256": "4092830f851b6906c4c65d18133942dee3bbdac6b404230a827d8a27473b5f68"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/e_asin.c",
+      "upstream_path": "lib/msun/src/e_asin.c",
+      "role": "selected_source",
+      "bytes": 3686,
+      "sha256": "6808b5111a4c9e2f47aae17a23091bae8789e6a6e54663f987d73d987ca323cb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/e_asinf.c",
+      "upstream_path": "lib/msun/src/e_asinf.c",
+      "role": "selected_source",
+      "bytes": 1888,
+      "sha256": "3ecac4c015dcaa38f59232b48e529052b35ba6738ff4d5b2bdf800023058fb90"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/e_asinl.c",
+      "upstream_path": "lib/msun/src/e_asinl.c",
+      "role": "selected_source",
+      "bytes": 1920,
+      "sha256": "ed51466eb444ff4fd009f17e5c32bf9f6946eb8e6c8d5a87e63fa62eeeff5d5c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/math.h",
+      "upstream_path": "lib/msun/src/math.h",
+      "role": "local_include_dependency",
+      "bytes": 14623,
+      "sha256": "87bec43e9642243de91c3fc55c703bc10b84d57553761ed8caeceb0c82cbc15b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_01/math_private.h",
+      "upstream_path": "lib/msun/src/math_private.h",
+      "role": "local_include_dependency",
+      "bytes": 22733,
+      "sha256": "697e8edc2aac87432dcfa7a284fa1cc291558a1b7d14581da70d18d1524ad19c"
+    }
+  ]
+}

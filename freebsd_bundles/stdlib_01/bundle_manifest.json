@@ -1,0 +1,101 @@
+{
+  "queue_id": 34,
+  "name": "stdlib_01",
+  "module": "stdlib",
+  "subpath": "freebsd_bundles/stdlib_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/_Exit.c",
+      "upstream_path": "lib/libc/stdlib/_Exit.c",
+      "role": "selected_source",
+      "bytes": 533,
+      "sha256": "f0d2f4c2f86326639aa189e5a65633e97cb96562329cccfa331193ec6eb6e367"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/a64l.c",
+      "upstream_path": "lib/libc/stdlib/a64l.c",
+      "role": "selected_source",
+      "bytes": 866,
+      "sha256": "07214a1b3148a092aeb64ab477e2486dac2d88bc6f8c5fab5a05e89b539a0952"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/abort.c",
+      "upstream_path": "lib/libc/stdlib/abort.c",
+      "role": "selected_source",
+      "bytes": 2862,
+      "sha256": "7a56466e630352d9d2b6915617fe7bf1646022bc77ff2b32db2caf036229b8ad"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/abs.c",
+      "upstream_path": "lib/libc/stdlib/abs.c",
+      "role": "selected_source",
+      "bytes": 1881,
+      "sha256": "66d8ca6f9d5063f30d7b79486ba06a83e891d31fb2580238f5066ec90884b5e8"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/atexit.c",
+      "upstream_path": "lib/libc/stdlib/atexit.c",
+      "role": "selected_source",
+      "bytes": 7460,
+      "sha256": "aaf0acc371443974d91d736744e54913a8612cf356fb4503db6aae7b12a01f34"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/atexit.h",
+      "upstream_path": "lib/libc/stdlib/atexit.h",
+      "role": "local_include_dependency",
+      "bytes": 1830,
+      "sha256": "5fc5d099a2a3c878096b6554b164fe69fdacd121126df1fbff3aa0eb0669eed2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/atof.c",
+      "upstream_path": "lib/libc/stdlib/atof.c",
+      "role": "selected_source",
+      "bytes": 2210,
+      "sha256": "6e8eb44ce62d49afb2298e094ef6511e09f32ad622135d6d34c8a9d7f5a9ce98"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/atoi.c",
+      "upstream_path": "lib/libc/stdlib/atoi.c",
+      "role": "selected_source",
+      "bytes": 2196,
+      "sha256": "8acf4cab212ab05b3dd1576dd0afb1ebc19deb23ecc93bb3900f37aa6946e5b1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/atol.c",
+      "upstream_path": "lib/libc/stdlib/atol.c",
+      "role": "selected_source",
+      "bytes": 2206,
+      "sha256": "53b66e29c00ccf9e677f646748b1433ef830bb2d83871a1f74f181de19094aac"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/atoll.c",
+      "upstream_path": "lib/libc/stdlib/atoll.c",
+      "role": "selected_source",
+      "bytes": 2081,
+      "sha256": "ce188bb1e1dc058c77b41310177ab292c1c76e1ff853d08c17b14c956a803ef9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/bsearch.c",
+      "upstream_path": "lib/libc/stdlib/bsearch.c",
+      "role": "selected_source",
+      "bytes": 3466,
+      "sha256": "9f1385d7ba93c763a752283862cc2ed331d68c96a11d450d50b7d44a7474bef4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/bsearch_b.c",
+      "upstream_path": "lib/libc/stdlib/bsearch_b.c",
+      "role": "selected_source",
+      "bytes": 1427,
+      "sha256": "b1e6f8b20cbf75d5e4531f8fdcb30d2febcc1bcf71132e588a70e173b2708b58"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_01/cxa_thread_atexit.c",
+      "upstream_path": "lib/libc/stdlib/cxa_thread_atexit.c",
+      "role": "selected_source",
+      "bytes": 1675,
+      "sha256": "d7010e825a52426f0d945a09eac1a2030be2c2386703d13be158bfb2d7be2917"
+    }
+  ]
+}

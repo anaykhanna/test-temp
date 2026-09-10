@@ -1,0 +1,108 @@
+{
+  "queue_id": 51,
+  "name": "math_03",
+  "module": "math",
+  "subpath": "freebsd_bundles/math_03",
+  "selected_c_files": 12,
+  "included_dependency_files": 2,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_fmodf.c",
+      "upstream_path": "lib/msun/src/e_fmodf.c",
+      "role": "selected_source",
+      "bytes": 2691,
+      "sha256": "a86883a152878994a5faf95cddce06a4031ac851ff63113debdad38ce49e12ba"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_fmodl.c",
+      "upstream_path": "lib/msun/src/e_fmodl.c",
+      "role": "selected_source",
+      "bytes": 3962,
+      "sha256": "13968f2a38266496a46eebe33e39144b966762d6c6fcdb83c1cc6be368140157"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_gamma.c",
+      "upstream_path": "lib/msun/src/e_gamma.c",
+      "role": "selected_source",
+      "bytes": 668,
+      "sha256": "c902fba4051e43b2c63604b09c4b402aa76326c5baee8a5939f714906f9d26cc"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_gamma_r.c",
+      "upstream_path": "lib/msun/src/e_gamma_r.c",
+      "role": "selected_source",
+      "bytes": 743,
+      "sha256": "8e70273ce0e957096b66e0058c65d7162517975cbc24ce6f0b972bcef179148c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_gammaf.c",
+      "upstream_path": "lib/msun/src/e_gammaf.c",
+      "role": "selected_source",
+      "bytes": 758,
+      "sha256": "ed5e87a148382a107797d2b4198599c4071abc4e9b9892ac439843b147362f65"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_gammaf_r.c",
+      "upstream_path": "lib/msun/src/e_gammaf_r.c",
+      "role": "selected_source",
+      "bytes": 833,
+      "sha256": "a87b4f5ddf78513dbd9189d0b728c1e18a6cbed928d244155346e6a0ca799e86"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_hypot.c",
+      "upstream_path": "lib/msun/src/e_hypot.c",
+      "role": "selected_source",
+      "bytes": 3359,
+      "sha256": "a0a55effda1ee9db95997337007e44fa8e0687b62ecb3f0b1f659ceb12741bae"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_hypotf.c",
+      "upstream_path": "lib/msun/src/e_hypotf.c",
+      "role": "selected_source",
+      "bytes": 2200,
+      "sha256": "9058048262d02d16d310f118a370c0fdc4c75ea35aa9e82633b8ebcdc7bd970d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_hypotl.c",
+      "upstream_path": "lib/msun/src/e_hypotl.c",
+      "role": "selected_source",
+      "bytes": 3309,
+      "sha256": "910658d057249e990dd59bec3bb46212f946ddd8c1e71d85829ae3fca095fdeb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_j0.c",
+      "upstream_path": "lib/msun/src/e_j0.c",
+      "role": "selected_source",
+      "bytes": 15004,
+      "sha256": "fdd2ae90ad4c716b87358f6090e274d28bb68514477439c5b2fe4f0635cac1b7"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_j0f.c",
+      "upstream_path": "lib/msun/src/e_j0f.c",
+      "role": "selected_source",
+      "bytes": 10802,
+      "sha256": "36550daa1978f7477f7a2e81aa968660816f15bb0dbf3ae646a9dc99f361dd57"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/e_j1.c",
+      "upstream_path": "lib/msun/src/e_j1.c",
+      "role": "selected_source",
+      "bytes": 14736,
+      "sha256": "67308958b67d384ba482f349b9e1bf999fd0ca4e3f97b8768e59e983af312b31"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/math.h",
+      "upstream_path": "lib/msun/src/math.h",
+      "role": "local_include_dependency",
+      "bytes": 14623,
+      "sha256": "87bec43e9642243de91c3fc55c703bc10b84d57553761ed8caeceb0c82cbc15b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/math_03/math_private.h",
+      "upstream_path": "lib/msun/src/math_private.h",
+      "role": "local_include_dependency",
+      "bytes": 22733,
+      "sha256": "697e8edc2aac87432dcfa7a284fa1cc291558a1b7d14581da70d18d1524ad19c"
+    }
+  ]
+}

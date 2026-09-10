@@ -1,0 +1,115 @@
+{
+  "queue_id": 21,
+  "name": "locale_05",
+  "module": "locale",
+  "subpath": "freebsd_bundles/locale_05",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/locale_05/mblocal.h",
+      "upstream_path": "lib/libc/locale/mblocal.h",
+      "role": "local_include_dependency",
+      "bytes": 5045,
+      "sha256": "a3df7d063ee6117250ea974717c95186260773b848649de0161c2fa8b6fd5218"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/setlocale.h",
+      "upstream_path": "lib/libc/locale/setlocale.h",
+      "role": "local_include_dependency",
+      "bytes": 1670,
+      "sha256": "2195d8cd3a491a37a5c94b62f4db3170ad0dff558d2e6ab6b67114b28abd2ab1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcrtomb.c",
+      "upstream_path": "lib/libc/locale/wcrtomb.c",
+      "role": "selected_source",
+      "bytes": 2023,
+      "sha256": "bd8961f32bafc5271afd56221bfa3d732275251a1d7eb88c419890025e7f3918"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcsftime.c",
+      "upstream_path": "lib/libc/locale/wcsftime.c",
+      "role": "selected_source",
+      "bytes": 4134,
+      "sha256": "0a3872746927d0f5b9fdbfdd0fa009539cdb6f1630f17e4b33a134d9979700d9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcsnrtombs.c",
+      "upstream_path": "lib/libc/locale/wcsnrtombs.c",
+      "role": "selected_source",
+      "bytes": 3806,
+      "sha256": "5003228bac5468777ecbe51ed77e4cd3562be21db2303cb07257ff769672b65a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcsrtombs.c",
+      "upstream_path": "lib/libc/locale/wcsrtombs.c",
+      "role": "selected_source",
+      "bytes": 2202,
+      "sha256": "51e0c06493d66a79f95f19b73f251037793e485c646d6fc9db8a2bab07d72e9f"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcstod.c",
+      "upstream_path": "lib/libc/locale/wcstod.c",
+      "role": "selected_source",
+      "bytes": 3862,
+      "sha256": "b1369aeb7ccfcf607c5bc4b7a699edd25c71536e125912123fab8c45e39983bb"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcstof.c",
+      "upstream_path": "lib/libc/locale/wcstof.c",
+      "role": "selected_source",
+      "bytes": 2785,
+      "sha256": "b268f5c1266681edd70702e8d49bdf17fde77e553438670b59ef8e4c069a83b6"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcstoimax.c",
+      "upstream_path": "lib/libc/locale/wcstoimax.c",
+      "role": "selected_source",
+      "bytes": 4046,
+      "sha256": "14137df39cc4b76fb055d35b92fce726048f1d4632a92801a87e3006990e5863"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcstol.c",
+      "upstream_path": "lib/libc/locale/wcstol.c",
+      "role": "selected_source",
+      "bytes": 3998,
+      "sha256": "ed065a305f1a9c206286bd173926c1cd7a491a8fd4bc3d70908f84c59f0d524c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcstold.c",
+      "upstream_path": "lib/libc/locale/wcstold.c",
+      "role": "selected_source",
+      "bytes": 2807,
+      "sha256": "0bc41b6a76054bae2adffbe1ed4cc1e53e45e07821e4704807e22f35790e1cf0"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcstoll.c",
+      "upstream_path": "lib/libc/locale/wcstoll.c",
+      "role": "selected_source",
+      "bytes": 4054,
+      "sha256": "4fd84970b3a19de3eac3c55c3cfb4ca094a3e67dcdebb51ea4e37ef29eb96346"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcstombs.c",
+      "upstream_path": "lib/libc/locale/wcstombs.c",
+      "role": "selected_source",
+      "bytes": 2150,
+      "sha256": "8a162357cc28a757154422c3a89811665432eb4520c517fde053ab01821ddfb1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/wcstoul.c",
+      "upstream_path": "lib/libc/locale/wcstoul.c",
+      "role": "selected_source",
+      "bytes": 3958,
+      "sha256": "e129734750d8ce856c7036f16c7cfdc08ac49bfe334fa98b4c412e29942265f1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/locale_05/xlocale_private.h",
+      "upstream_path": "lib/libc/locale/xlocale_private.h",
+      "role": "local_include_dependency",
+      "bytes": 8400,
+      "sha256": "326feef84f3d6f264328db732b9aed6b52bda457b6d1550c905ffd0d0a03bb1b"
+    }
+  ]
+}

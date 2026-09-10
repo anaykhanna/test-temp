@@ -1,0 +1,94 @@
+{
+  "queue_id": 13,
+  "name": "gen_12",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_12",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_12/semctl.c",
+      "upstream_path": "lib/libc/gen/semctl.c",
+      "role": "selected_source",
+      "bytes": 2770,
+      "sha256": "1e251152cf4aff6836652016cf9914d9082477a90227150d52e51c2d79aacdd1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/sendmmsg.c",
+      "upstream_path": "lib/libc/gen/sendmmsg.c",
+      "role": "selected_source",
+      "bytes": 2168,
+      "sha256": "e070f5b12c30f9c6c4fb4bd4871cd37e4df5fd720b764156d6e7a8356033ac29"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/setdomainname.c",
+      "upstream_path": "lib/libc/gen/setdomainname.c",
+      "role": "selected_source",
+      "bytes": 2041,
+      "sha256": "00dcc2c6246dc313a4b9ad56d6cb2d7983c26ae729c872479e0fde251a29c496"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/sethostname.c",
+      "upstream_path": "lib/libc/gen/sethostname.c",
+      "role": "selected_source",
+      "bytes": 2034,
+      "sha256": "767076d9b3e1b4c420bdc84aa1c954d8b6568e9b34987b467cf7bda9e1e07340"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/setjmperr.c",
+      "upstream_path": "lib/libc/gen/setjmperr.c",
+      "role": "selected_source",
+      "bytes": 2188,
+      "sha256": "69302450c60fdce408c4a379afd3718dec5a59c313c84de2b23764f237a88a2e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/setmode.c",
+      "upstream_path": "lib/libc/gen/setmode.c",
+      "role": "selected_source",
+      "bytes": 12110,
+      "sha256": "f5764582c5c6722e6e36a97a88d26a3e1ec510dd722b1cae879603a1780b7a29"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/setproctitle.c",
+      "upstream_path": "lib/libc/gen/setproctitle.c",
+      "role": "selected_source",
+      "bytes": 5736,
+      "sha256": "37f323f24c05a6c60ddeb8f77b87a941acbec940e6e1502297d43d28ba1152b2"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/setprogname.c",
+      "upstream_path": "lib/libc/gen/setprogname.c",
+      "role": "selected_source",
+      "bytes": 242,
+      "sha256": "db45331fb160ea383da44f02a6c0fd98344e918771a03aad376124fd7f07851b"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/siginterrupt.c",
+      "upstream_path": "lib/libc/gen/siginterrupt.c",
+      "role": "selected_source",
+      "bytes": 2378,
+      "sha256": "cf146ecd383abb591c0712f9145c5a1137a23ae68c749f32bf73f75d312bc335"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/siglist.c",
+      "upstream_path": "lib/libc/gen/siglist.c",
+      "role": "selected_source",
+      "bytes": 3651,
+      "sha256": "7cb4d57fa9fc5d24289ace5c9dbc33ed7e88aca17246f0b547e4b981c272c9d1"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/signal.c",
+      "upstream_path": "lib/libc/gen/signal.c",
+      "role": "selected_source",
+      "bytes": 2251,
+      "sha256": "51730765a113b02b38754fc28a55fae1a2a6c2d7dfd4f40c33264215ed2b0cf5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_12/sigsetops.c",
+      "upstream_path": "lib/libc/gen/sigsetops.c",
+      "role": "selected_source",
+      "bytes": 3206,
+      "sha256": "b11d21a9d9266a9379a30688630027de8677352bf7a7761d332eb4521fecf34a"
+    }
+  ]
+}

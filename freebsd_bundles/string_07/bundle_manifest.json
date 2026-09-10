@@ -1,0 +1,94 @@
+{
+  "queue_id": 47,
+  "name": "string_07",
+  "module": "string",
+  "subpath": "freebsd_bundles/string_07",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/string_07/wcspbrk.c",
+      "upstream_path": "lib/libc/string/wcspbrk.c",
+      "role": "selected_source",
+      "bytes": 1999,
+      "sha256": "afa574f30bbcd4054a7264348c9fe9bf9a8ff6ef727b86b84d446c23426e4d73"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wcsrchr.c",
+      "upstream_path": "lib/libc/string/wcsrchr.c",
+      "role": "selected_source",
+      "bytes": 1662,
+      "sha256": "02d9e2405de77ca190877d1bf81a22946158e56c06aa6e245f082b3fd9951391"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wcsspn.c",
+      "upstream_path": "lib/libc/string/wcsspn.c",
+      "role": "selected_source",
+      "bytes": 1970,
+      "sha256": "a09693642d97d8830563536bdb0f5842c014df0e626c2131f3d0e58b4b12be9a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wcsstr.c",
+      "upstream_path": "lib/libc/string/wcsstr.c",
+      "role": "selected_source",
+      "bytes": 2335,
+      "sha256": "553b2f64058ee4963a7ef175b7e2d6c7d8ea82a68fbe201c3374d23722e402d9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wcstok.c",
+      "upstream_path": "lib/libc/string/wcstok.c",
+      "role": "selected_source",
+      "bytes": 2803,
+      "sha256": "b8a2415ac476d1c855970fb430861f48b41c126f4d001c1996e4c55d7ec325a4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wcswidth.c",
+      "upstream_path": "lib/libc/string/wcswidth.c",
+      "role": "selected_source",
+      "bytes": 2683,
+      "sha256": "aa6f15e285601739a1018ac0d2c121b711819707bef9595242bc5e79a90af1d3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wcsxfrm.c",
+      "upstream_path": "lib/libc/string/wcsxfrm.c",
+      "role": "selected_source",
+      "bytes": 2734,
+      "sha256": "1776282f59a9488e416250b3947e9e07b13f84652268743ae8c09aaeec2fd625"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wmemchr.c",
+      "upstream_path": "lib/libc/string/wmemchr.c",
+      "role": "selected_source",
+      "bytes": 1920,
+      "sha256": "811af1c51bebc4adbd9dbe09454cc28a7360cf41a0888b5c2087439d60a52d30"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wmemcmp.c",
+      "upstream_path": "lib/libc/string/wmemcmp.c",
+      "role": "selected_source",
+      "bytes": 1942,
+      "sha256": "5a09d8633602f79aa6661ebf8421576fa188f938ead15e3ac38e6475cf0399e3"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wmemcpy.c",
+      "upstream_path": "lib/libc/string/wmemcpy.c",
+      "role": "selected_source",
+      "bytes": 1872,
+      "sha256": "2950f1eb2634f4c1a2c58b7c4f71a14e16fbe6e3c8872fe21aca978b3ababd8a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wmemmove.c",
+      "upstream_path": "lib/libc/string/wmemmove.c",
+      "role": "selected_source",
+      "bytes": 1852,
+      "sha256": "3c120b9f0a22f0b51b5cd43d326c28387df00b6a59f843b68e14ba1b9eedfa86"
+    },
+    {
+      "bundle_path": "freebsd_bundles/string_07/wmempcpy.c",
+      "upstream_path": "lib/libc/string/wmempcpy.c",
+      "role": "selected_source",
+      "bytes": 1718,
+      "sha256": "bda598cbf0c52d0e4fdcb9fc0494e732526e4be09c1eb1520f03f614a6ffc4a4"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "queue_id": 6,
+  "name": "gen_05",
+  "module": "gen",
+  "subpath": "freebsd_bundles/gen_05",
+  "selected_c_files": 12,
+  "included_dependency_files": 4,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/gen_05/feature_present.c",
+      "upstream_path": "lib/libc/gen/feature_present.c",
+      "role": "selected_source",
+      "bytes": 2327,
+      "sha256": "a28f6a1efb94c11ed47c5bd89128128a34c344eea3776d98d7e8eac9a9fda619"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fmtcheck.c",
+      "upstream_path": "lib/libc/gen/fmtcheck.c",
+      "role": "selected_source",
+      "bytes": 7352,
+      "sha256": "828f215ec45f7dbc1ee114395d37d6d05610c70f5a9f17f784a613e4db09d059"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fmtmsg.c",
+      "upstream_path": "lib/libc/gen/fmtmsg.c",
+      "role": "selected_source",
+      "bytes": 6161,
+      "sha256": "364f9c70fc212ffdf8b526af550eb36768d451ae39f27a7fc4720be84d510ba8"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fnmatch.c",
+      "upstream_path": "lib/libc/gen/fnmatch.c",
+      "role": "selected_source",
+      "bytes": 9325,
+      "sha256": "ceab4f9174e27be3b1827a68b277eb2ca7103eeb24934fda3a6f2178c74ec8c4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fpclassify.c",
+      "upstream_path": "lib/libc/gen/fpclassify.c",
+      "role": "selected_source",
+      "bytes": 2816,
+      "sha256": "f0f214433e60cc4412dcf1d5ca14fc3a0e7375065dbd9fcbc1a0604aa567f5b8"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/frexp.c",
+      "upstream_path": "lib/libc/gen/frexp.c",
+      "role": "selected_source",
+      "bytes": 1956,
+      "sha256": "be7b4eb3aecc3278439484a25a07e7b23aa5960cdd90137a441023d11d349a60"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fstab.c",
+      "upstream_path": "lib/libc/gen/fstab.c",
+      "role": "selected_source",
+      "bytes": 7246,
+      "sha256": "cdf950af62626d86ea3e7485e5ad61d5b1f2da5b05c33d32549cfc21cdda6561"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/ftok.c",
+      "upstream_path": "lib/libc/gen/ftok.c",
+      "role": "selected_source",
+      "bytes": 1861,
+      "sha256": "bd18467033fde8dd5261af276b55fab54d1cdb9ff439952effc50dcc09436d9c"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fts-compat.c",
+      "upstream_path": "lib/libc/gen/fts-compat.c",
+      "role": "selected_source",
+      "bytes": 34571,
+      "sha256": "36a9270d77d7f669d9ab6ea109e3311bd5060b4e320e1bafea6ff36b3c3cde19"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fts-compat.h",
+      "upstream_path": "lib/libc/gen/fts-compat.h",
+      "role": "local_include_dependency",
+      "bytes": 5523,
+      "sha256": "f92ebddfab353cff9821a62dd59eff306014fd509203fe80193224bb6a0aefe8"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fts-compat11.c",
+      "upstream_path": "lib/libc/gen/fts-compat11.c",
+      "role": "selected_source",
+      "bytes": 34127,
+      "sha256": "cf2bff541ef09b2ba213ba2c4b98fea54e6ee5e0408e404d1179190e65a3a4cc"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fts-compat11.h",
+      "upstream_path": "lib/libc/gen/fts-compat11.h",
+      "role": "local_include_dependency",
+      "bytes": 4024,
+      "sha256": "649cecc0f513a06b42fd434656e4c6db7228e97f4a36a2b428b5c95d0db8e321"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/fts.c",
+      "upstream_path": "lib/libc/gen/fts.c",
+      "role": "selected_source",
+      "bytes": 33344,
+      "sha256": "30623f0bd2087ebf21859bc268b172b5262cda402e3a0752946132bcaa296345"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/ftw-compat11.c",
+      "upstream_path": "lib/libc/gen/ftw-compat11.c",
+      "role": "selected_source",
+      "bytes": 2705,
+      "sha256": "7c839fe9c27759fb8b803bd56fdb0c78c928c8d93f3c2711d794108d1042db4e"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/gen-compat.h",
+      "upstream_path": "lib/libc/gen/gen-compat.h",
+      "role": "local_include_dependency",
+      "bytes": 2442,
+      "sha256": "de7690e2df9fd065fc8c163d72428335adccdaca9610cfca73ae99536a724d84"
+    },
+    {
+      "bundle_path": "freebsd_bundles/gen_05/gen-private.h",
+      "upstream_path": "lib/libc/gen/gen-private.h",
+      "role": "local_include_dependency",
+      "bytes": 2758,
+      "sha256": "90268b33986396cec9727caa0738a65fb6bcff1a8491efb31f34c0d0b80d7353"
+    }
+  ]
+}

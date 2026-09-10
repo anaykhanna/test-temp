@@ -1,0 +1,94 @@
+{
+  "queue_id": 38,
+  "name": "stdlib_05",
+  "module": "stdlib",
+  "subpath": "freebsd_bundles/stdlib_05",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/remque.c",
+      "upstream_path": "lib/libc/stdlib/remque.c",
+      "role": "selected_source",
+      "bytes": 561,
+      "sha256": "5b8b6892685c5df03f5c6b57cd9ac365827e15f4fb5f44638d34cdd4454ab154"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/set_constraint_handler_s.c",
+      "upstream_path": "lib/libc/stdlib/set_constraint_handler_s.c",
+      "role": "selected_source",
+      "bytes": 3029,
+      "sha256": "70e74b57f79b88a8e5f4d20cd3360052f57454dfc33178f8915293bbe3b04281"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strfmon.c",
+      "upstream_path": "lib/libc/stdlib/strfmon.c",
+      "role": "selected_source",
+      "bytes": 17419,
+      "sha256": "755cb4f7af4f907b70e5d04f54cd5f6657dc9fa5c29fb3acac529be66b617db9"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strtoimax.c",
+      "upstream_path": "lib/libc/stdlib/strtoimax.c",
+      "role": "selected_source",
+      "bytes": 5123,
+      "sha256": "1f65f167e6faea50ca87d0827d413b14663f470d035553589d8e0d8d19ef4379"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strtol.c",
+      "upstream_path": "lib/libc/stdlib/strtol.c",
+      "role": "selected_source",
+      "bytes": 5050,
+      "sha256": "5d0477c3aeaa6382389c65b0f92aeccd12e86d1aadd0c9abeed7eeba84648137"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strtold.c",
+      "upstream_path": "lib/libc/stdlib/strtold.c",
+      "role": "selected_source",
+      "bytes": 1707,
+      "sha256": "af190b8ab4f998d5bc90fa6ec6361d3ad2ccd0752bea6b5cf83d9787fc7e45d5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strtoll.c",
+      "upstream_path": "lib/libc/stdlib/strtoll.c",
+      "role": "selected_source",
+      "bytes": 5183,
+      "sha256": "1e7abf2e5df894a5d5f06caac750ede506cfe393355ebfaa2a88b9a91ba735c0"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strtonum.c",
+      "upstream_path": "lib/libc/stdlib/strtonum.c",
+      "role": "selected_source",
+      "bytes": 1852,
+      "sha256": "0059475bc1474c8ac2a15c2ea879e9c13ab0fbe10b5923736d06b15d9d314783"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strtoq.c",
+      "upstream_path": "lib/libc/stdlib/strtoq.c",
+      "role": "selected_source",
+      "bytes": 2015,
+      "sha256": "20cf2b7afbbd5381b01dcd2b5674f531ea66e7fabfcba37deace2f4e22f50063"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strtoul.c",
+      "upstream_path": "lib/libc/stdlib/strtoul.c",
+      "role": "selected_source",
+      "bytes": 4027,
+      "sha256": "020108466dad5ef86f894814b9ec79b8a09e1783e278def658b1250574de5d8a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strtoull.c",
+      "upstream_path": "lib/libc/stdlib/strtoull.c",
+      "role": "selected_source",
+      "bytes": 4061,
+      "sha256": "742daaa8b3bf73c964e44aa9e3715398daa1d45f33f5032f633fdcc1d7fd51c4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_05/strtoumax.c",
+      "upstream_path": "lib/libc/stdlib/strtoumax.c",
+      "role": "selected_source",
+      "bytes": 4031,
+      "sha256": "f0a1feb667a156513921a664e9fa3b41112ee7a3a6a2b24557f297c2d684d54d"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queue_id": 48,
+  "name": "string_08",
+  "module": "string",
+  "subpath": "freebsd_bundles/string_08",
+  "selected_c_files": 1,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/string_08/wmemset.c",
+      "upstream_path": "lib/libc/string/wmemset.c",
+      "role": "selected_source",
+      "bytes": 1876,
+      "sha256": "cc630d136d7c0739e92527b99b438a42115c3aca273bd8ad529aa0eaa18559ad"
+    }
+  ]
+}

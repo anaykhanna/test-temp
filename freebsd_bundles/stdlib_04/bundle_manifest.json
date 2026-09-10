@@ -1,0 +1,101 @@
+{
+  "queue_id": 37,
+  "name": "stdlib_04",
+  "module": "stdlib",
+  "subpath": "freebsd_bundles/stdlib_04",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/ptsname.c",
+      "upstream_path": "lib/libc/stdlib/ptsname.c",
+      "role": "selected_source",
+      "bytes": 3434,
+      "sha256": "e01eadb9b87fda6679157490e68f6d06ce9fd70c353fc06a7f33c9002d738b2a"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/qsort.c",
+      "upstream_path": "lib/libc/stdlib/qsort.c",
+      "role": "selected_source",
+      "bytes": 7601,
+      "sha256": "eeb11529c0d648f3a6d262540871bf675d7309569c8e996483a68465842b7417"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/qsort_r.c",
+      "upstream_path": "lib/libc/stdlib/qsort_r.c",
+      "role": "selected_source",
+      "bytes": 137,
+      "sha256": "45fa781456cd6c7ce001e7be9ac99b56e2cfd9f847c3d511e8b37db8e6338aae"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/qsort_r_compat.c",
+      "upstream_path": "lib/libc/stdlib/qsort_r_compat.c",
+      "role": "selected_source",
+      "bytes": 501,
+      "sha256": "53899472d27bfd7d436512c3a1665aad8fdbf5651243eb8320473d85c29def48"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/qsort_s.c",
+      "upstream_path": "lib/libc/stdlib/qsort_s.c",
+      "role": "selected_source",
+      "bytes": 137,
+      "sha256": "cb0dac98062eee46aa7d9e87d4fa0ddf6fca3f11565dc8a2a884ccd4ac23f4a4"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/quick_exit.c",
+      "upstream_path": "lib/libc/stdlib/quick_exit.c",
+      "role": "selected_source",
+      "bytes": 2542,
+      "sha256": "29489245be6d89303c06f42c2c330e9718356c076c0605033303d59afb89b394"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/radixsort.c",
+      "upstream_path": "lib/libc/stdlib/radixsort.c",
+      "role": "selected_source",
+      "bytes": 8345,
+      "sha256": "620028c59412b966e1635344f60a6bc71163179c529c9cc8b9bf7145cfa62ac5"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/rand.c",
+      "upstream_path": "lib/libc/stdlib/rand.c",
+      "role": "selected_source",
+      "bytes": 4906,
+      "sha256": "dbc939a7c6997e0f83066a32234c52752d22ad7be6021a1e32dead9d9ca8fb13"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/random.c",
+      "upstream_path": "lib/libc/stdlib/random.c",
+      "role": "selected_source",
+      "bytes": 18457,
+      "sha256": "972b2a28e46716b8fb9a080f48c28f21fc88ea041448225d86b298aeca6ba181"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/random.h",
+      "upstream_path": "lib/libc/stdlib/random.h",
+      "role": "local_include_dependency",
+      "bytes": 3047,
+      "sha256": "231f1482f1f73dda15d99d8f3a0a8362cc259e715ded5c95fc174e4c12810346"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/reallocarray.c",
+      "upstream_path": "lib/libc/stdlib/reallocarray.c",
+      "role": "selected_source",
+      "bytes": 1404,
+      "sha256": "fce48d3b4c325d57be91e79f3cf43d3c4aeed39514a39201e55c32ae7382ee7d"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/reallocf.c",
+      "upstream_path": "lib/libc/stdlib/reallocf.c",
+      "role": "selected_source",
+      "bytes": 1861,
+      "sha256": "48672f14e62d7768bbb322fe58a617ee5fbde4b97a54626009f96f045937efef"
+    },
+    {
+      "bundle_path": "freebsd_bundles/stdlib_04/realpath.c",
+      "upstream_path": "lib/libc/stdlib/realpath.c",
+      "role": "selected_source",
+      "bytes": 6659,
+      "sha256": "6b0b5d0f29ade87d83225c9fa444bfa78c6607638ac4e5213ff9c8e30ddd7cba"
+    }
+  ]
+}
