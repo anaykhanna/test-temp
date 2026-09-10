@@ -1,0 +1,12 @@
+{
+  "name": "search_tsearch_only",
+  "module": "search",
+  "selection_policy": "single_file_failure_isolation",
+  "subpath": "bundles/search_tsearch_only",
+  "selected_c_files": 1,
+  "included_dependency_files": 1,
+  "files": [
+    {"bundle_path": "bundles/search_tsearch_only/tsearch.c", "upstream_path": "src/search/tsearch.c", "role": "selected_source", "bytes": 1701, "sha256": "2b694a0b5d5298ae62df241f5729a36016d2ec5f95b2546f7f05d23ff51373dd"},
+    {"bundle_path": "bundles/search_tsearch_only/tsearch.h", "upstream_path": "src/search/tsearch.h", "role": "local_include_dependency", "bytes": 252, "sha256": "8d3e27ca196493b5c96f32ba1f1adf0ded1792ca472ec33a6190fb785c2b0722"}
+  ]
+}

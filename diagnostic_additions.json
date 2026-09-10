@@ -1,0 +1,5 @@
+{
+  "purpose": "Second-stage isolation of the failed search_tree_lookup bundle",
+  "upstream_commit": "0784374d561435f7c787a555aeab8ede699ed298",
+  "bundles": ["bundles/search_tfind_only", "bundles/search_tsearch_only"]
+}
