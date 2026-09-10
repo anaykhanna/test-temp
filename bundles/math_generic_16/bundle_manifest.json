@@ -1,0 +1,115 @@
+{
+  "name": "math_generic_16",
+  "module": "math",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/math_generic_16",
+  "selected_c_files": 12,
+  "included_dependency_files": 3,
+  "files": [
+    {
+      "bundle_path": "bundles/math_generic_16/exp2f_data.h",
+      "upstream_path": "src/math/exp2f_data.h",
+      "role": "local_include_dependency",
+      "bytes": 499,
+      "sha256": "fb52b690bef63df2e8996f2d2b3fd77f9ea08795863e73afdc882df04460e850"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/pow_data.c",
+      "upstream_path": "src/math/pow_data.c",
+      "role": "selected_source",
+      "bytes": 10455,
+      "sha256": "2052ec913f9b4a2170a98a6fcbcd7694f5dec220036b00c36106a2b4b65a4c55"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/pow_data.h",
+      "upstream_path": "src/math/pow_data.h",
+      "role": "local_include_dependency",
+      "bytes": 519,
+      "sha256": "5014345a7958adcf6ff835b5e96afa99dd5a98c40dfe968442288e002b8e01a3"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/powf.c",
+      "upstream_path": "src/math/powf.c",
+      "role": "selected_source",
+      "bytes": 5022,
+      "sha256": "74069b3a380cf954361e0243b38de2094ae680e2ecfb3e50af61ab576f13babf"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/powf_data.c",
+      "upstream_path": "src/math/powf_data.c",
+      "role": "selected_source",
+      "bytes": 1388,
+      "sha256": "136f491b0f904842b926784134d0adba7a9103d2ce8a226276dd6e9260457398"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/powf_data.h",
+      "upstream_path": "src/math/powf_data.h",
+      "role": "local_include_dependency",
+      "bytes": 555,
+      "sha256": "5d632276e5f21cdcd47f35c53cf792640ad347aabce1e1bd5774fad5371fc8d8"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/powl.c",
+      "upstream_path": "src/math/powl.c",
+      "role": "selected_source",
+      "bytes": 12698,
+      "sha256": "b1c9f5993fe37ce04e4291cdeaa8d690587f25076525a417c9657f082b7ae987"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/remainder.c",
+      "upstream_path": "src/math/remainder.c",
+      "role": "selected_source",
+      "bytes": 124,
+      "sha256": "1996546b761c35236155ef3c4740ce6c108e83e26c2e610f46e0b78e689a12cb"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/remainderf.c",
+      "upstream_path": "src/math/remainderf.c",
+      "role": "selected_source",
+      "bytes": 125,
+      "sha256": "c9706aa3f83efbf2fe4f00c688ec1cadbedcfb99ad538b97cddf4e74c8249756"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/remainderl.c",
+      "upstream_path": "src/math/remainderl.c",
+      "role": "selected_source",
+      "bytes": 273,
+      "sha256": "f742d447e5d1cd513297c774d096bcf96d0d70dec0f6fbe1eac9315b5b2a61a5"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/remquo.c",
+      "upstream_path": "src/math/remquo.c",
+      "role": "selected_source",
+      "bytes": 1389,
+      "sha256": "7ccf8f5c1376de85a8741dcbdcd9feb69fe8268ddd49aebc796036f80a9eaee9"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/remquof.c",
+      "upstream_path": "src/math/remquof.c",
+      "role": "selected_source",
+      "bytes": 1369,
+      "sha256": "f40401d2bc1732932375a64590a6844229d566c1a6907a6aa6480a455284fcf9"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/remquol.c",
+      "upstream_path": "src/math/remquol.c",
+      "role": "selected_source",
+      "bytes": 2266,
+      "sha256": "ce2ab067c4780ef11482b40c6e93d0ce27b5c5df4fdb117716243b533ee1a829"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/rint.c",
+      "upstream_path": "src/math/rint.c",
+      "role": "selected_source",
+      "bytes": 489,
+      "sha256": "6f393f377e693f6887c0f6495eba476abc45d2f4127fc93366fc02f1f49e2fef"
+    },
+    {
+      "bundle_path": "bundles/math_generic_16/rintf.c",
+      "upstream_path": "src/math/rintf.c",
+      "role": "selected_source",
+      "bytes": 514,
+      "sha256": "9adef215d38823468cd77d7d5a9b305041d7020196ce65caba35f05ba2dd6f34"
+    }
+  ]
+}

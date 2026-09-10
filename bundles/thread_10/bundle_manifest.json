@@ -1,0 +1,94 @@
+{
+  "name": "thread_10",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_10",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_10/pthread_testcancel.c",
+      "upstream_path": "src/thread/pthread_testcancel.c",
+      "role": "selected_source",
+      "bytes": 190,
+      "sha256": "7d2f67295f5ea33d5840400f2e20122448475c2bc9b07d218e65f243afa6efbd"
+    },
+    {
+      "bundle_path": "bundles/thread_10/sem_destroy.c",
+      "upstream_path": "src/thread/sem_destroy.c",
+      "role": "selected_source",
+      "bytes": 67,
+      "sha256": "eade312e29b51a9812394f876088f60548ec536ac45a60fdaa1ad026988e5c72"
+    },
+    {
+      "bundle_path": "bundles/thread_10/sem_getvalue.c",
+      "upstream_path": "src/thread/sem_getvalue.c",
+      "role": "selected_source",
+      "bytes": 173,
+      "sha256": "d7cdca7fc67ba76f69eca39a169f24531f9e234bc29c42bdf4cdb7c085c71233"
+    },
+    {
+      "bundle_path": "bundles/thread_10/sem_init.c",
+      "upstream_path": "src/thread/sem_init.c",
+      "role": "selected_source",
+      "bytes": 276,
+      "sha256": "6d651e16322418b8c9659a7190ec326a53a64751931a03ef38a53877f11761f7"
+    },
+    {
+      "bundle_path": "bundles/thread_10/sem_open.c",
+      "upstream_path": "src/thread/sem_open.c",
+      "role": "selected_source",
+      "bytes": 4364,
+      "sha256": "28c7592ec2eff63b563992c4564b0f6daf920000e6d7c6e3f0201951372ab903"
+    },
+    {
+      "bundle_path": "bundles/thread_10/sem_post.c",
+      "upstream_path": "src/thread/sem_post.c",
+      "role": "selected_source",
+      "bytes": 465,
+      "sha256": "125c86d2b50eade7b7c760a3e52dc5f2977f43b7fe740f3a9b693f4016926d17"
+    },
+    {
+      "bundle_path": "bundles/thread_10/sem_timedwait.c",
+      "upstream_path": "src/thread/sem_timedwait.c",
+      "role": "selected_source",
+      "bytes": 685,
+      "sha256": "e013e5365d6b3f4bc1a9dbdf48b63ed46b46681c1c84fb008221e20ca28cffe5"
+    },
+    {
+      "bundle_path": "bundles/thread_10/sem_trywait.c",
+      "upstream_path": "src/thread/sem_trywait.c",
+      "role": "selected_source",
+      "bytes": 243,
+      "sha256": "8b8e27011d461c4b4c0108cbe4697ee7fc338c34939122d546f99eaa35febc5a"
+    },
+    {
+      "bundle_path": "bundles/thread_10/sem_unlink.c",
+      "upstream_path": "src/thread/sem_unlink.c",
+      "role": "selected_source",
+      "bytes": 109,
+      "sha256": "8138760c707dc45b4d91366b78f79106fa863f8a3a5b57788c3491529623b208"
+    },
+    {
+      "bundle_path": "bundles/thread_10/sem_wait.c",
+      "upstream_path": "src/thread/sem_wait.c",
+      "role": "selected_source",
+      "bytes": 84,
+      "sha256": "2662deae88df26b1e4fb2f88b67f7f7a2ce671b863153be76b928ee927363bd4"
+    },
+    {
+      "bundle_path": "bundles/thread_10/synccall.c",
+      "upstream_path": "src/thread/synccall.c",
+      "role": "selected_source",
+      "bytes": 3129,
+      "sha256": "220dd1bb651710e4206768856472e9853a8ab4ba25eb2e6dbd3c1cf6607d3c3d"
+    },
+    {
+      "bundle_path": "bundles/thread_10/syscall_cp.c",
+      "upstream_path": "src/thread/syscall_cp.c",
+      "role": "selected_source",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

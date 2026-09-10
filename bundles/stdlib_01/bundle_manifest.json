@@ -1,0 +1,94 @@
+{
+  "name": "stdlib_01",
+  "module": "stdlib",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/stdlib_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/stdlib_01/abs.c",
+      "upstream_path": "src/stdlib/abs.c",
+      "role": "selected_source",
+      "bytes": 62,
+      "sha256": "ac564f78ab8f3d301e1e6b31ae8145a460e515e31026f81da55775c800a37929"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/atof.c",
+      "upstream_path": "src/stdlib/atof.c",
+      "role": "selected_source",
+      "bytes": 74,
+      "sha256": "2d5733fbc1ae1b50b0b0b5bd6533551a6e69dae5491b0150f3b4c459dd722e45"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/atoi.c",
+      "upstream_path": "src/stdlib/atoi.c",
+      "role": "selected_source",
+      "bytes": 300,
+      "sha256": "76cf48cf82b18f7f5350209e453e5ad003d7a75c60a64b9c5c5d6db0f4e9db27"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/atol.c",
+      "upstream_path": "src/stdlib/atol.c",
+      "role": "selected_source",
+      "bytes": 308,
+      "sha256": "8262cd55bd64fc505a660ac5736be610fed712e0615553ae561878f3f15ca5e7"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/atoll.c",
+      "upstream_path": "src/stdlib/atoll.c",
+      "role": "selected_source",
+      "bytes": 320,
+      "sha256": "8d3646e048efde88cceddcc095baa34f9a3f3597539f1153a83aae103bf9b53c"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/bsearch.c",
+      "upstream_path": "src/stdlib/bsearch.c",
+      "role": "selected_source",
+      "bytes": 397,
+      "sha256": "91d170a3505dff3d9605e241122ba60d0c4e98b0d0fd6b30ee6a726f70045189"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/div.c",
+      "upstream_path": "src/stdlib/div.c",
+      "role": "selected_source",
+      "bytes": 90,
+      "sha256": "7ff1bca64c5a9a625819e138ad0de98d3888cf853d5a24d2ea5c2e9c7a0aa987"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/ecvt.c",
+      "upstream_path": "src/stdlib/ecvt.c",
+      "role": "selected_source",
+      "bytes": 358,
+      "sha256": "8c2954c93f86aa873b7b0c109b18f534291149a3648d13c2e659dd718f35cf32"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/fcvt.c",
+      "upstream_path": "src/stdlib/fcvt.c",
+      "role": "selected_source",
+      "bytes": 454,
+      "sha256": "807c9281587c25d5c7481c9efcf8e5e88e203467bfcb4ebdfe8af94707583f27"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/gcvt.c",
+      "upstream_path": "src/stdlib/gcvt.c",
+      "role": "selected_source",
+      "bytes": 139,
+      "sha256": "4e180b2129e0484359af3d660505f1ea16972ea41d201ddad063103dbce39f8e"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/imaxabs.c",
+      "upstream_path": "src/stdlib/imaxabs.c",
+      "role": "selected_source",
+      "bytes": 78,
+      "sha256": "ca8a3f78f746320434deb5ca237abb41f4b13f04cad88765fa5d10104eed78a1"
+    },
+    {
+      "bundle_path": "bundles/stdlib_01/imaxdiv.c",
+      "upstream_path": "src/stdlib/imaxdiv.c",
+      "role": "selected_source",
+      "bytes": 114,
+      "sha256": "94fe4d29e24ffe9856e0e9e8755229e6ff59ac479699f435b1bfeb5730301cfd"
+    }
+  ]
+}

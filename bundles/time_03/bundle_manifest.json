@@ -1,0 +1,101 @@
+{
+  "name": "time_03",
+  "module": "time",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/time_03",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/time_03/mktime.c",
+      "upstream_path": "src/time/mktime.c",
+      "role": "selected_source",
+      "bytes": 561,
+      "sha256": "d51e48e0832b5eeb2cffbe7b774edad3d61f71533160743b63eb351db5d97fec"
+    },
+    {
+      "bundle_path": "bundles/time_03/nanosleep.c",
+      "upstream_path": "src/time/nanosleep.c",
+      "role": "selected_source",
+      "bytes": 180,
+      "sha256": "5ad9738734680a61ac941173a478374a23f9bd2297336d3013a35d51e6030ff7"
+    },
+    {
+      "bundle_path": "bundles/time_03/strftime.c",
+      "upstream_path": "src/time/strftime.c",
+      "role": "selected_source",
+      "bytes": 6117,
+      "sha256": "89d63a7d0eab750829a12dcefdc513cd3cee6d7261c883df08f630ead46e3a51"
+    },
+    {
+      "bundle_path": "bundles/time_03/strptime.c",
+      "upstream_path": "src/time/strptime.c",
+      "role": "selected_source",
+      "bytes": 4124,
+      "sha256": "281e146407ef41c94591e5e96117777b57be2e0c19df1d190066bc3058180194"
+    },
+    {
+      "bundle_path": "bundles/time_03/time.c",
+      "upstream_path": "src/time/time.c",
+      "role": "selected_source",
+      "bytes": 170,
+      "sha256": "d10837980fcfffa1bd4c7e6f3bfc0904ce002f9ccab9b0458fe4aac6415c2c98"
+    },
+    {
+      "bundle_path": "bundles/time_03/time_impl.h",
+      "upstream_path": "src/time/time_impl.h",
+      "role": "local_include_dependency",
+      "bytes": 516,
+      "sha256": "266237304c1524f9af6d2ac0e85534e421da6be35a62e5f0c47c0501e4a2e013"
+    },
+    {
+      "bundle_path": "bundles/time_03/timegm.c",
+      "upstream_path": "src/time/timegm.c",
+      "role": "selected_source",
+      "bytes": 304,
+      "sha256": "1bf6510b27590ef41e9cb181cf8fec3e5b6435f3e57127d95053237ad1a863f8"
+    },
+    {
+      "bundle_path": "bundles/time_03/timer_create.c",
+      "upstream_path": "src/time/timer_create.c",
+      "role": "selected_source",
+      "bytes": 2992,
+      "sha256": "fedf5589cd543a137572af7514afc6fbe68a805fbfaa40ad98deaaf37b06d79f"
+    },
+    {
+      "bundle_path": "bundles/time_03/timer_delete.c",
+      "upstream_path": "src/time/timer_delete.c",
+      "role": "selected_source",
+      "bytes": 315,
+      "sha256": "243eccd2a4e6a7ea0d5a9844391afe5ced55d10fb26b6d80ef18d051ad7695c2"
+    },
+    {
+      "bundle_path": "bundles/time_03/timer_getoverrun.c",
+      "upstream_path": "src/time/timer_getoverrun.c",
+      "role": "selected_source",
+      "bytes": 267,
+      "sha256": "770835d98c243629d551d29c9acc9950091051f82d9d4d5181f3cba73d681e57"
+    },
+    {
+      "bundle_path": "bundles/time_03/timer_gettime.c",
+      "upstream_path": "src/time/timer_gettime.c",
+      "role": "selected_source",
+      "bytes": 750,
+      "sha256": "b5090c6f60819698238f2a53fe69a8438c2d2c2b46ab5871254ee572626e59db"
+    },
+    {
+      "bundle_path": "bundles/time_03/timer_settime.c",
+      "upstream_path": "src/time/timer_settime.c",
+      "role": "selected_source",
+      "bytes": 1246,
+      "sha256": "2c38bce39bde91ba17ce24313be92bc37e8201655c6bcff6b5dc3ccc00c55973"
+    },
+    {
+      "bundle_path": "bundles/time_03/times.c",
+      "upstream_path": "src/time/times.c",
+      "role": "selected_source",
+      "bytes": 115,
+      "sha256": "73d2af2dd7937f038f553d5900d5227c1cf6865558621624ae430c8fcb6d034a"
+    }
+  ]
+}

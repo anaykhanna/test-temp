@@ -1,0 +1,101 @@
+{
+  "name": "stdio_05",
+  "module": "stdio",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/stdio_05",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/stdio_05/fwide.c",
+      "upstream_path": "src/stdio/fwide.c",
+      "role": "selected_source",
+      "bytes": 289,
+      "sha256": "3de6ad035f81880d46159c2db713767ef27df09dc3eae9d7b8181cb5fbae1396"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/fwprintf.c",
+      "upstream_path": "src/stdio/fwprintf.c",
+      "role": "selected_source",
+      "bytes": 227,
+      "sha256": "847018d129fc5711a29ae1330b790813717db110ed86a01dfa939998409d2ef6"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/fwrite.c",
+      "upstream_path": "src/stdio/fwrite.c",
+      "role": "selected_source",
+      "bytes": 732,
+      "sha256": "91b1cbf23660e909dfe788f1c7cc46e19a937342dbaa357eda1946d2daf5c9c8"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/fwscanf.c",
+      "upstream_path": "src/stdio/fwscanf.c",
+      "role": "selected_source",
+      "bytes": 264,
+      "sha256": "d0d76d350c79d0eb96092b1e6d15fd2ca806960c80a292492ddb5652535eeffe"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/getc.c",
+      "upstream_path": "src/stdio/getc.c",
+      "role": "selected_source",
+      "bytes": 109,
+      "sha256": "d9dfc4eb9e49e7edfa5153c1203d866d78aa0dabc27891ec1e954b0582823156"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/getc.h",
+      "upstream_path": "src/stdio/getc.h",
+      "role": "local_include_dependency",
+      "bytes": 480,
+      "sha256": "d363b905b5c1959d3e627199eb2c40a0852766386a0790182996b99cdf09740b"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/getc_unlocked.c",
+      "upstream_path": "src/stdio/getc_unlocked.c",
+      "role": "selected_source",
+      "bytes": 176,
+      "sha256": "91c4c482908a4217ff4d57e079e1252d2c3d71886d7949434bee2a9cd3524fb8"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/getchar.c",
+      "upstream_path": "src/stdio/getchar.c",
+      "role": "selected_source",
+      "bytes": 84,
+      "sha256": "24d7b7c4d931507c2af401007bd46936c6535772913e1c5b0b7b8a510a771634"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/getchar_unlocked.c",
+      "upstream_path": "src/stdio/getchar_unlocked.c",
+      "role": "selected_source",
+      "bytes": 86,
+      "sha256": "48166be1849bf6551684910b4261597782f43ce748e770273971f16d36bb6513"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/getdelim.c",
+      "upstream_path": "src/stdio/getdelim.c",
+      "role": "selected_source",
+      "bytes": 1518,
+      "sha256": "2e8ba08543b8d2b8f8ba50af9b934dedf7014698e1e37d1f1fd2830939a48cac"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/getline.c",
+      "upstream_path": "src/stdio/getline.c",
+      "role": "selected_source",
+      "bytes": 130,
+      "sha256": "36fa40c6cd4615c6324551f4c70662e3d75164d56681ce6886e35d41bd54403d"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/gets.c",
+      "upstream_path": "src/stdio/gets.c",
+      "role": "selected_source",
+      "bytes": 277,
+      "sha256": "81fec2e0d7c826d48d98b3a234168515da76df18df2c2fce0f0baaf7a6dc4ff0"
+    },
+    {
+      "bundle_path": "bundles/stdio_05/getw.c",
+      "upstream_path": "src/stdio/getw.c",
+      "role": "selected_source",
+      "bytes": 115,
+      "sha256": "47631d1c4b459361bde98e365c1df109ed634e804a9fd625e27b2b6ab5291fe7"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "math_generic_17",
+  "module": "math",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/math_generic_17",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/math_generic_17/rintl.c",
+      "upstream_path": "src/math/rintl.c",
+      "role": "selected_source",
+      "bytes": 531,
+      "sha256": "e2d0341001eebb03e73a79fd7bd53576efd4011548c334c039712435a548d6aa"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/round.c",
+      "upstream_path": "src/math/round.c",
+      "role": "selected_source",
+      "bytes": 597,
+      "sha256": "2349e599e99052603794087193725d28180b5d3466d43d6e6e1b254627bf37ae"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/roundf.c",
+      "upstream_path": "src/math/roundf.c",
+      "role": "selected_source",
+      "bytes": 589,
+      "sha256": "3f8cc14771a866a06184a3d9d654f63de9a077316a4905aae19884cc9b292d2e"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/roundl.c",
+      "upstream_path": "src/math/roundl.c",
+      "role": "selected_source",
+      "bytes": 659,
+      "sha256": "ce7ed66ff0df4f6254103bb56486ddc14f701e5582148f882ee071d15de96f5c"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/scalb.c",
+      "upstream_path": "src/math/scalb.c",
+      "role": "selected_source",
+      "bytes": 915,
+      "sha256": "7f7eda8fd9d537105136d56661d70788f912b9584bb116dea185db340c78ada5"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/scalbf.c",
+      "upstream_path": "src/math/scalbf.c",
+      "role": "selected_source",
+      "bytes": 887,
+      "sha256": "b4a0485f7a11d994960c31947f0132c45afd47f599abbae4a9f2041f7f346a3f"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/scalbln.c",
+      "upstream_path": "src/math/scalbln.c",
+      "role": "selected_source",
+      "bytes": 169,
+      "sha256": "89c39e17be41cb09e8b1e7de187573d571326200648127ab6bb3302f5c520589"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/scalblnf.c",
+      "upstream_path": "src/math/scalblnf.c",
+      "role": "selected_source",
+      "bytes": 169,
+      "sha256": "9c57f71877e0a0ff1c502c4c16e1bbf9207c3f6d5587eeeb515fbc52a30d0d5c"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/scalblnl.c",
+      "upstream_path": "src/math/scalblnl.c",
+      "role": "selected_source",
+      "bytes": 332,
+      "sha256": "1fd0d4ee300e414ac999876cc90c073549bd6ea2d5541c75616e2c9a3a69160c"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/scalbn.c",
+      "upstream_path": "src/math/scalbn.c",
+      "role": "selected_source",
+      "bytes": 576,
+      "sha256": "a2e766283ed30c2b30c71e01dbdabef58faf92cc9aa84a01c1ce1069b6625696"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/scalbnf.c",
+      "upstream_path": "src/math/scalbnf.c",
+      "role": "selected_source",
+      "bytes": 477,
+      "sha256": "3fb36f1cf8d9c118bfe85b462e6e0c034543835e5ffee4661f5ab8de997813e5"
+    },
+    {
+      "bundle_path": "bundles/math_generic_17/scalbnl.c",
+      "upstream_path": "src/math/scalbnl.c",
+      "role": "selected_source",
+      "bytes": 669,
+      "sha256": "f4da2cc8aa06122ce93867a80516abf3f4002abb9fdaf2da826c2c1986759345"
+    }
+  ]
+}

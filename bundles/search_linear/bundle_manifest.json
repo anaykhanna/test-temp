@@ -1,0 +1,17 @@
+{
+  "name": "search_linear",
+  "module": "search",
+  "selection_policy": "semantic_group",
+  "subpath": "bundles/search_linear",
+  "selected_c_files": 1,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/search_linear/lsearch.c",
+      "upstream_path": "src/search/lsearch.c",
+      "role": "selected_source",
+      "bytes": 609,
+      "sha256": "2a42feea258b9751480fb679d5c73f19e8dd2b422a1b526649474786d3645675"
+    }
+  ]
+}

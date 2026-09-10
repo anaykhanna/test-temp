@@ -1,0 +1,157 @@
+{
+  "name": "locale_01",
+  "module": "locale",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/locale_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 9,
+  "files": [
+    {
+      "bundle_path": "bundles/locale_01/__lctrans.c",
+      "upstream_path": "src/locale/__lctrans.c",
+      "role": "selected_source",
+      "bytes": 391,
+      "sha256": "8b0d0000e3c2d945365d57d2bb73f6ca6ce87f70708449186acac3166083345a"
+    },
+    {
+      "bundle_path": "bundles/locale_01/__mo_lookup.c",
+      "upstream_path": "src/locale/__mo_lookup.c",
+      "role": "selected_source",
+      "bytes": 1002,
+      "sha256": "ac05ca3ea0ef1d3118b42fd27f6bc0a8d9ba70ab2d75482ef657d3d896c7321d"
+    },
+    {
+      "bundle_path": "bundles/locale_01/big5.h",
+      "upstream_path": "src/locale/big5.h",
+      "role": "local_include_dependency",
+      "bytes": 84194,
+      "sha256": "ebc98f5b5c1204f8b1bf2ce7cd70217d556977ba66434880433189fc26072e9a"
+    },
+    {
+      "bundle_path": "bundles/locale_01/bind_textdomain_codeset.c",
+      "upstream_path": "src/locale/bind_textdomain_codeset.c",
+      "role": "selected_source",
+      "bytes": 239,
+      "sha256": "225a37c0ee1a224a1277e452501b73e906e3904842557218cb88c1621d62d1e5"
+    },
+    {
+      "bundle_path": "bundles/locale_01/c_locale.c",
+      "upstream_path": "src/locale/c_locale.c",
+      "role": "selected_source",
+      "bytes": 364,
+      "sha256": "9c01611db90c818a79012dac13d3334c122ad42f8c42064b94064e4f6b3d3276"
+    },
+    {
+      "bundle_path": "bundles/locale_01/catclose.c",
+      "upstream_path": "src/locale/catclose.c",
+      "role": "selected_source",
+      "bytes": 242,
+      "sha256": "bbc773fa5e9358b745076aee880a8ffe73903b2c2b32fb6abd8d910dfa08eaf9"
+    },
+    {
+      "bundle_path": "bundles/locale_01/catgets.c",
+      "upstream_path": "src/locale/catgets.c",
+      "role": "selected_source",
+      "bytes": 918,
+      "sha256": "a4ebacf55a593cab15e2a23f5d191803a01d171993410633c57d94ec10893466"
+    },
+    {
+      "bundle_path": "bundles/locale_01/catopen.c",
+      "upstream_path": "src/locale/catopen.c",
+      "role": "selected_source",
+      "bytes": 1837,
+      "sha256": "7a11e8104f9ab22615cea8052de64ee585cec8ccf52c88ddc1a21324f2e77898"
+    },
+    {
+      "bundle_path": "bundles/locale_01/codepages.h",
+      "upstream_path": "src/locale/codepages.h",
+      "role": "local_include_dependency",
+      "bytes": 16613,
+      "sha256": "416b3411307b75b3018570b62cee9443edf1a3e839d0420eb754bdd433674e29"
+    },
+    {
+      "bundle_path": "bundles/locale_01/dcngettext.c",
+      "upstream_path": "src/locale/dcngettext.c",
+      "role": "selected_source",
+      "bytes": 6339,
+      "sha256": "7d08c74d930c2b8d5e620aa0dc05eca7c65453be4487c346879b5bf18a009e63"
+    },
+    {
+      "bundle_path": "bundles/locale_01/duplocale.c",
+      "upstream_path": "src/locale/duplocale.c",
+      "role": "selected_source",
+      "bytes": 394,
+      "sha256": "7a78ca815ae5de1f1577d7bf0ece60fe3f50f68957ecc80fe73232abb387a6b5"
+    },
+    {
+      "bundle_path": "bundles/locale_01/freelocale.c",
+      "upstream_path": "src/locale/freelocale.c",
+      "role": "selected_source",
+      "bytes": 244,
+      "sha256": "ba3b15e646cb16d4a6196ebf67d3db92f484d1a1dcc65ce21327dbb72ae13c18"
+    },
+    {
+      "bundle_path": "bundles/locale_01/gb18030.h",
+      "upstream_path": "src/locale/gb18030.h",
+      "role": "local_include_dependency",
+      "bytes": 144966,
+      "sha256": "5483eb15124a1eda15b61599ad0337703901ec405e470ace9432b551a0e6b78d"
+    },
+    {
+      "bundle_path": "bundles/locale_01/hkscs.h",
+      "upstream_path": "src/locale/hkscs.h",
+      "role": "local_include_dependency",
+      "bytes": 29478,
+      "sha256": "eecda093db9247302fb5f35a4af4be83344a34a6ded9192ebed950fab919c8ce"
+    },
+    {
+      "bundle_path": "bundles/locale_01/iconv.c",
+      "upstream_path": "src/locale/iconv.c",
+      "role": "selected_source",
+      "bytes": 14837,
+      "sha256": "2aadd020959004608625bb6b7759d81daa5abf347643399ba887f5d11277b4c1"
+    },
+    {
+      "bundle_path": "bundles/locale_01/iconv_close.c",
+      "upstream_path": "src/locale/iconv_close.c",
+      "role": "selected_source",
+      "bytes": 125,
+      "sha256": "8aad2c604ac698d1a26ff2c60859c25ef0d3addef2413d70174bfa47d549487b"
+    },
+    {
+      "bundle_path": "bundles/locale_01/jis0208.h",
+      "upstream_path": "src/locale/jis0208.h",
+      "role": "local_include_dependency",
+      "bytes": 43577,
+      "sha256": "108d33c3fab7a4f483b0c5de13a8c568c9cbb6e070aae0c03422cc3ba5732918"
+    },
+    {
+      "bundle_path": "bundles/locale_01/ksc.h",
+      "upstream_path": "src/locale/ksc.h",
+      "role": "local_include_dependency",
+      "bytes": 50463,
+      "sha256": "bcbf1997fadda19c93ee86e68da2b19b08e5208640bebf6f267d8a3f595fc6d2"
+    },
+    {
+      "bundle_path": "bundles/locale_01/legacychars.h",
+      "upstream_path": "src/locale/legacychars.h",
+      "role": "local_include_dependency",
+      "bytes": 2891,
+      "sha256": "68abfad867f517a18804b15bd5bfe8fd03c8401b6f5727a7248a0e78d86c8fbe"
+    },
+    {
+      "bundle_path": "bundles/locale_01/pleval.h",
+      "upstream_path": "src/locale/pleval.h",
+      "role": "local_include_dependency",
+      "bytes": 126,
+      "sha256": "269b0f56b7cd606110ee7314e063756dd548dceb4567b4f961b9ccdbceed0351"
+    },
+    {
+      "bundle_path": "bundles/locale_01/revjis.h",
+      "upstream_path": "src/locale/revjis.h",
+      "role": "local_include_dependency",
+      "bytes": 38597,
+      "sha256": "223a2df26987ad079f01bc70389ab2dd50c660935a03379585f813f19a0bc9e7"
+    }
+  ]
+}

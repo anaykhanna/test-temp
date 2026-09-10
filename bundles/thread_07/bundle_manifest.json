@@ -1,0 +1,94 @@
+{
+  "name": "thread_07",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_07",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_07/pthread_mutex_trylock.c",
+      "upstream_path": "src/thread/pthread_mutex_trylock.c",
+      "role": "selected_source",
+      "bytes": 1872,
+      "sha256": "b980d28ac9bfb9d38c888ee54eb57fbdc9e88866dc2b23c580a1b428d464a585"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_mutex_unlock.c",
+      "upstream_path": "src/thread/pthread_mutex_unlock.c",
+      "role": "selected_source",
+      "bytes": 1306,
+      "sha256": "3eeb18d0104cf96768f708cdd765ff45ef8ebf1edcedc70246cf518a34bea49b"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_mutexattr_destroy.c",
+      "upstream_path": "src/thread/pthread_mutexattr_destroy.c",
+      "role": "selected_source",
+      "bytes": 96,
+      "sha256": "0203d157e1358aa41353a75dd1a3f406919bca54de93e8b145b4372c3c903bd2"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_mutexattr_init.c",
+      "upstream_path": "src/thread/pthread_mutexattr_init.c",
+      "role": "selected_source",
+      "bytes": 125,
+      "sha256": "ec1b86b65f81da30e01c777473058e0014258f9042c17c74dc4aff553f30f836"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_mutexattr_setprotocol.c",
+      "upstream_path": "src/thread/pthread_mutexattr_setprotocol.c",
+      "role": "selected_source",
+      "bytes": 560,
+      "sha256": "e1734c783e3f52a44bb1549d7ca731332b33e0c9916dc4e3599fe537a630f1dc"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_mutexattr_setpshared.c",
+      "upstream_path": "src/thread/pthread_mutexattr_setpshared.c",
+      "role": "selected_source",
+      "bytes": 193,
+      "sha256": "726ac9e871184f617e1142a4dd9d86aad35af09c29b99f2a8ca0e505b2c23505"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_mutexattr_setrobust.c",
+      "upstream_path": "src/thread/pthread_mutexattr_setrobust.c",
+      "role": "selected_source",
+      "bytes": 459,
+      "sha256": "400ecba5257a9eff08f099193b07c5c0b01627a4a202ddaa556bcbf90938c52f"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_mutexattr_settype.c",
+      "upstream_path": "src/thread/pthread_mutexattr_settype.c",
+      "role": "selected_source",
+      "bytes": 184,
+      "sha256": "382d865084652de4ff81b29a36e6cdc97034124bcc31771ee91c082659139c40"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_once.c",
+      "upstream_path": "src/thread/pthread_once.c",
+      "role": "selected_source",
+      "bytes": 1285,
+      "sha256": "5a72861e19fac5033aa45dc443e2aa3fd72f31614c3756eb689c3c5e69c082af"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_rwlock_destroy.c",
+      "upstream_path": "src/thread/pthread_rwlock_destroy.c",
+      "role": "selected_source",
+      "bytes": 91,
+      "sha256": "b17ff09878f097afc3cead8b9aa7b70686dff98233ccecf88b49905d065fe5fc"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_rwlock_init.c",
+      "upstream_path": "src/thread/pthread_rwlock_init.c",
+      "role": "selected_source",
+      "bytes": 210,
+      "sha256": "fb9d07e113e5eabaec35a1f96a1eeffb84c9429d9df698623f8bbe1bd1700300"
+    },
+    {
+      "bundle_path": "bundles/thread_07/pthread_rwlock_rdlock.c",
+      "upstream_path": "src/thread/pthread_rwlock_rdlock.c",
+      "role": "selected_source",
+      "bytes": 187,
+      "sha256": "64b6258b486b305c22504fc78af8a4bde4ae8765bf0cfdbec32fa5f5b05db4e6"
+    }
+  ]
+}

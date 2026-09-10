@@ -1,0 +1,94 @@
+{
+  "name": "thread_03",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_03",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_destroy.c",
+      "upstream_path": "src/thread/pthread_attr_destroy.c",
+      "role": "selected_source",
+      "bytes": 86,
+      "sha256": "45043b25fed46f852daac89685ecc10ed17ae8db848bf8d1baca758031d605eb"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_get.c",
+      "upstream_path": "src/thread/pthread_attr_get.c",
+      "role": "selected_source",
+      "bytes": 2281,
+      "sha256": "b1cf396094b8e276571e81b2e11d27f5913dae81837d565f983bc84c559538ae"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_init.c",
+      "upstream_path": "src/thread/pthread_attr_init.c",
+      "role": "selected_source",
+      "bytes": 226,
+      "sha256": "e78ddd6cf0ab1038ac2455f1a26b0c33208ea45a8447db795a02a040928469f5"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_setdetachstate.c",
+      "upstream_path": "src/thread/pthread_attr_setdetachstate.c",
+      "role": "selected_source",
+      "bytes": 159,
+      "sha256": "e00ed158a01c382124f43622e1967f293bd2ba99fd8ca12d3c7507ef09755c53"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_setguardsize.c",
+      "upstream_path": "src/thread/pthread_attr_setguardsize.c",
+      "role": "selected_source",
+      "bytes": 168,
+      "sha256": "51f6383d12992145ced1cfe93283d535259aa99b59595ce27ab97d75cdfec6ed"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_setinheritsched.c",
+      "upstream_path": "src/thread/pthread_attr_setinheritsched.c",
+      "role": "selected_source",
+      "bytes": 186,
+      "sha256": "ce2f0c6fd7ad6c93359e789c317b8cc01c517d4643bce906d5a90ed2a1915992"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_setschedparam.c",
+      "upstream_path": "src/thread/pthread_attr_setschedparam.c",
+      "role": "selected_source",
+      "bytes": 180,
+      "sha256": "5c6e5f58c80d80e6b50cc5ecd1d26ae3cfb2112782d3b67191d2f9d7d44f31db"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_setschedpolicy.c",
+      "upstream_path": "src/thread/pthread_attr_setschedpolicy.c",
+      "role": "selected_source",
+      "bytes": 129,
+      "sha256": "6e14dce42ad036cf9ed43e99abd47a52015edf0b3066405bc528ed0aaa3f0d96"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_setscope.c",
+      "upstream_path": "src/thread/pthread_attr_setscope.c",
+      "role": "selected_source",
+      "bytes": 222,
+      "sha256": "a6528c6c38d6c09162a1ff369cec98a8969f49e3087a4775d2872b06247b0c06"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_setstack.c",
+      "upstream_path": "src/thread/pthread_attr_setstack.c",
+      "role": "selected_source",
+      "bytes": 234,
+      "sha256": "83a0a745480cc4c1bb3a7a9c794093fd78c81db37b9188cd631ba093689ca540"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_attr_setstacksize.c",
+      "upstream_path": "src/thread/pthread_attr_setstacksize.c",
+      "role": "selected_source",
+      "bytes": 208,
+      "sha256": "6c5ac35724b937f9b09d62f7aa0a4ff7a53cc50cc633c84df48f035d82308662"
+    },
+    {
+      "bundle_path": "bundles/thread_03/pthread_barrier_destroy.c",
+      "upstream_path": "src/thread/pthread_barrier_destroy.c",
+      "role": "selected_source",
+      "bytes": 271,
+      "sha256": "a6adf866b5c72d4e696faf907b9cbd0551b1b1e2befa2c366ceaee37c45fe0a4"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "thread_01",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_01/__lock.c",
+      "upstream_path": "src/thread/__lock.c",
+      "role": "selected_source",
+      "bytes": 1940,
+      "sha256": "6a0ff64f760ead915f4fea00cb4069052eb0753b86478bec642c435d4a38b551"
+    },
+    {
+      "bundle_path": "bundles/thread_01/__set_thread_area.c",
+      "upstream_path": "src/thread/__set_thread_area.c",
+      "role": "selected_source",
+      "bytes": 162,
+      "sha256": "b1c5bf1f5cefd7d727849f9ffd7125eb71bc1fd6eb5a8fa741a873c75e0e0e1f"
+    },
+    {
+      "bundle_path": "bundles/thread_01/__syscall_cp.c",
+      "upstream_path": "src/thread/__syscall_cp.c",
+      "role": "selected_source",
+      "bytes": 561,
+      "sha256": "9bf39f2e3d932dcee04e145bc7fce93f2f6908d08f3a0512a20d642450c437c2"
+    },
+    {
+      "bundle_path": "bundles/thread_01/__timedwait.c",
+      "upstream_path": "src/thread/__timedwait.c",
+      "role": "selected_source",
+      "bytes": 2096,
+      "sha256": "8171d93c889f41456cb50647c482bc0e6d8896fc71f759adf86525015fbe4d53"
+    },
+    {
+      "bundle_path": "bundles/thread_01/__tls_get_addr.c",
+      "upstream_path": "src/thread/__tls_get_addr.c",
+      "role": "selected_source",
+      "bytes": 148,
+      "sha256": "86abd6a68af64e4fc1eec3580d4c6687c906bdd44f6ce393aebf5274b0ea4a44"
+    },
+    {
+      "bundle_path": "bundles/thread_01/__unmapself.c",
+      "upstream_path": "src/thread/__unmapself.c",
+      "role": "selected_source",
+      "bytes": 519,
+      "sha256": "293e42bc0bd105d1c358165617d41b3c65aadd35930876ec99330573f709be60"
+    },
+    {
+      "bundle_path": "bundles/thread_01/__wait.c",
+      "upstream_path": "src/thread/__wait.c",
+      "role": "selected_source",
+      "bytes": 449,
+      "sha256": "dcd6cbad9aafd635788749c407ac13e111c2ccd854cc9e15d271167daa6f3151"
+    },
+    {
+      "bundle_path": "bundles/thread_01/call_once.c",
+      "upstream_path": "src/thread/call_once.c",
+      "role": "selected_source",
+      "bytes": 128,
+      "sha256": "2ba2643224915d7d26bc5623076aa1117b9e52cabf376f09c586597bcd58990b"
+    },
+    {
+      "bundle_path": "bundles/thread_01/clone.c",
+      "upstream_path": "src/thread/clone.c",
+      "role": "selected_source",
+      "bytes": 140,
+      "sha256": "2c0fdb2394e1dc62d029c5243618feaad438d69a35d9a6706dd4f1d4db1c0749"
+    },
+    {
+      "bundle_path": "bundles/thread_01/cnd_broadcast.c",
+      "upstream_path": "src/thread/cnd_broadcast.c",
+      "role": "selected_source",
+      "bytes": 257,
+      "sha256": "0035c1c91877c2102711fa7428f14361b8472b4033809cbb37ade12702318fff"
+    },
+    {
+      "bundle_path": "bundles/thread_01/cnd_destroy.c",
+      "upstream_path": "src/thread/cnd_destroy.c",
+      "role": "selected_source",
+      "bytes": 91,
+      "sha256": "131c5ffc8bdc6a67c990090843dd11723715d032b5773f991e073a0835fb7b06"
+    },
+    {
+      "bundle_path": "bundles/thread_01/cnd_init.c",
+      "upstream_path": "src/thread/cnd_init.c",
+      "role": "selected_source",
+      "bytes": 91,
+      "sha256": "670138c6ed2512be4ccca4662c5b4d7b07da87b04d26e11c8625f804514742c0"
+    }
+  ]
+}

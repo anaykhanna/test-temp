@@ -1,0 +1,17 @@
+{
+  "name": "search_list",
+  "module": "search",
+  "selection_policy": "semantic_group",
+  "subpath": "bundles/search_list",
+  "selected_c_files": 1,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/search_list/insque.c",
+      "upstream_path": "src/search/insque.c",
+      "role": "selected_source",
+      "bytes": 448,
+      "sha256": "2f16aeabe85a54fa81ea6c22b9e83f1ae9b6e474cf64e3d637cca0f527102c18"
+    }
+  ]
+}

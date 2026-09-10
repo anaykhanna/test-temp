@@ -1,0 +1,38 @@
+{
+  "name": "math_generic_20",
+  "module": "math",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/math_generic_20",
+  "selected_c_files": 4,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/math_generic_20/tgammal.c",
+      "upstream_path": "src/math/tgammal.c",
+      "role": "selected_source",
+      "bytes": 6608,
+      "sha256": "b9f00584454232f6d4c6cf76b8198221a4cc047c92fa749e5f41476c9b54579f"
+    },
+    {
+      "bundle_path": "bundles/math_generic_20/trunc.c",
+      "upstream_path": "src/math/trunc.c",
+      "role": "selected_source",
+      "bytes": 303,
+      "sha256": "2f2941542db65a5c3a8a6fa952b978a5ff757f8b14ffdaef8ad28e0cafead644"
+    },
+    {
+      "bundle_path": "bundles/math_generic_20/truncf.c",
+      "upstream_path": "src/math/truncf.c",
+      "role": "selected_source",
+      "bytes": 294,
+      "sha256": "dd67c4d71894da6c93bc41ec6a141de45124d3d3f4d012bc95aac4fc792abccb"
+    },
+    {
+      "bundle_path": "bundles/math_generic_20/truncl.c",
+      "upstream_path": "src/math/truncl.c",
+      "role": "selected_source",
+      "bytes": 668,
+      "sha256": "e58a1a25cb4a1446bf087f681fd191cbf2ed6a69297b099e2a5d99691966ac80"
+    }
+  ]
+}

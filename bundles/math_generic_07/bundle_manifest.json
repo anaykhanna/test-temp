@@ -1,0 +1,108 @@
+{
+  "name": "math_generic_07",
+  "module": "math",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/math_generic_07",
+  "selected_c_files": 12,
+  "included_dependency_files": 2,
+  "files": [
+    {
+      "bundle_path": "bundles/math_generic_07/erfl.c",
+      "upstream_path": "src/math/erfl.c",
+      "role": "selected_source",
+      "bytes": 12311,
+      "sha256": "dcce5b86a37215aee265ae27c1a00526542ab13d1dd609a560de3e3e9049a3e6"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp.c",
+      "upstream_path": "src/math/exp.c",
+      "role": "selected_source",
+      "bytes": 4485,
+      "sha256": "7db56f21ca9b8915d36dd5099b707aafeb6a736eae798e19b76b074764e75f34"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp10.c",
+      "upstream_path": "src/math/exp10.c",
+      "role": "selected_source",
+      "bytes": 629,
+      "sha256": "a489cd8fbe2406ea2ccdc00cfccfecc529e9904061082dd9183aee8192be33cd"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp10f.c",
+      "upstream_path": "src/math/exp10f.c",
+      "role": "selected_source",
+      "bytes": 561,
+      "sha256": "9dba65dc30153819eb30cdcaf8d37eb9b3d222777da0c6844ec4d59e78ae13df"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp10l.c",
+      "upstream_path": "src/math/exp10l.c",
+      "role": "selected_source",
+      "bytes": 862,
+      "sha256": "79085a74790fd49e4aa30e4611d1dd31224e33b8d9d0dbd229a34e842d2e7806"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp2.c",
+      "upstream_path": "src/math/exp2.c",
+      "role": "selected_source",
+      "bytes": 4096,
+      "sha256": "b771de769e1b69b931d1f95baa39b429a73c9904e8b5607e1736771c6ace92b1"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp2f.c",
+      "upstream_path": "src/math/exp2f.c",
+      "role": "selected_source",
+      "bytes": 1494,
+      "sha256": "1753e636d3b395160a03e9dd4a4ed4fba2abcd9ee12e4cf2d919f5a6bd7e2732"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp2f_data.c",
+      "upstream_path": "src/math/exp2f_data.c",
+      "role": "selected_source",
+      "bytes": 1323,
+      "sha256": "3da38c471cc5eb8dc1c2e283c6c00a36b1d353ba5c8ca1e82d95180948e26bd5"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp2f_data.h",
+      "upstream_path": "src/math/exp2f_data.h",
+      "role": "local_include_dependency",
+      "bytes": 499,
+      "sha256": "fb52b690bef63df2e8996f2d2b3fd77f9ea08795863e73afdc882df04460e850"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp2l.c",
+      "upstream_path": "src/math/exp2l.c",
+      "role": "selected_source",
+      "bytes": 20743,
+      "sha256": "0eeba2725b540b0d5dd84b732d4c496d8e8d9492cf863dbb5c83fe102771352c"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp_data.c",
+      "upstream_path": "src/math/exp_data.c",
+      "role": "selected_source",
+      "bytes": 6347,
+      "sha256": "c55dff64e369fe816cd8ce367064989bb119f85783599680d1a329031c660689"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/exp_data.h",
+      "upstream_path": "src/math/exp_data.h",
+      "role": "local_include_dependency",
+      "bytes": 540,
+      "sha256": "df77fca837edd02b260dd09a2914202775909ae67a059218ae38cfab104e6d16"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/expf.c",
+      "upstream_path": "src/math/expf.c",
+      "role": "selected_source",
+      "bytes": 1895,
+      "sha256": "225123b9b3a47a083c06f2580c6b73d5cadae5cec545f9e928f7041ff837b4b4"
+    },
+    {
+      "bundle_path": "bundles/math_generic_07/expl.c",
+      "upstream_path": "src/math/expl.c",
+      "role": "selected_source",
+      "bytes": 3583,
+      "sha256": "7218f10e56cd73c76f01a6924373dd1918730a0e793cf3c64670a34346173e68"
+    }
+  ]
+}

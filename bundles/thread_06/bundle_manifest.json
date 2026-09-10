@@ -1,0 +1,94 @@
+{
+  "name": "thread_06",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_06",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_06/pthread_getschedparam.c",
+      "upstream_path": "src/thread/pthread_getschedparam.c",
+      "role": "selected_source",
+      "bytes": 437,
+      "sha256": "68c4c5f732cd30df1a89d517a528865771ba3c3bda174952449c041d2686d1a4"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_getspecific.c",
+      "upstream_path": "src/thread/pthread_getspecific.c",
+      "role": "selected_source",
+      "bytes": 269,
+      "sha256": "5b0e9479040a4a891d021daf202dfab5def79233ec948558eaa3c36fd0203cf7"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_join.c",
+      "upstream_path": "src/thread/pthread_join.c",
+      "role": "selected_source",
+      "bytes": 1148,
+      "sha256": "4032ba942c4093200996edd5ec0c9637124a2e15ec8391ee0c01f1a834c056dd"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_key_create.c",
+      "upstream_path": "src/thread/pthread_key_create.c",
+      "role": "selected_source",
+      "bytes": 2248,
+      "sha256": "ae53fb6c10e64cfe05d2f69d5d202e79189c4061efcf1cbc7d07c719dee1c5ba"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_kill.c",
+      "upstream_path": "src/thread/pthread_kill.c",
+      "role": "selected_source",
+      "bytes": 452,
+      "sha256": "fdf8fe834b9bdc90ecfb28eeb54bfedf9dba92eae17b052b39a56baac2d4aefa"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_mutex_consistent.c",
+      "upstream_path": "src/thread/pthread_mutex_consistent.c",
+      "role": "selected_source",
+      "bytes": 320,
+      "sha256": "d2abd2bd6c0820310551c2a7fddab855de3b564f687918efffdb97e027853db6"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_mutex_destroy.c",
+      "upstream_path": "src/thread/pthread_mutex_destroy.c",
+      "role": "selected_source",
+      "bytes": 311,
+      "sha256": "d86609607ceaeb32d05e42d6f46f372eb4df19ef942a36cf9b3f9ae1b08b7600"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_mutex_getprioceiling.c",
+      "upstream_path": "src/thread/pthread_mutex_getprioceiling.c",
+      "role": "selected_source",
+      "bytes": 138,
+      "sha256": "006e0b039f1a631415ad77a3c8465c2a2a61a543612c3b793e610d8e6a85655c"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_mutex_init.c",
+      "upstream_path": "src/thread/pthread_mutex_init.c",
+      "role": "selected_source",
+      "bytes": 193,
+      "sha256": "eb50e7c22bc070e65f8ad57d3b33b2cec28df4a544916cd0860567ce3fa75095"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_mutex_lock.c",
+      "upstream_path": "src/thread/pthread_mutex_lock.c",
+      "role": "selected_source",
+      "bytes": 269,
+      "sha256": "4ebfa08d466b5981c2319f75481d52a3f6e4efc279c0eb802a943b6517d1bbd8"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_mutex_setprioceiling.c",
+      "upstream_path": "src/thread/pthread_mutex_setprioceiling.c",
+      "role": "selected_source",
+      "bytes": 141,
+      "sha256": "8c5f6c7e4bdc7978b74e463ff6f8eb02922926ac8588f1a69df0b69a2090883b"
+    },
+    {
+      "bundle_path": "bundles/thread_06/pthread_mutex_timedlock.c",
+      "upstream_path": "src/thread/pthread_mutex_timedlock.c",
+      "role": "selected_source",
+      "bytes": 2586,
+      "sha256": "22e02cc72f5030ba0b2e79bf8d12eef2657669ed92b88f4eb753fc5f1468f488"
+    }
+  ]
+}

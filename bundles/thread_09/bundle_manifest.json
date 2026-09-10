@@ -1,0 +1,94 @@
+{
+  "name": "thread_09",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_09",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_09/pthread_setcanceltype.c",
+      "upstream_path": "src/thread/pthread_setcanceltype.c",
+      "role": "selected_source",
+      "bytes": 253,
+      "sha256": "70edf4b348b769b76e25648aef47565316702610d1b634052de69edce0c9b379"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_setconcurrency.c",
+      "upstream_path": "src/thread/pthread_setconcurrency.c",
+      "role": "selected_source",
+      "bytes": 150,
+      "sha256": "e382b2a96fe17c5c9da0e60059d355530b072d68ce203d609e89eab1fa493ff6"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_setname_np.c",
+      "upstream_path": "src/thread/pthread_setname_np.c",
+      "role": "selected_source",
+      "bytes": 731,
+      "sha256": "6e2cce860c29788a370cc006ebfa66603c40074f27ec43edd6c6fd1f8acd73b8"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_setschedparam.c",
+      "upstream_path": "src/thread/pthread_setschedparam.c",
+      "role": "selected_source",
+      "bytes": 339,
+      "sha256": "fbf484e00dd447e2b3c41b21b63fe83569a9d3757b1df5f0d2c4529444463158"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_setschedprio.c",
+      "upstream_path": "src/thread/pthread_setschedprio.c",
+      "role": "selected_source",
+      "bytes": 291,
+      "sha256": "00fd2964a36b74e21c7c4ab0a7b0a6f0685bcb7dec33b03753f37d02678503a5"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_setspecific.c",
+      "upstream_path": "src/thread/pthread_setspecific.c",
+      "role": "selected_source",
+      "bytes": 248,
+      "sha256": "e588f3345a6c8d636fae1b0832827474c74c171fa3dd7861b2a3e5cbe87b5520"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_sigmask.c",
+      "upstream_path": "src/thread/pthread_sigmask.c",
+      "role": "selected_source",
+      "bytes": 470,
+      "sha256": "a08decb52c73a8e01d47f1ff8afd9c18e7ac942a66037aba5402e5daa387b079"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_spin_destroy.c",
+      "upstream_path": "src/thread/pthread_spin_destroy.c",
+      "role": "selected_source",
+      "bytes": 90,
+      "sha256": "a7ba74bbc5721402e62e6cda869cec1a9669187b9b81aef7f6c513f42a8f12dd"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_spin_init.c",
+      "upstream_path": "src/thread/pthread_spin_init.c",
+      "role": "selected_source",
+      "bytes": 104,
+      "sha256": "a2a6ee9331fb581950c658224ae12f2378b207981a46118f13f44874d628a94f"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_spin_lock.c",
+      "upstream_path": "src/thread/pthread_spin_lock.c",
+      "role": "selected_source",
+      "bytes": 166,
+      "sha256": "8d4670e8ab8be0921d9d0485c8d9fb4f00182cff87e4d5ac6d2e811cbe58d9c4"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_spin_trylock.c",
+      "upstream_path": "src/thread/pthread_spin_trylock.c",
+      "role": "selected_source",
+      "bytes": 126,
+      "sha256": "8752be115b62772093bec7bcc7a318dc1dd4e70fb71c9ac6f9a5c726d72db0d4"
+    },
+    {
+      "bundle_path": "bundles/thread_09/pthread_spin_unlock.c",
+      "upstream_path": "src/thread/pthread_spin_unlock.c",
+      "role": "selected_source",
+      "bytes": 105,
+      "sha256": "5405d5a20d6e3d59b554284c943a7053b37fc1d5970d819ae22475071a785038"
+    }
+  ]
+}

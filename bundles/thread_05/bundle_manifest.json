@@ -1,0 +1,94 @@
+{
+  "name": "thread_05",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_05",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_05/pthread_cond_wait.c",
+      "upstream_path": "src/thread/pthread_cond_wait.c",
+      "role": "selected_source",
+      "bytes": 151,
+      "sha256": "48f47766333cc87727e148cf2c081b8e1ffb23d2a9439e5c62237f8da2ae0eef"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_condattr_destroy.c",
+      "upstream_path": "src/thread/pthread_condattr_destroy.c",
+      "role": "selected_source",
+      "bytes": 94,
+      "sha256": "61a41cafedb55806a931fb106b3dec257ae7f730a28bf01a1acb3db5b559396e"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_condattr_init.c",
+      "upstream_path": "src/thread/pthread_condattr_init.c",
+      "role": "selected_source",
+      "bytes": 122,
+      "sha256": "05e830ca0721c9926aba95d7d94adce579ba5e4968dac4e579bb87099bcebf51"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_condattr_setclock.c",
+      "upstream_path": "src/thread/pthread_condattr_setclock.c",
+      "role": "selected_source",
+      "bytes": 198,
+      "sha256": "25889165c0a2bb3ac0abc7bbec77eb67d0adfe006e8578129d6fbb90343b5e9c"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_condattr_setpshared.c",
+      "upstream_path": "src/thread/pthread_condattr_setpshared.c",
+      "role": "selected_source",
+      "bytes": 207,
+      "sha256": "c9551015abe1e222ca98969cd52b4baf40239f0a6bac153805845ce6fed728ae"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_create.c",
+      "upstream_path": "src/thread/pthread_create.c",
+      "role": "selected_source",
+      "bytes": 11575,
+      "sha256": "48c232fbc6bb80e0c2cc27a95b22b208274aa424080620c078d130ece02f6dbf"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_detach.c",
+      "upstream_path": "src/thread/pthread_detach.c",
+      "role": "selected_source",
+      "bytes": 523,
+      "sha256": "5a9f697ddea72d943b3a5dcdc7117eb6c67cb5e531ca31352a2a4bb12aafefa0"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_equal.c",
+      "upstream_path": "src/thread/pthread_equal.c",
+      "role": "selected_source",
+      "bytes": 200,
+      "sha256": "a2fe834d78a147f6a7250ece30ea74913d8bd7e265a8fdffcfe3a61a1004d316"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_getattr_np.c",
+      "upstream_path": "src/thread/pthread_getattr_np.c",
+      "role": "selected_source",
+      "bytes": 625,
+      "sha256": "bd73b72d4f93ba938d4bfa126ade19d15b0c08327149662de19312ae7d8d3bc3"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_getconcurrency.c",
+      "upstream_path": "src/thread/pthread_getconcurrency.c",
+      "role": "selected_source",
+      "bytes": 66,
+      "sha256": "c325ef5c631c589e5b8b094a1f636e4d2a8a5c30af06f83cc89316b137048e11"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_getcpuclockid.c",
+      "upstream_path": "src/thread/pthread_getcpuclockid.c",
+      "role": "selected_source",
+      "bytes": 133,
+      "sha256": "77faa091f68b29c73d729fbbaec08b85348f938dceebdb5aea119a6e58f24eb4"
+    },
+    {
+      "bundle_path": "bundles/thread_05/pthread_getname_np.c",
+      "upstream_path": "src/thread/pthread_getname_np.c",
+      "role": "selected_source",
+      "bytes": 764,
+      "sha256": "f2ae1e477e6ad2ede87a8a650092020d07efea3a8a9fcb0782ecc787c28f12d5"
+    }
+  ]
+}

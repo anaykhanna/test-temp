@@ -1,0 +1,94 @@
+{
+  "name": "thread_04",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_04",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_04/pthread_barrier_init.c",
+      "upstream_path": "src/thread/pthread_barrier_init.c",
+      "role": "selected_source",
+      "bytes": 264,
+      "sha256": "8d664b4ff27f9a404bae427376061136dd4130ea18b7b087584f4524688da124"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_barrier_wait.c",
+      "upstream_path": "src/thread/pthread_barrier_wait.c",
+      "role": "selected_source",
+      "bytes": 2985,
+      "sha256": "6ac03090d9f07e17695a8717b793c9599e3db21f1ef6860384a513d70f32ff57"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_barrierattr_destroy.c",
+      "upstream_path": "src/thread/pthread_barrierattr_destroy.c",
+      "role": "selected_source",
+      "bytes": 100,
+      "sha256": "5e3c807cc0374ca65a1d89d3042d31141c66ff7e36eefc015495afda38d797d4"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_barrierattr_init.c",
+      "upstream_path": "src/thread/pthread_barrierattr_init.c",
+      "role": "selected_source",
+      "bytes": 131,
+      "sha256": "2ad0a80634ccc89c6c409bdfd54c8b6a46608f2ee359f5746d78b234a151269c"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_barrierattr_setpshared.c",
+      "upstream_path": "src/thread/pthread_barrierattr_setpshared.c",
+      "role": "selected_source",
+      "bytes": 186,
+      "sha256": "1b3a109056c2da032f16c38c8ecf764ede5c703dcf4244f97cf403fe0125dad6"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_cancel.c",
+      "upstream_path": "src/thread/pthread_cancel.c",
+      "role": "selected_source",
+      "bytes": 2636,
+      "sha256": "aedb26402bbafc18e00129040379d906f9e391302e41752584e3ac1ac3259fb1"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_cleanup_push.c",
+      "upstream_path": "src/thread/pthread_cleanup_push.c",
+      "role": "selected_source",
+      "bytes": 384,
+      "sha256": "4ba7e36f2f9a2109b21b6788111407d6c33f09bb87c19f89fa3ae39bb3cd2455"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_cond_broadcast.c",
+      "upstream_path": "src/thread/pthread_cond_broadcast.c",
+      "role": "selected_source",
+      "bytes": 224,
+      "sha256": "77f06bf070fbcff36427ebb710150a66f97be8cbc3a7e3789ba824e7a121ce28"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_cond_destroy.c",
+      "upstream_path": "src/thread/pthread_cond_destroy.c",
+      "role": "selected_source",
+      "bytes": 307,
+      "sha256": "df5536a1490a6fe6aeddc85c113b4ad85e719f0c320e04b9da099627f4b62de0"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_cond_init.c",
+      "upstream_path": "src/thread/pthread_cond_init.c",
+      "role": "selected_source",
+      "bytes": 258,
+      "sha256": "d43dbd4ec6bf071a83b2098f4b3142fdcd4422994027c3c77e502130f3f449b7"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_cond_signal.c",
+      "upstream_path": "src/thread/pthread_cond_signal.c",
+      "role": "selected_source",
+      "bytes": 219,
+      "sha256": "ce64c3423ef7a8dad0b9e86c330e9c344f37791adc5cbc59f82e275745c045a6"
+    },
+    {
+      "bundle_path": "bundles/thread_04/pthread_cond_timedwait.c",
+      "upstream_path": "src/thread/pthread_cond_timedwait.c",
+      "role": "selected_source",
+      "bytes": 5540,
+      "sha256": "2a3413f7e63a59bffb4a5a9d32692bb5f16554e1356318000ce372a9ecfbb4f8"
+    }
+  ]
+}

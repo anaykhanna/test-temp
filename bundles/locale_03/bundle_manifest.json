@@ -1,0 +1,24 @@
+{
+  "name": "locale_03",
+  "module": "locale",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/locale_03",
+  "selected_c_files": 2,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/locale_03/wcscoll.c",
+      "upstream_path": "src/locale/wcscoll.c",
+      "role": "selected_source",
+      "bytes": 311,
+      "sha256": "22e5a9b5e1f3623de61ea8282cf70738df2f180498c9aaa02dc3eadf8aaa5561"
+    },
+    {
+      "bundle_path": "bundles/locale_03/wcsxfrm.c",
+      "upstream_path": "src/locale/wcsxfrm.c",
+      "role": "selected_source",
+      "bytes": 511,
+      "sha256": "fc301b8c011b09d9fe6a51260a7fe395d4242477c0b8264a5f3650c609e29dc0"
+    }
+  ]
+}

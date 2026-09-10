@@ -1,0 +1,101 @@
+{
+  "name": "time_02",
+  "module": "time",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/time_02",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/time_02/clock_nanosleep.c",
+      "upstream_path": "src/time/clock_nanosleep.c",
+      "role": "selected_source",
+      "bytes": 1247,
+      "sha256": "e4ee1b947194e1c32a9c3a669cad2a64010b98e0ef2b23c39b9622abc7affdd8"
+    },
+    {
+      "bundle_path": "bundles/time_02/clock_settime.c",
+      "upstream_path": "src/time/clock_settime.c",
+      "role": "selected_source",
+      "bytes": 651,
+      "sha256": "785dae6a37a18afef3a7bd3c47d2a29457a0fcf0ba885c25ed32d8676b935985"
+    },
+    {
+      "bundle_path": "bundles/time_02/ctime.c",
+      "upstream_path": "src/time/ctime.c",
+      "role": "selected_source",
+      "bytes": 124,
+      "sha256": "ed504f63339be57b6e143d1d4df3f4c1e13555c0127af124a99ca7077d978b84"
+    },
+    {
+      "bundle_path": "bundles/time_02/ctime_r.c",
+      "upstream_path": "src/time/ctime_r.c",
+      "role": "selected_source",
+      "bytes": 150,
+      "sha256": "53123b650dec7193e1a4c855b41d051277c86c1f5bb212ec2a7d75d951e659a4"
+    },
+    {
+      "bundle_path": "bundles/time_02/difftime.c",
+      "upstream_path": "src/time/difftime.c",
+      "role": "selected_source",
+      "bytes": 76,
+      "sha256": "db4ad5923b27d68b032d37a0a1e02f023d295e83bba2aa0b13135460667b985d"
+    },
+    {
+      "bundle_path": "bundles/time_02/ftime.c",
+      "upstream_path": "src/time/ftime.c",
+      "role": "selected_source",
+      "bytes": 236,
+      "sha256": "83add494824da21171a612dfaf0b2bb72cba2a6eac047ca292fc745d20b5347a"
+    },
+    {
+      "bundle_path": "bundles/time_02/getdate.c",
+      "upstream_path": "src/time/getdate.c",
+      "role": "selected_source",
+      "bytes": 757,
+      "sha256": "be3183b8bc14d6163e0a96d468dda5c60ce95d21a349e85c3ca2a832a9393d43"
+    },
+    {
+      "bundle_path": "bundles/time_02/gettimeofday.c",
+      "upstream_path": "src/time/gettimeofday.c",
+      "role": "selected_source",
+      "bytes": 284,
+      "sha256": "c531bf32b9d305808ec78e699a29415eb63fa196203bd0a6d914f08018c04059"
+    },
+    {
+      "bundle_path": "bundles/time_02/gmtime.c",
+      "upstream_path": "src/time/gmtime.c",
+      "role": "selected_source",
+      "bytes": 132,
+      "sha256": "11225ec9f85979a515551a23aa89e761a2ddb291628e68d7c989b69c9fc7c77d"
+    },
+    {
+      "bundle_path": "bundles/time_02/gmtime_r.c",
+      "upstream_path": "src/time/gmtime_r.c",
+      "role": "selected_source",
+      "bytes": 300,
+      "sha256": "c9d54a7acd47b1f777da4a049eff55786c755bf9ae643422d9f9b614d2cd0fc3"
+    },
+    {
+      "bundle_path": "bundles/time_02/localtime.c",
+      "upstream_path": "src/time/localtime.c",
+      "role": "selected_source",
+      "bytes": 119,
+      "sha256": "f49c8610cc848d1d96421cc5800d28a25cbd7671d65b492938f404583fcff1b7"
+    },
+    {
+      "bundle_path": "bundles/time_02/localtime_r.c",
+      "upstream_path": "src/time/localtime_r.c",
+      "role": "selected_source",
+      "bytes": 580,
+      "sha256": "dce838262d6adb8a6f1ced91ea9c8c335514b5836b0acb2b1c0e655ea45ec022"
+    },
+    {
+      "bundle_path": "bundles/time_02/time_impl.h",
+      "upstream_path": "src/time/time_impl.h",
+      "role": "local_include_dependency",
+      "bytes": 516,
+      "sha256": "266237304c1524f9af6d2ac0e85534e421da6be35a62e5f0c47c0501e4a2e013"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "math_generic_14",
+  "module": "math",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/math_generic_14",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/math_generic_14/logf_data.c",
+      "upstream_path": "src/math/logf_data.c",
+      "role": "selected_source",
+      "bytes": 1087,
+      "sha256": "60b08342fcef877b393a76fc36d92c576d6340ce153459aad03aad3d4716f9b5"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/logf_data.h",
+      "upstream_path": "src/math/logf_data.h",
+      "role": "local_include_dependency",
+      "bytes": 406,
+      "sha256": "80176d1f045f162e917ca5c2879994ab0ed9e27b479086d752e5793c91135adf"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/logl.c",
+      "upstream_path": "src/math/logl.c",
+      "role": "selected_source",
+      "bytes": 4630,
+      "sha256": "e1612b2bb9a010c1914beb93fa242981f69f323392bd9816415cafaaec0d94b0"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/lrint.c",
+      "upstream_path": "src/math/lrint.c",
+      "role": "selected_source",
+      "bytes": 1735,
+      "sha256": "ef099c61a442a79c5e7afc11ddc6915e31022a1b8c1c44d74dd03184f068d02b"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/lrintf.c",
+      "upstream_path": "src/math/lrintf.c",
+      "role": "selected_source",
+      "bytes": 115,
+      "sha256": "d6673476094b190bd80f92bf89d3c6254beaf1c33fc7f7245059bcdcd7f4c6c9"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/lrintl.c",
+      "upstream_path": "src/math/lrintl.c",
+      "role": "selected_source",
+      "bytes": 672,
+      "sha256": "f200d3d4a04d1461adfef5d8212a07940a5611509c4b424bcf7369540c4809f8"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/lround.c",
+      "upstream_path": "src/math/lround.c",
+      "role": "selected_source",
+      "bytes": 63,
+      "sha256": "72b8f2b833b8d4bc5ba24c7321b18b4307c0d333555646c8d6af637631efb2e8"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/lroundf.c",
+      "upstream_path": "src/math/lroundf.c",
+      "role": "selected_source",
+      "bytes": 64,
+      "sha256": "585d7cc9e92ddd8f622e687ccbfd1865757981620e25391e0a181c1ad8a2f0d9"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/lroundl.c",
+      "upstream_path": "src/math/lroundl.c",
+      "role": "selected_source",
+      "bytes": 70,
+      "sha256": "0807bd458c378f5e25e1792613140015faec3f3eb97961f09fe604f401b80ce4"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/modf.c",
+      "upstream_path": "src/math/modf.c",
+      "role": "selected_source",
+      "bytes": 536,
+      "sha256": "9681ec8b49299a6fc2b2592241232535a1bc8e785f149efadfbb7637d006ca00"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/modff.c",
+      "upstream_path": "src/math/modff.c",
+      "role": "selected_source",
+      "bytes": 542,
+      "sha256": "a22d1b522e59fc08400cf79523fd631891bc67ff60099df7b651887811e05112"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/modfl.c",
+      "upstream_path": "src/math/modfl.c",
+      "role": "selected_source",
+      "bytes": 917,
+      "sha256": "7071f715cab5797d2ae6085292f03b82ab53a3af25367966a2f0bf103a07956e"
+    },
+    {
+      "bundle_path": "bundles/math_generic_14/nan.c",
+      "upstream_path": "src/math/nan.c",
+      "role": "selected_source",
+      "bytes": 62,
+      "sha256": "ec3049b4d2befe26b8c8b2238412db18419080a0aeae8189ac1250828cd5aba1"
+    }
+  ]
+}

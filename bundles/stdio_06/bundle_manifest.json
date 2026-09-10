@@ -1,0 +1,101 @@
+{
+  "name": "stdio_06",
+  "module": "stdio",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/stdio_06",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/stdio_06/getwc.c",
+      "upstream_path": "src/stdio/getwc.c",
+      "role": "selected_source",
+      "bytes": 89,
+      "sha256": "71fbaf26f0784d7f6a07d28b980507c9828bae35d7ce8f6dbfe62376643e07e9"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/getwchar.c",
+      "upstream_path": "src/stdio/getwchar.c",
+      "role": "selected_source",
+      "bytes": 135,
+      "sha256": "c2987c94b2015babce217e26bfe02179639d7b46d70b8e69a7ab49c49398ad44"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/ofl.c",
+      "upstream_path": "src/stdio/ofl.c",
+      "role": "selected_source",
+      "bytes": 279,
+      "sha256": "0cc470e24f70349bc897db361266a6f0b59f64d29e1ccba5ff770e603242deb3"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/ofl_add.c",
+      "upstream_path": "src/stdio/ofl_add.c",
+      "role": "selected_source",
+      "bytes": 172,
+      "sha256": "9ff596e40eefcd69205be5358e44d9c4e257f5484d9adcc63b67fa3b6f3e2e81"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/open_memstream.c",
+      "upstream_path": "src/stdio/open_memstream.c",
+      "role": "selected_source",
+      "bytes": 1894,
+      "sha256": "b6dc2ae69d00fcc2c5d2f61e6567ada292ae8fa21883de5bc9e5416b4b1aca33"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/open_wmemstream.c",
+      "upstream_path": "src/stdio/open_wmemstream.c",
+      "role": "selected_source",
+      "bytes": 2095,
+      "sha256": "e7dc87787e75a3f2c295355bb3b091c7e3c79b486fd195d0bd2bf2f0919b5bcc"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/pclose.c",
+      "upstream_path": "src/stdio/pclose.c",
+      "role": "selected_source",
+      "bytes": 249,
+      "sha256": "2113102dee12628cdcbb9f5329b00d92a64c5b4ae15bd524d4ce46b964864126"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/perror.c",
+      "upstream_path": "src/stdio/perror.c",
+      "role": "selected_source",
+      "bytes": 549,
+      "sha256": "68870526f79a3638463309891a006acf6e84303c615ed5eeca1b35179eaab096"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/popen.c",
+      "upstream_path": "src/stdio/popen.c",
+      "role": "selected_source",
+      "bytes": 1265,
+      "sha256": "a3251c0dc6d158b3e6d9e4883e7c5266a2fa86c29d6c83c5ea02d0bf92e4a21d"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/printf.c",
+      "upstream_path": "src/stdio/printf.c",
+      "role": "selected_source",
+      "bytes": 189,
+      "sha256": "593392914543ab5bfccb967db68ca3529674e316870ecc5b6fc427ebf3edf777"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/putc.c",
+      "upstream_path": "src/stdio/putc.c",
+      "role": "selected_source",
+      "bytes": 119,
+      "sha256": "062c049a8ce00ba03661d89b88bc078e4b6f8d90ee5367244ba4d96fd8b6f130"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/putc.h",
+      "upstream_path": "src/stdio/putc.h",
+      "role": "local_include_dependency",
+      "bytes": 499,
+      "sha256": "f7c496989e9f4aeb95a9756549756226a5c97f5df489b001f73d100aee585d4b"
+    },
+    {
+      "bundle_path": "bundles/stdio_06/putc_unlocked.c",
+      "upstream_path": "src/stdio/putc_unlocked.c",
+      "role": "selected_source",
+      "bytes": 184,
+      "sha256": "0185bda3299b02ca2eb36be5eea442c6a164052959d6f7210ed864bee85c2104"
+    }
+  ]
+}

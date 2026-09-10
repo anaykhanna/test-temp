@@ -1,0 +1,17 @@
+{
+  "name": "search_hash",
+  "module": "search",
+  "selection_policy": "semantic_group",
+  "subpath": "bundles/search_hash",
+  "selected_c_files": 1,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/search_hash/hsearch.c",
+      "upstream_path": "src/search/hsearch.c",
+      "role": "selected_source",
+      "bytes": 3053,
+      "sha256": "f2412d0959655f2aa8f63545ee414fa938875c47f0d081231d036cbf6b1b42e5"
+    }
+  ]
+}

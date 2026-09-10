@@ -1,0 +1,108 @@
+{
+  "name": "malloc_01",
+  "module": "malloc",
+  "selection_policy": "default_mallocng",
+  "subpath": "bundles/malloc_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 2,
+  "files": [
+    {
+      "bundle_path": "bundles/malloc_01/calloc.c",
+      "upstream_path": "src/malloc/calloc.c",
+      "role": "selected_source",
+      "bytes": 921,
+      "sha256": "df5ae020c1babce30975f16831eeafed47bc2e9e3e5a60799bf31f1054c18b1d"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/free.c",
+      "upstream_path": "src/malloc/free.c",
+      "role": "selected_source",
+      "bytes": 61,
+      "sha256": "c236260612a87f37a444fb91beac28ef742149e94dc657940b03187db226ff69"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/libc_calloc.c",
+      "upstream_path": "src/malloc/libc_calloc.c",
+      "role": "selected_source",
+      "bytes": 79,
+      "sha256": "54ca0dc7147ccd8af4a16083aa975af1e28ab5062fdbb8c721176c522d4bc566"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/lite_malloc.c",
+      "upstream_path": "src/malloc/lite_malloc.c",
+      "role": "selected_source",
+      "bytes": 2480,
+      "sha256": "7ee902268de1c1d3542d61ead38ca56c002630a2890f150f5959edee8f8506d9"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/mallocng/aligned_alloc.c",
+      "upstream_path": "src/malloc/mallocng/aligned_alloc.c",
+      "role": "selected_source",
+      "bytes": 1406,
+      "sha256": "8a1c955672db354c52fe3d743725d3a1dffd4d758ec792ff7a38c35fb9762348"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/mallocng/donate.c",
+      "upstream_path": "src/malloc/mallocng/donate.c",
+      "role": "selected_source",
+      "bytes": 881,
+      "sha256": "c4c7137621a51c70b92350c641797aa99ff1cca36f4da5d2f7fba263c1f002fa"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/mallocng/free.c",
+      "upstream_path": "src/malloc/mallocng/free.c",
+      "role": "selected_source",
+      "bytes": 3885,
+      "sha256": "c8c06d9847b3cfce57fd1067e8c886370bdfb81c0d198573871721b20a7e817b"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/mallocng/glue.h",
+      "upstream_path": "src/malloc/mallocng/glue.h",
+      "role": "local_include_dependency",
+      "bytes": 1863,
+      "sha256": "499ad5e0167cb56b6491bf049e6d01ca54113a71d9f99e7045e171063f35cfa4"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/mallocng/meta.h",
+      "upstream_path": "src/malloc/mallocng/meta.h",
+      "role": "local_include_dependency",
+      "bytes": 6239,
+      "sha256": "42865d840d0724b6925d79dc5bc5a8595a67b19466cfd16dff903586211d0fe7"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/memalign.c",
+      "upstream_path": "src/malloc/memalign.c",
+      "role": "selected_source",
+      "bytes": 121,
+      "sha256": "fcf8b42dad1e37190d670307db5da093a79d857216bf40d3fdc2c2df2ea13f6f"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/posix_memalign.c",
+      "upstream_path": "src/malloc/posix_memalign.c",
+      "role": "selected_source",
+      "bytes": 234,
+      "sha256": "5e3faebd5d1c7e4931d55ea5ba3206efa604e8f9b1c6f5ad8fe00d7406a2e566"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/realloc.c",
+      "upstream_path": "src/malloc/realloc.c",
+      "role": "selected_source",
+      "bytes": 88,
+      "sha256": "a633ebe5dfe39273c7b160363be6a34636e8fe02818403c0b2fab80a9f5e9366"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/reallocarray.c",
+      "upstream_path": "src/malloc/reallocarray.c",
+      "role": "selected_source",
+      "bytes": 201,
+      "sha256": "6d677fb7387bfc58ad6b10c6a91d26fc82f43f6caa0896fc46d04ce3f2ef73e9"
+    },
+    {
+      "bundle_path": "bundles/malloc_01/replaced.c",
+      "upstream_path": "src/malloc/replaced.c",
+      "role": "selected_source",
+      "bytes": 75,
+      "sha256": "e4c5e946902653fe931b7869bba9ea4cd196928a6c5ab8e3e00f259351f01fc5"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "search_tree_lookup",
+  "module": "search",
+  "selection_policy": "semantic_group",
+  "subpath": "bundles/search_tree_lookup",
+  "selected_c_files": 3,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/search_tree_lookup/tfind.c",
+      "upstream_path": "src/search/tfind.c",
+      "role": "selected_source",
+      "bytes": 298,
+      "sha256": "08b00beeffdd3ba5b8853c1e6a0b8cfc9cf7a789086164ffa59866d4b010f941"
+    },
+    {
+      "bundle_path": "bundles/search_tree_lookup/tsearch.c",
+      "upstream_path": "src/search/tsearch.c",
+      "role": "selected_source",
+      "bytes": 1701,
+      "sha256": "2b694a0b5d5298ae62df241f5729a36016d2ec5f95b2546f7f05d23ff51373dd"
+    },
+    {
+      "bundle_path": "bundles/search_tree_lookup/tsearch.h",
+      "upstream_path": "src/search/tsearch.h",
+      "role": "selected_source",
+      "bytes": 252,
+      "sha256": "8d3e27ca196493b5c96f32ba1f1adf0ded1792ca472ec33a6190fb785c2b0722"
+    }
+  ]
+}

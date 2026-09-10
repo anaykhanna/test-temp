@@ -1,0 +1,101 @@
+{
+  "name": "time_01",
+  "module": "time",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/time_01",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/time_01/__map_file.c",
+      "upstream_path": "src/time/__map_file.c",
+      "role": "selected_source",
+      "bytes": 474,
+      "sha256": "a11b16b64f607d0344278f09c059150fd3698306d2f85c121a3c8d6d88b2834d"
+    },
+    {
+      "bundle_path": "bundles/time_01/__month_to_secs.c",
+      "upstream_path": "src/time/__month_to_secs.c",
+      "role": "selected_source",
+      "bytes": 305,
+      "sha256": "ec626ffe4ac4521d7376b148b74cf6eecfe17142e4a1daefd18f9f68c4b01eae"
+    },
+    {
+      "bundle_path": "bundles/time_01/__secs_to_tm.c",
+      "upstream_path": "src/time/__secs_to_tm.c",
+      "role": "selected_source",
+      "bytes": 1884,
+      "sha256": "36562b874b867912bf5368d505a6402244fab067d5fdf3c905904d225f3e3d06"
+    },
+    {
+      "bundle_path": "bundles/time_01/__tm_to_secs.c",
+      "upstream_path": "src/time/__tm_to_secs.c",
+      "role": "selected_source",
+      "bytes": 482,
+      "sha256": "dbba28fd7ccb3a774b50732b77d675a3b5b6e4a48a7c713bd31d625018be88c1"
+    },
+    {
+      "bundle_path": "bundles/time_01/__tz.c",
+      "upstream_path": "src/time/__tz.c",
+      "role": "selected_source",
+      "bytes": 10214,
+      "sha256": "a1b944aa8c9e90a90ab2e5c6f5ef2f4eb3a26e9e279e76fed6d582a74df5984f"
+    },
+    {
+      "bundle_path": "bundles/time_01/__year_to_secs.c",
+      "upstream_path": "src/time/__year_to_secs.c",
+      "role": "selected_source",
+      "bytes": 935,
+      "sha256": "c11dea580c3810de90a2222c07bbb0b0a127fb326b60ed92e4205bbaace999f1"
+    },
+    {
+      "bundle_path": "bundles/time_01/asctime.c",
+      "upstream_path": "src/time/asctime.c",
+      "role": "selected_source",
+      "bytes": 110,
+      "sha256": "17a307e8f0692f09a9266a8a9abf10cfc2c63847ec5a9a7700530e023023469a"
+    },
+    {
+      "bundle_path": "bundles/time_01/asctime_r.c",
+      "upstream_path": "src/time/asctime_r.c",
+      "role": "selected_source",
+      "bytes": 843,
+      "sha256": "ddf7eee8be1f8ed310a2b20fa88f65b5a98210adc6c12babe1fd36353d5316a3"
+    },
+    {
+      "bundle_path": "bundles/time_01/clock.c",
+      "upstream_path": "src/time/clock.c",
+      "role": "selected_source",
+      "bytes": 292,
+      "sha256": "9802d9cfeb49e2c2f02d51b21721266d328af56e299f105a375b1fc870737266"
+    },
+    {
+      "bundle_path": "bundles/time_01/clock_getcpuclockid.c",
+      "upstream_path": "src/time/clock_getcpuclockid.c",
+      "role": "selected_source",
+      "bytes": 318,
+      "sha256": "c7f290b875176168dcb84c22c725f447ab0037fbae066bf8bbc958e4647fb1e2"
+    },
+    {
+      "bundle_path": "bundles/time_01/clock_getres.c",
+      "upstream_path": "src/time/clock_getres.c",
+      "role": "selected_source",
+      "bytes": 586,
+      "sha256": "8b50d9ad7d200e8d9abbde23ccb0947ec8de95d663fa4b4a4a4ce60050bdea9c"
+    },
+    {
+      "bundle_path": "bundles/time_01/clock_gettime.c",
+      "upstream_path": "src/time/clock_gettime.c",
+      "role": "selected_source",
+      "bytes": 2687,
+      "sha256": "b767ffab3299d29ecfff46807b3dd106ad99d503de7f853733ac592ebd51047c"
+    },
+    {
+      "bundle_path": "bundles/time_01/time_impl.h",
+      "upstream_path": "src/time/time_impl.h",
+      "role": "local_include_dependency",
+      "bytes": 516,
+      "sha256": "266237304c1524f9af6d2ac0e85534e421da6be35a62e5f0c47c0501e4a2e013"
+    }
+  ]
+}

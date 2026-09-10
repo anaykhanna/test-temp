@@ -1,0 +1,66 @@
+{
+  "name": "stdio_10",
+  "module": "stdio",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/stdio_10",
+  "selected_c_files": 8,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/stdio_10/vsprintf.c",
+      "upstream_path": "src/stdio/vsprintf.c",
+      "role": "selected_source",
+      "bytes": 153,
+      "sha256": "7290ad13793a6668b68d075e2aa57678f08639aa4ce7345eeff16d9f9cb4bf7c"
+    },
+    {
+      "bundle_path": "bundles/stdio_10/vsscanf.c",
+      "upstream_path": "src/stdio/vsscanf.c",
+      "role": "selected_source",
+      "bytes": 593,
+      "sha256": "88c56beb64ca4d4c6688404b1a16e10d8dd903f3447a5f88017ca927c5f15d0f"
+    },
+    {
+      "bundle_path": "bundles/stdio_10/vswprintf.c",
+      "upstream_path": "src/stdio/vswprintf.c",
+      "role": "selected_source",
+      "bytes": 1040,
+      "sha256": "f7e39fa19805e01401fdd5a4386d510b8cf76d8446f3aec3d0e373518be9ca71"
+    },
+    {
+      "bundle_path": "bundles/stdio_10/vswscanf.c",
+      "upstream_path": "src/stdio/vswscanf.c",
+      "role": "selected_source",
+      "bytes": 723,
+      "sha256": "e138f02174119c208d1ab846f0f7d0c59d63b05327264ef78ca8c4c4000eb376"
+    },
+    {
+      "bundle_path": "bundles/stdio_10/vwprintf.c",
+      "upstream_path": "src/stdio/vwprintf.c",
+      "role": "selected_source",
+      "bytes": 133,
+      "sha256": "a906a7aad681e71e01f6077e52c6b0c75dd52009f381bdda953ecfb520407b86"
+    },
+    {
+      "bundle_path": "bundles/stdio_10/vwscanf.c",
+      "upstream_path": "src/stdio/vwscanf.c",
+      "role": "selected_source",
+      "bytes": 189,
+      "sha256": "b3d78690adec4abeca39c7b7c9dfb6255c497d16074238b545585f674c81c4e7"
+    },
+    {
+      "bundle_path": "bundles/stdio_10/wprintf.c",
+      "upstream_path": "src/stdio/wprintf.c",
+      "role": "selected_source",
+      "bytes": 204,
+      "sha256": "dde7c79a54cdb7ba49aba7fd160b46fa2280e856a23cddbd3b3888ecedf0a575"
+    },
+    {
+      "bundle_path": "bundles/stdio_10/wscanf.c",
+      "upstream_path": "src/stdio/wscanf.c",
+      "role": "selected_source",
+      "bytes": 239,
+      "sha256": "8dffcff6a048a25dda50b93e441806150f48ba7a3a20d9359a5ba7a6fd6f45c6"
+    }
+  ]
+}

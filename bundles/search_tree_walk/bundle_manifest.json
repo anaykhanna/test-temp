@@ -1,0 +1,31 @@
+{
+  "name": "search_tree_walk",
+  "module": "search",
+  "selection_policy": "semantic_group",
+  "subpath": "bundles/search_tree_walk",
+  "selected_c_files": 3,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/search_tree_walk/tdestroy.c",
+      "upstream_path": "src/search/tdestroy.c",
+      "role": "selected_source",
+      "bytes": 292,
+      "sha256": "8edb026f0e6a05b4c346b19bd96488ef041eef7eb21c75533c012f1bb1947c10"
+    },
+    {
+      "bundle_path": "bundles/search_tree_walk/tsearch.h",
+      "upstream_path": "src/search/tsearch.h",
+      "role": "selected_source",
+      "bytes": 252,
+      "sha256": "8d3e27ca196493b5c96f32ba1f1adf0ded1792ca472ec33a6190fb785c2b0722"
+    },
+    {
+      "bundle_path": "bundles/search_tree_walk/twalk.c",
+      "upstream_path": "src/search/twalk.c",
+      "role": "selected_source",
+      "bytes": 441,
+      "sha256": "840581c1330b960234eee1424e3c95d5feba1244e526dfc3bd89ae7562d8ca29"
+    }
+  ]
+}

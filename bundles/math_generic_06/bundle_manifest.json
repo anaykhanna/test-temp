@@ -1,0 +1,94 @@
+{
+  "name": "math_generic_06",
+  "module": "math",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/math_generic_06",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/math_generic_06/ceill.c",
+      "upstream_path": "src/math/ceill.c",
+      "role": "selected_source",
+      "bytes": 744,
+      "sha256": "fd18da5d5f7ee0dc80b8fd6570ebd108572ae310c20dd9ab273514742479ed53"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/copysign.c",
+      "upstream_path": "src/math/copysign.c",
+      "role": "selected_source",
+      "bytes": 164,
+      "sha256": "7a5ae1fbedc6da808c69b1769f21624c20709c93eaa846fdf89546ab6bccecae"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/copysignf.c",
+      "upstream_path": "src/math/copysignf.c",
+      "role": "selected_source",
+      "bytes": 186,
+      "sha256": "71d74b1169dbea28d12adbd98a30975777b79d951f03b1111480911922fe37d0"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/copysignl.c",
+      "upstream_path": "src/math/copysignl.c",
+      "role": "selected_source",
+      "bytes": 386,
+      "sha256": "17851a8156e37d0c412e9347a48739b0c33b92ad7eb868a9825b865984b9534c"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/cos.c",
+      "upstream_path": "src/math/cos.c",
+      "role": "selected_source",
+      "bytes": 2111,
+      "sha256": "3a74e054057d636fa494bdd76a53a40db5cee618264f6ab31cb0538ba63c6bda"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/cosf.c",
+      "upstream_path": "src/math/cosf.c",
+      "role": "selected_source",
+      "bytes": 1921,
+      "sha256": "33cf828e8e733da2b72c723b9ff20057b9a4f10df72a3923dadcb626c23d222c"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/cosh.c",
+      "upstream_path": "src/math/cosh.c",
+      "role": "selected_source",
+      "bytes": 769,
+      "sha256": "5e5ed87e1a80e68734f4c87a4907a55f50a54df58261698aa94d5cb3276a3d43"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/coshf.c",
+      "upstream_path": "src/math/coshf.c",
+      "role": "selected_source",
+      "bytes": 498,
+      "sha256": "c834656b0af1d4055167badf60afb062b4d71385a7d5a44769d1039bb9417b7c"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/coshl.c",
+      "upstream_path": "src/math/coshl.c",
+      "role": "selected_source",
+      "bytes": 916,
+      "sha256": "dae73b174c81e48fd3db2403f5293ff791c822a071a18d8f85c3aaac1e220f65"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/cosl.c",
+      "upstream_path": "src/math/cosl.c",
+      "role": "selected_source",
+      "bytes": 729,
+      "sha256": "35e7b531fb8d836960bcd41cd5d8f6dbfce9a35c050828c4fe171c2e0816ec15"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/erf.c",
+      "upstream_path": "src/math/erf.c",
+      "role": "selected_source",
+      "bytes": 10346,
+      "sha256": "795f05c9388ac277ab27cb5dc63fb4f82620a0ee11eaf8403201df5bc65c0f5b"
+    },
+    {
+      "bundle_path": "bundles/math_generic_06/erff.c",
+      "upstream_path": "src/math/erff.c",
+      "role": "selected_source",
+      "bytes": 5350,
+      "sha256": "876ad823d25e58330628ccdc5d24a3f10cc255135046a4e2903daf33cb75c18f"
+    }
+  ]
+}

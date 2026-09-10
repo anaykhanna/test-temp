@@ -1,0 +1,101 @@
+{
+  "name": "stdio_03",
+  "module": "stdio",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/stdio_03",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/stdio_03/fgetc.c",
+      "upstream_path": "src/stdio/fgetc.c",
+      "role": "selected_source",
+      "bytes": 81,
+      "sha256": "28535c5d5f43589677b8af4730509ee492228d73406954ff01000b5beb8d1ab2"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fgetln.c",
+      "upstream_path": "src/stdio/fgetln.c",
+      "role": "selected_source",
+      "bytes": 441,
+      "sha256": "8c47f2d13ceb90a5e4475a44f288b5b0b9988340c6915dfd00468d2dea52e42a"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fgetpos.c",
+      "upstream_path": "src/stdio/fgetpos.c",
+      "role": "selected_source",
+      "bytes": 169,
+      "sha256": "8f7d2f8179024049c99c3f1f720d20b5e80cf60d911bc3abe4b492f4809e12c6"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fgets.c",
+      "upstream_path": "src/stdio/fgets.c",
+      "role": "selected_source",
+      "bytes": 764,
+      "sha256": "b832104a1a5453b74ae4609c911a00586e89fb4eaddb457717bdb65f7041aecb"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fgetwc.c",
+      "upstream_path": "src/stdio/fgetwc.c",
+      "role": "selected_source",
+      "bytes": 1220,
+      "sha256": "f0367cf2c6fa7a0c97ecf4497b41a74206c98b51dd6781e67e7cbf75d9b0b160"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fgetws.c",
+      "upstream_path": "src/stdio/fgetws.c",
+      "role": "selected_source",
+      "bytes": 427,
+      "sha256": "15bb86c0d4759d9c3f1c32d794109b1b7f1b4e403fcbefe59cb81a9f77abd979"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fileno.c",
+      "upstream_path": "src/stdio/fileno.c",
+      "role": "selected_source",
+      "bytes": 207,
+      "sha256": "239efa861cffcc71a4d11691a8b7e367905ffca70e310180ece1db20d20203ff"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/flockfile.c",
+      "upstream_path": "src/stdio/flockfile.c",
+      "role": "selected_source",
+      "bytes": 172,
+      "sha256": "4785e11648701ebaf3b8b97c1292f992120813ad105b69dd182e58e31b39f1bc"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fmemopen.c",
+      "upstream_path": "src/stdio/fmemopen.c",
+      "role": "selected_source",
+      "bytes": 2580,
+      "sha256": "e739d5e0021b80220dd81b3d8ce9684e861e537f0fec8dd0c43bd1a632bdd920"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fopen.c",
+      "upstream_path": "src/stdio/fopen.c",
+      "role": "selected_source",
+      "bytes": 590,
+      "sha256": "acc229d7ab6b99808b59615a860dcb023058737ed757aa74672c45cdafdef34e"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fopencookie.c",
+      "upstream_path": "src/stdio/fopencookie.c",
+      "role": "selected_source",
+      "bytes": 2841,
+      "sha256": "ddb2c119cc721d1d3a936b4b42e15fcff86d7d956b50e3c838e62d8ea547e0bd"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/fprintf.c",
+      "upstream_path": "src/stdio/fprintf.c",
+      "role": "selected_source",
+      "bytes": 203,
+      "sha256": "5ffb5e485efbcaf6f6918375b08f0fc1592ade56dc6df620c99e471624f32877"
+    },
+    {
+      "bundle_path": "bundles/stdio_03/getc.h",
+      "upstream_path": "src/stdio/getc.h",
+      "role": "local_include_dependency",
+      "bytes": 480,
+      "sha256": "d363b905b5c1959d3e627199eb2c40a0852766386a0790182996b99cdf09740b"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "thread_08",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_08",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_08/pthread_rwlock_timedrdlock.c",
+      "upstream_path": "src/thread/pthread_rwlock_timedrdlock.c",
+      "role": "selected_source",
+      "bytes": 708,
+      "sha256": "63142ac776ff82d0736f926962cd5757604948ff0e5eb77b2eb50a10153c2a2a"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_rwlock_timedwrlock.c",
+      "upstream_path": "src/thread/pthread_rwlock_timedwrlock.c",
+      "role": "selected_source",
+      "bytes": 679,
+      "sha256": "32afcae34f55e92443c3ca54282795b5723b8d9e86abb608b54471865efb79d1"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_rwlock_tryrdlock.c",
+      "upstream_path": "src/thread/pthread_rwlock_tryrdlock.c",
+      "role": "selected_source",
+      "bytes": 362,
+      "sha256": "5dc3f7495eaee990d4a2c0b35fa8f7ae512552ab9a8be4593a38b49fb5e5344a"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_rwlock_trywrlock.c",
+      "upstream_path": "src/thread/pthread_rwlock_trywrlock.c",
+      "role": "selected_source",
+      "bytes": 218,
+      "sha256": "6390f4efa4f14c17daa2cc946f3223eb3c3a8c30d81a33d1bb21dd3542652bc5"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_rwlock_unlock.c",
+      "upstream_path": "src/thread/pthread_rwlock_unlock.c",
+      "role": "selected_source",
+      "bytes": 467,
+      "sha256": "9cf1b4b79278dccf4ccb0b1a33dca77797c67b397c723f8695b7fefaf2b816f2"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_rwlock_wrlock.c",
+      "upstream_path": "src/thread/pthread_rwlock_wrlock.c",
+      "role": "selected_source",
+      "bytes": 187,
+      "sha256": "bb40b9e8501a878f29352d6a2f881a7a41abc9587fc690712e8ebde9d444e398"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_rwlockattr_destroy.c",
+      "upstream_path": "src/thread/pthread_rwlockattr_destroy.c",
+      "role": "selected_source",
+      "bytes": 98,
+      "sha256": "ea7e030e826c0c874f54c60f53c3414b146fecfbed5edfb35902696d47d643d6"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_rwlockattr_init.c",
+      "upstream_path": "src/thread/pthread_rwlockattr_init.c",
+      "role": "selected_source",
+      "bytes": 128,
+      "sha256": "cae088966015ba2d46315b1dfc8c81ccc938bf7b6aefe6d8d6e9c5586ab5bc3c"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_rwlockattr_setpshared.c",
+      "upstream_path": "src/thread/pthread_rwlockattr_setpshared.c",
+      "role": "selected_source",
+      "bytes": 173,
+      "sha256": "d7e215c09bf4c571dbe8374600b177c9e71071291c79bd454c1f4beaf2ca2389"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_self.c",
+      "upstream_path": "src/thread/pthread_self.c",
+      "role": "selected_source",
+      "bytes": 224,
+      "sha256": "aaaa2602892e93074240ed6017c4c7c1a3fdb65aa69fa975e6e89818ea2fc1f6"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_setattr_default_np.c",
+      "upstream_path": "src/thread/pthread_setattr_default_np.c",
+      "role": "selected_source",
+      "bytes": 931,
+      "sha256": "450ecb248beaaaeb132e855814ebf10b784ee91c601adc36541e731b21dc660a"
+    },
+    {
+      "bundle_path": "bundles/thread_08/pthread_setcancelstate.c",
+      "upstream_path": "src/thread/pthread_setcancelstate.c",
+      "role": "selected_source",
+      "bytes": 291,
+      "sha256": "1ada511c83509d9c32c768ba516b544ee0d6c060357d90d904204aa1af040e78"
+    }
+  ]
+}

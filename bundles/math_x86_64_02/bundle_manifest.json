@@ -1,0 +1,52 @@
+{
+  "name": "math_x86_64_02",
+  "module": "math",
+  "selection_policy": "x86_64_override_c",
+  "subpath": "bundles/math_x86_64_02",
+  "selected_c_files": 6,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/math_x86_64_02/x86_64/remainderl.c",
+      "upstream_path": "src/math/x86_64/remainderl.c",
+      "role": "selected_source",
+      "bytes": 200,
+      "sha256": "e83d52815283e76420618c55c9011988a0da23187ee9be1a67f4776786351a8c"
+    },
+    {
+      "bundle_path": "bundles/math_x86_64_02/x86_64/remquol.c",
+      "upstream_path": "src/math/x86_64/remquol.c",
+      "role": "selected_source",
+      "bytes": 1150,
+      "sha256": "1698154f815eea19d250359ac799ec84057c71b6a08e20cb02ccc20fb5159f2d"
+    },
+    {
+      "bundle_path": "bundles/math_x86_64_02/x86_64/rintl.c",
+      "upstream_path": "src/math/x86_64/rintl.c",
+      "role": "selected_source",
+      "bytes": 99,
+      "sha256": "17a0b056f800f22dd9b66c841f3af4a2002d72bfb77bb5fd3d723eef4b813713"
+    },
+    {
+      "bundle_path": "bundles/math_x86_64_02/x86_64/sqrt.c",
+      "upstream_path": "src/math/x86_64/sqrt.c",
+      "role": "selected_source",
+      "bytes": 103,
+      "sha256": "9f1c582b8190d858b69406f231dca9d441a987a5c5822ee0bd47e6d4089480b4"
+    },
+    {
+      "bundle_path": "bundles/math_x86_64_02/x86_64/sqrtf.c",
+      "upstream_path": "src/math/x86_64/sqrtf.c",
+      "role": "selected_source",
+      "bytes": 102,
+      "sha256": "b1384cb4a4aa0b1ddb9565c458f1dd87a605bd46f88d2e0f920be5517d8b57e0"
+    },
+    {
+      "bundle_path": "bundles/math_x86_64_02/x86_64/sqrtl.c",
+      "upstream_path": "src/math/x86_64/sqrtl.c",
+      "role": "selected_source",
+      "bytes": 97,
+      "sha256": "346dd2ad32d7a3f6635ffd1831cd535d9e4c671e4ba19c73f91e6610b45953e7"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "locale_02",
+  "module": "locale",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/locale_02",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/locale_02/langinfo.c",
+      "upstream_path": "src/locale/langinfo.c",
+      "role": "selected_source",
+      "bytes": 1709,
+      "sha256": "e6ec8692b91ebb6dc49a00a36b51f6c9c26eaca82e6d21c937ad616a7db84946"
+    },
+    {
+      "bundle_path": "bundles/locale_02/locale_map.c",
+      "upstream_path": "src/locale/locale_map.c",
+      "role": "selected_source",
+      "bytes": 2702,
+      "sha256": "888cbca6ed32b1d1a674678cd03adb27369c244a2963a2e6170ea7dfd69aa51a"
+    },
+    {
+      "bundle_path": "bundles/locale_02/localeconv.c",
+      "upstream_path": "src/locale/localeconv.c",
+      "role": "selected_source",
+      "bytes": 791,
+      "sha256": "7dae69907954209d40d09d43267de9960fadc1ccab4bd64a9a3706f09c5992c5"
+    },
+    {
+      "bundle_path": "bundles/locale_02/newlocale.c",
+      "upstream_path": "src/locale/newlocale.c",
+      "role": "selected_source",
+      "bytes": 2061,
+      "sha256": "55e7e5b9278283474650adbdb537562a9b269b9d29f1886de0f0431db3f2fc35"
+    },
+    {
+      "bundle_path": "bundles/locale_02/pleval.c",
+      "upstream_path": "src/locale/pleval.c",
+      "role": "selected_source",
+      "bytes": 3415,
+      "sha256": "6cc5ed2cf8bf0c67e5ad7188e057f7115dc120f26a2fb6d41fe4211b550e2258"
+    },
+    {
+      "bundle_path": "bundles/locale_02/pleval.h",
+      "upstream_path": "src/locale/pleval.h",
+      "role": "local_include_dependency",
+      "bytes": 126,
+      "sha256": "269b0f56b7cd606110ee7314e063756dd548dceb4567b4f961b9ccdbceed0351"
+    },
+    {
+      "bundle_path": "bundles/locale_02/setlocale.c",
+      "upstream_path": "src/locale/setlocale.c",
+      "role": "selected_source",
+      "bytes": 1831,
+      "sha256": "70d643bc5628c281e59a0acaf47bc53fb8535488096c11fd31b5c59a296700e5"
+    },
+    {
+      "bundle_path": "bundles/locale_02/strcoll.c",
+      "upstream_path": "src/locale/strcoll.c",
+      "role": "selected_source",
+      "bytes": 279,
+      "sha256": "31f4b8eca018511427ad85809327d2a6f850f72cb92d4c391684712ebc771d11"
+    },
+    {
+      "bundle_path": "bundles/locale_02/strfmon.c",
+      "upstream_path": "src/locale/strfmon.c",
+      "role": "selected_source",
+      "bytes": 1710,
+      "sha256": "394f52a2eaafe8bfbf9f5f7333d5fa04064df26821cc3f8dfac7c1fc0e48a169"
+    },
+    {
+      "bundle_path": "bundles/locale_02/strtod_l.c",
+      "upstream_path": "src/locale/strtod_l.c",
+      "role": "selected_source",
+      "bytes": 465,
+      "sha256": "6ae181b5012b78ac483d14f132c6be5d55258c50c278354babb90a8b7d4ec1c3"
+    },
+    {
+      "bundle_path": "bundles/locale_02/strxfrm.c",
+      "upstream_path": "src/locale/strxfrm.c",
+      "role": "selected_source",
+      "bytes": 426,
+      "sha256": "6ef828cfecd93527eec6cb476abfb69d7b8b7b149b157f9cb42d0d9a9db2db85"
+    },
+    {
+      "bundle_path": "bundles/locale_02/textdomain.c",
+      "upstream_path": "src/locale/textdomain.c",
+      "role": "selected_source",
+      "bytes": 761,
+      "sha256": "7e3badae72579fb79d92833c5c5ed03ff2590fbd467f227c269287aceec4fbde"
+    },
+    {
+      "bundle_path": "bundles/locale_02/uselocale.c",
+      "upstream_path": "src/locale/uselocale.c",
+      "role": "selected_source",
+      "bytes": 367,
+      "sha256": "1acf4e2140b18430b5948f3e6cfe36844ec7b24cdc6d4dd9efb8ee1319508ce7"
+    }
+  ]
+}

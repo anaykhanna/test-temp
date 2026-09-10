@@ -1,0 +1,80 @@
+{
+  "name": "thread_11",
+  "module": "thread",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/thread_11",
+  "selected_c_files": 10,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/thread_11/thrd_create.c",
+      "upstream_path": "src/thread/thrd_create.c",
+      "role": "selected_source",
+      "bytes": 315,
+      "sha256": "f32301bd6559545eb15a8f892f058dd09bdbb3409c776b1baf4ee7be7431538c"
+    },
+    {
+      "bundle_path": "bundles/thread_11/thrd_exit.c",
+      "upstream_path": "src/thread/thrd_exit.c",
+      "role": "selected_source",
+      "bytes": 146,
+      "sha256": "efda8cfc6482a40ab0098e81e72ee5a7c7cc23d3fac2f878a04601575ac86ab7"
+    },
+    {
+      "bundle_path": "bundles/thread_11/thrd_join.c",
+      "upstream_path": "src/thread/thrd_join.c",
+      "role": "selected_source",
+      "bytes": 250,
+      "sha256": "12f880e6ade406c7605d88133f2a31a5f68e1c7202ec36fd94610c3e8c02b3fc"
+    },
+    {
+      "bundle_path": "bundles/thread_11/thrd_sleep.c",
+      "upstream_path": "src/thread/thrd_sleep.c",
+      "role": "selected_source",
+      "bytes": 331,
+      "sha256": "3322d96b4eff9238ba6a33ae28826527317df08b365f15908a19faafaccc37d7"
+    },
+    {
+      "bundle_path": "bundles/thread_11/thrd_yield.c",
+      "upstream_path": "src/thread/thrd_yield.c",
+      "role": "selected_source",
+      "bytes": 94,
+      "sha256": "b2a25a0e1ef2d5ea8a37dae2f5dcf8b89301fc30734303429fed5f297364cd67"
+    },
+    {
+      "bundle_path": "bundles/thread_11/tls.c",
+      "upstream_path": "src/thread/tls.c",
+      "role": "selected_source",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bundle_path": "bundles/thread_11/tss_create.c",
+      "upstream_path": "src/thread/tss_create.c",
+      "role": "selected_source",
+      "bytes": 335,
+      "sha256": "8e263dc0e9d556eeefb0e42b93a6a39f528d9ee23e9e1b5c2db207b928bde000"
+    },
+    {
+      "bundle_path": "bundles/thread_11/tss_delete.c",
+      "upstream_path": "src/thread/tss_delete.c",
+      "role": "selected_source",
+      "bytes": 102,
+      "sha256": "852493bab261586a977fd5371aff2f4ed507bf8de82ecf0f006412ae38657d4b"
+    },
+    {
+      "bundle_path": "bundles/thread_11/tss_set.c",
+      "upstream_path": "src/thread/tss_set.c",
+      "role": "selected_source",
+      "bytes": 246,
+      "sha256": "2dbc898eadabcd478ce8028a0b450e47f02f454d5d66de220805dbd45adcce23"
+    },
+    {
+      "bundle_path": "bundles/thread_11/vmlock.c",
+      "upstream_path": "src/thread/vmlock.c",
+      "role": "selected_source",
+      "bytes": 354,
+      "sha256": "03cea690d4f01ba8fd88b869936d64a88e89354832aacec33bc0fb9211b87db7"
+    }
+  ]
+}

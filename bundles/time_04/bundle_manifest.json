@@ -1,0 +1,38 @@
+{
+  "name": "time_04",
+  "module": "time",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/time_04",
+  "selected_c_files": 3,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/time_04/time_impl.h",
+      "upstream_path": "src/time/time_impl.h",
+      "role": "local_include_dependency",
+      "bytes": 516,
+      "sha256": "266237304c1524f9af6d2ac0e85534e421da6be35a62e5f0c47c0501e4a2e013"
+    },
+    {
+      "bundle_path": "bundles/time_04/timespec_get.c",
+      "upstream_path": "src/time/timespec_get.c",
+      "role": "selected_source",
+      "bytes": 284,
+      "sha256": "166172fc4bee57193d9f5d4017d0dec1db2e351340c01eb53087f480b1c85d33"
+    },
+    {
+      "bundle_path": "bundles/time_04/utime.c",
+      "upstream_path": "src/time/utime.c",
+      "role": "selected_source",
+      "bytes": 279,
+      "sha256": "ae94674bc9930851e8e8c4893ddd979be97f9c3ac56e26682e5bd79c3b88b90b"
+    },
+    {
+      "bundle_path": "bundles/time_04/wcsftime.c",
+      "upstream_path": "src/time/wcsftime.c",
+      "role": "selected_source",
+      "bytes": 1564,
+      "sha256": "895d612ebf63998db116fe78ec867006d0172b786b6c5bd364c551f0d14667b6"
+    }
+  ]
+}

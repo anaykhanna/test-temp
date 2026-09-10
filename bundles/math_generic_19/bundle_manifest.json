@@ -1,0 +1,101 @@
+{
+  "name": "math_generic_19",
+  "module": "math",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/math_generic_19",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/math_generic_19/sqrt.c",
+      "upstream_path": "src/math/sqrt.c",
+      "role": "selected_source",
+      "bytes": 4558,
+      "sha256": "688908f94c3edf7a439cb64094034a596a1fbff08445b9158a22874cb52ead4f"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/sqrt_data.c",
+      "upstream_path": "src/math/sqrt_data.c",
+      "role": "selected_source",
+      "bytes": 974,
+      "sha256": "590aaadff964dcfc36ef9e5302423a779cda4f1608e15dbeee8e43e6e5f1c6fe"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/sqrt_data.h",
+      "upstream_path": "src/math/sqrt_data.h",
+      "role": "local_include_dependency",
+      "bytes": 352,
+      "sha256": "5fa47a8b8c1afbee4dcd10f71d2f6c433a24f9aa5ce7a90924cd1db236cbc03c"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/sqrtf.c",
+      "upstream_path": "src/math/sqrtf.c",
+      "role": "selected_source",
+      "bytes": 1897,
+      "sha256": "bd7c19c2c4efdbd1259f04a919c88f7119d9402cdd41584c7b0f854acb203b42"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/sqrtl.c",
+      "upstream_path": "src/math/sqrtl.c",
+      "role": "selected_source",
+      "bytes": 5498,
+      "sha256": "55d20e817e8b685f0f18618dd30390842c3a074b249b0b6da3f4edabd3d15f3d"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/tan.c",
+      "upstream_path": "src/math/tan.c",
+      "role": "selected_source",
+      "bytes": 1965,
+      "sha256": "422d411bac962a1077ae394d14e54313012a6faa3476c20b2a66d3fb3f7a923f"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/tanf.c",
+      "upstream_path": "src/math/tanf.c",
+      "role": "selected_source",
+      "bytes": 1781,
+      "sha256": "38b39aaf03d33341e606b67b3743ee5fa436b7e8338af155994d4b794b366003"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/tanh.c",
+      "upstream_path": "src/math/tanh.c",
+      "role": "selected_source",
+      "bytes": 996,
+      "sha256": "7e290e86729cba6ccc8eb1f7db2452736daf1a2a8ce01b210db5787fee5cb762"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/tanhf.c",
+      "upstream_path": "src/math/tanhf.c",
+      "role": "selected_source",
+      "bytes": 653,
+      "sha256": "4787b2f6be28bb2ae9721d510b12d2b9aebf96a594f26f25a3dc267f029800df"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/tanhl.c",
+      "upstream_path": "src/math/tanhl.c",
+      "role": "selected_source",
+      "bytes": 1003,
+      "sha256": "459c4edb87e20d9d3abfdd5c9f1806cfa8fcf19f4e95759bca64da4969290355"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/tanl.c",
+      "upstream_path": "src/math/tanl.c",
+      "role": "selected_source",
+      "bytes": 634,
+      "sha256": "aa2fa3676c4a8754982e5da9308aa9f14dfc268ef9f709e7ef7792d523d2c3a0"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/tgamma.c",
+      "upstream_path": "src/math/tgamma.c",
+      "role": "selected_source",
+      "bytes": 5464,
+      "sha256": "5dc226d9456bdd35754d7295f373d545e835f1509c1de7262ab0335da732b562"
+    },
+    {
+      "bundle_path": "bundles/math_generic_19/tgammaf.c",
+      "upstream_path": "src/math/tgammaf.c",
+      "role": "selected_source",
+      "bytes": 65,
+      "sha256": "b827e09c7e2387a6d95fe91fe1c74fc01e709524a676aa25a8f3bd8ec364beae"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "fenv_01",
+  "module": "fenv",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/fenv_01",
+  "selected_c_files": 7,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/fenv_01/__flt_rounds.c",
+      "upstream_path": "src/fenv/__flt_rounds.c",
+      "role": "selected_source",
+      "bytes": 296,
+      "sha256": "6587833bfcf51253cfd26bedaf333783c88ada357589371556d4e344fe2332e8"
+    },
+    {
+      "bundle_path": "bundles/fenv_01/fegetexceptflag.c",
+      "upstream_path": "src/fenv/fegetexceptflag.c",
+      "role": "selected_source",
+      "bytes": 106,
+      "sha256": "217dd9fdf866fee4c4cbaf640cf9f93cce18e472c6802467c3e7f467b33352b8"
+    },
+    {
+      "bundle_path": "bundles/fenv_01/feholdexcept.c",
+      "upstream_path": "src/fenv/feholdexcept.c",
+      "role": "selected_source",
+      "bytes": 113,
+      "sha256": "0da7883c73cca264df92d3bf8992754f8fa67828ba1be7d6fc197a020ebea692"
+    },
+    {
+      "bundle_path": "bundles/fenv_01/fenv.c",
+      "upstream_path": "src/fenv/fenv.c",
+      "role": "selected_source",
+      "bytes": 390,
+      "sha256": "6994f1dc4cb270072277d61fd3f7836f3df3455c873727a33e59713e0c058d93"
+    },
+    {
+      "bundle_path": "bundles/fenv_01/fesetexceptflag.c",
+      "upstream_path": "src/fenv/fesetexceptflag.c",
+      "role": "selected_source",
+      "bytes": 142,
+      "sha256": "f235f5e49c6f1e8acb4844ae883671b461da9a8e3155e70b4968c3a7f6bca8dc"
+    },
+    {
+      "bundle_path": "bundles/fenv_01/fesetround.c",
+      "upstream_path": "src/fenv/fesetround.c",
+      "role": "selected_source",
+      "bytes": 370,
+      "sha256": "977d5b1221c51f14f49b8d210095b61ba0411f7215eaea57aae197df6b6d87af"
+    },
+    {
+      "bundle_path": "bundles/fenv_01/feupdateenv.c",
+      "upstream_path": "src/fenv/feupdateenv.c",
+      "role": "selected_source",
+      "bytes": 146,
+      "sha256": "b51dc0cc2a9161109667a65f41e132198199327b54988fe9c65172c60d39b296"
+    }
+  ]
+}

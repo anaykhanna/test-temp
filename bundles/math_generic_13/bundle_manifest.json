@@ -1,0 +1,122 @@
+{
+  "name": "math_generic_13",
+  "module": "math",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/math_generic_13",
+  "selected_c_files": 12,
+  "included_dependency_files": 4,
+  "files": [
+    {
+      "bundle_path": "bundles/math_generic_13/log1pf.c",
+      "upstream_path": "src/math/log1pf.c",
+      "role": "selected_source",
+      "bytes": 1989,
+      "sha256": "6c01aff9fcee1dcaca4d4581f17357e0f069643321c00288c672adc3521d0cc8"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log1pl.c",
+      "upstream_path": "src/math/log1pl.c",
+      "role": "selected_source",
+      "bytes": 4440,
+      "sha256": "3846b55cbd55e3d3f90d7484216663030ec98c4c353e644ce3c4e3122080e4c4"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log2.c",
+      "upstream_path": "src/math/log2.c",
+      "role": "selected_source",
+      "bytes": 3446,
+      "sha256": "281e4fc0f737419e245019d8bc8a8ca53032c2d88c31d08561e9e59dcb4b4640"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log2_data.c",
+      "upstream_path": "src/math/log2_data.c",
+      "role": "selected_source",
+      "bytes": 7964,
+      "sha256": "5a62bb213f19dc1364cddb612e3d13831e382f5ae6f7fafd7064362f53478dfb"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log2_data.h",
+      "upstream_path": "src/math/log2_data.h",
+      "role": "local_include_dependency",
+      "bytes": 538,
+      "sha256": "b56e1a56f73a8700caa9787cd399fecf7f96038af56c2a590aeb6f0f8662ea8e"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log2f.c",
+      "upstream_path": "src/math/log2f.c",
+      "role": "selected_source",
+      "bytes": 1743,
+      "sha256": "f2393ef18e78e6dc540e7349dbfea000018246d64fca3eefe73f11a286403352"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log2f_data.c",
+      "upstream_path": "src/math/log2f_data.c",
+      "role": "selected_source",
+      "bytes": 1084,
+      "sha256": "9261d7fdef29db26bd75310f029823593639ecf7c1cc089a6014623d49d21abe"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log2f_data.h",
+      "upstream_path": "src/math/log2f_data.h",
+      "role": "local_include_dependency",
+      "bytes": 360,
+      "sha256": "cb65ee48f557b19c8a6366a05f16ffba38aa46b00c4c136faf2dea8f53675a9b"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log2l.c",
+      "upstream_path": "src/math/log2l.c",
+      "role": "selected_source",
+      "bytes": 4601,
+      "sha256": "c3294ef6fcf96c061c4511fb3f6cd2886b2f513938deadcfb16fc19fb2a9ff03"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log_data.c",
+      "upstream_path": "src/math/log_data.c",
+      "role": "selected_source",
+      "bytes": 13927,
+      "sha256": "e96bcd99d88fc57e0f3686299014f4b949a6212603ce237f39e16cedc155617a"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/log_data.h",
+      "upstream_path": "src/math/log_data.h",
+      "role": "local_include_dependency",
+      "bytes": 552,
+      "sha256": "a8dced6f0821f30cad040ba326b03e419fbe0a750ed8f3b0d7145992bee4bccc"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/logb.c",
+      "upstream_path": "src/math/logb.c",
+      "role": "selected_source",
+      "bytes": 228,
+      "sha256": "46f89d69993da5a4b329d8958fbf1c93427b85cca53e45b4d4aa9a91bcc043b1"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/logbf.c",
+      "upstream_path": "src/math/logbf.c",
+      "role": "selected_source",
+      "bytes": 130,
+      "sha256": "7490638a90bc5f6b916f073bc52a7ce29cbcb194f7b38935f207de2336efea9d"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/logbl.c",
+      "upstream_path": "src/math/logbl.c",
+      "role": "selected_source",
+      "bytes": 256,
+      "sha256": "15c2cbb4072eb339039fbdbd8bf17375007d311a28a40f9e7e69e93f1a9bf324"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/logf.c",
+      "upstream_path": "src/math/logf.c",
+      "role": "selected_source",
+      "bytes": 1732,
+      "sha256": "eecf8e5dd0afd5f64f938ccae07c85b0a8e82919f5d4269936a3b8493fb64e47"
+    },
+    {
+      "bundle_path": "bundles/math_generic_13/logf_data.h",
+      "upstream_path": "src/math/logf_data.h",
+      "role": "local_include_dependency",
+      "bytes": 406,
+      "sha256": "80176d1f045f162e917ca5c2879994ab0ed9e27b479086d752e5793c91135adf"
+    }
+  ]
+}

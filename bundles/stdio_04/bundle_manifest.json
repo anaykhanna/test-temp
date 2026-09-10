@@ -1,0 +1,101 @@
+{
+  "name": "stdio_04",
+  "module": "stdio",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/stdio_04",
+  "selected_c_files": 12,
+  "included_dependency_files": 1,
+  "files": [
+    {
+      "bundle_path": "bundles/stdio_04/fputc.c",
+      "upstream_path": "src/stdio/fputc.c",
+      "role": "selected_source",
+      "bytes": 91,
+      "sha256": "3f8178bfae26f9b6dec69cd13997a6316d43840db5e956eb4fadc0e74fb7a240"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/fputs.c",
+      "upstream_path": "src/stdio/fputs.c",
+      "role": "selected_source",
+      "bytes": 197,
+      "sha256": "accd1554f54b5be4537ceda6be283b021e381370b7efa10105b288ed74521886"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/fputwc.c",
+      "upstream_path": "src/stdio/fputwc.c",
+      "role": "selected_source",
+      "bytes": 812,
+      "sha256": "31d79eeb4826d1242b0cfef854c8574f5a4620016c12047dc9b1fe8f7e02b8dd"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/fputws.c",
+      "upstream_path": "src/stdio/fputws.c",
+      "role": "selected_source",
+      "bytes": 519,
+      "sha256": "3d24b90265464fbfccc5a55da53c7c9e0e315bb4d289481a5660911578a3064b"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/fread.c",
+      "upstream_path": "src/stdio/fread.c",
+      "role": "selected_source",
+      "bytes": 694,
+      "sha256": "d690a3072af0dd833d3cf94569ec0f8ac295b95deb1bfaeb80ca4e693d9c24cc"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/freopen.c",
+      "upstream_path": "src/stdio/freopen.c",
+      "role": "selected_source",
+      "bytes": 1232,
+      "sha256": "8cd889308b563e631c112b0bdf2273e46e7596af498ba0ebfd376e7bcb00b6ac"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/fscanf.c",
+      "upstream_path": "src/stdio/fscanf.c",
+      "role": "selected_source",
+      "bytes": 239,
+      "sha256": "d94bc5c753001438213ae9f9530b25f25cca19e4d46f3822298de5de07928cf8"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/fseek.c",
+      "upstream_path": "src/stdio/fseek.c",
+      "role": "selected_source",
+      "bytes": 1057,
+      "sha256": "69a716a8f8d8601a4d0c9fd24689ec4c43da0a45d8b37a166e91e3517b18aecb"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/fsetpos.c",
+      "upstream_path": "src/stdio/fsetpos.c",
+      "role": "selected_source",
+      "bytes": 125,
+      "sha256": "6d73b806ea55865f1cab6bcbef827a0f5b58c88dfda1d73ae8859063b2395dcc"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/ftell.c",
+      "upstream_path": "src/stdio/ftell.c",
+      "role": "selected_source",
+      "bytes": 625,
+      "sha256": "c678b9751a4b5d2c96d070522b42d4e2d02b481efb804cdd799bcdb2f866d35d"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/ftrylockfile.c",
+      "upstream_path": "src/stdio/ftrylockfile.c",
+      "role": "selected_source",
+      "bytes": 1043,
+      "sha256": "9d35066af7688ad13cee22a529eb8f7ce5c85a727730058324f510712d41c35a"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/funlockfile.c",
+      "upstream_path": "src/stdio/funlockfile.c",
+      "role": "selected_source",
+      "bytes": 204,
+      "sha256": "27cf2ab8cde01e56bb9c544d2dd8c6d48285c0b306b4d5ec2e24f06f99e4ec4a"
+    },
+    {
+      "bundle_path": "bundles/stdio_04/putc.h",
+      "upstream_path": "src/stdio/putc.h",
+      "role": "local_include_dependency",
+      "bytes": 499,
+      "sha256": "f7c496989e9f4aeb95a9756549756226a5c97f5df489b001f73d100aee585d4b"
+    }
+  ]
+}

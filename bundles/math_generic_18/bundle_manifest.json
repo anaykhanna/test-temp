@@ -1,0 +1,94 @@
+{
+  "name": "math_generic_18",
+  "module": "math",
+  "selection_policy": "generic_top_level_c",
+  "subpath": "bundles/math_generic_18",
+  "selected_c_files": 12,
+  "included_dependency_files": 0,
+  "files": [
+    {
+      "bundle_path": "bundles/math_generic_18/signgam.c",
+      "upstream_path": "src/math/signgam.c",
+      "role": "selected_source",
+      "bytes": 89,
+      "sha256": "d07db3ba0c94c807cb5651b170f6931cefc2e1fcedbf5dccbbdf55fe9eae0059"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/significand.c",
+      "upstream_path": "src/math/significand.c",
+      "role": "selected_source",
+      "bytes": 102,
+      "sha256": "1505264cd11def2cc069f9d0da88c1498f273fe6c451ffbca25dbeea584ea787"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/significandf.c",
+      "upstream_path": "src/math/significandf.c",
+      "role": "selected_source",
+      "bytes": 103,
+      "sha256": "f4c6f2d5b6cdb4fd8718f703d518afcede1ca511bedbd5c8ce4d70c103bd9d66"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/sin.c",
+      "upstream_path": "src/math/sin.c",
+      "role": "selected_source",
+      "bytes": 2192,
+      "sha256": "24e53a9d85f196f66919cc19247be5480bb607ef38844b1a24bc47c4fe4974ef"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/sincos.c",
+      "upstream_path": "src/math/sincos.c",
+      "role": "selected_source",
+      "bytes": 1345,
+      "sha256": "2b88cfba380b8d5aa8f8f6b9f055aee91fe112de9f967a4484807afcb5405d9d"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/sincosf.c",
+      "upstream_path": "src/math/sincosf.c",
+      "role": "selected_source",
+      "bytes": 2565,
+      "sha256": "0196bf2ccfa370be120b917f2379bb533950ea50818d329aeee076081690c95d"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/sincosl.c",
+      "upstream_path": "src/math/sincosl.c",
+      "role": "selected_source",
+      "bytes": 1089,
+      "sha256": "b3ca83d96032345e03afc67592ea503fd8de691b760d6786b7f55f30c87903d4"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/sinf.c",
+      "upstream_path": "src/math/sinf.c",
+      "role": "selected_source",
+      "bytes": 1970,
+      "sha256": "2583af55446f07da3225186c368a7aae5a0a0a0edab268967f4122b92e222b87"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/sinh.c",
+      "upstream_path": "src/math/sinh.c",
+      "role": "selected_source",
+      "bytes": 838,
+      "sha256": "ab082814c4b1bbad8ea7dcfde1e36167cd72be5ef0e8b3ef3def0e052dd74261"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/sinhf.c",
+      "upstream_path": "src/math/sinhf.c",
+      "role": "selected_source",
+      "bytes": 489,
+      "sha256": "2c52f2c26163f8b7a0048465343510a5856d9c8cc954931722e121040fe81024"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/sinhl.c",
+      "upstream_path": "src/math/sinhl.c",
+      "role": "selected_source",
+      "bytes": 849,
+      "sha256": "b831736fbbd0c4669c1b11c66ecfcca2f9857fdf464455aebecf87819bd8aa9e"
+    },
+    {
+      "bundle_path": "bundles/math_generic_18/sinl.c",
+      "upstream_path": "src/math/sinl.c",
+      "role": "selected_source",
+      "bytes": 810,
+      "sha256": "ef6c9704017e2af353a27fd1e57db1864704fb9f9e92badc2753c1c2961b2424"
+    }
+  ]
+}
