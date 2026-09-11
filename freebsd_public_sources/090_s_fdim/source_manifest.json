@@ -1,0 +1,8 @@
+{
+  "case_name": "090_s_fdim",
+  "subpath": "freebsd_public_sources/090_s_fdim",
+  "public_name": "fdim",
+  "upstream_path": "lib/msun/src/s_fdim.c",
+  "bytes": 1729,
+  "sha256": "8917941130e29923db96578d64d2f3c90a8fd3124b743fd066a6695e29f4d078"
+}

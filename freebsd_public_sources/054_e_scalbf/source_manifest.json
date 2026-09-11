@@ -1,0 +1,8 @@
+{
+  "case_name": "054_e_scalbf",
+  "subpath": "freebsd_public_sources/054_e_scalbf",
+  "public_name": "scalbf",
+  "upstream_path": "lib/msun/src/e_scalbf.c",
+  "bytes": 1058,
+  "sha256": "b91249ccadd8dced3e3c3244468cfca18b7c8841bebcf06f3c576cfbf291c8e3"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "176_s_truncl",
+  "subpath": "freebsd_public_sources/176_s_truncl",
+  "public_name": "truncl",
+  "upstream_path": "lib/msun/src/s_truncl.c",
+  "bytes": 1664,
+  "sha256": "e38d20a331adba5570dcb7b2ba05b4180cdc47f438001d5fd10d6ec995868e46"
+}

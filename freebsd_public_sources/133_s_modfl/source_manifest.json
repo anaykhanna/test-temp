@@ -1,0 +1,8 @@
+{
+  "case_name": "133_s_modfl",
+  "subpath": "freebsd_public_sources/133_s_modfl",
+  "public_name": "modfl",
+  "upstream_path": "lib/msun/src/s_modfl.c",
+  "bytes": 3571,
+  "sha256": "d4299c8564f70590f7794882bb4d666b75e3707177359fee11824ad2a538e8f2"
+}

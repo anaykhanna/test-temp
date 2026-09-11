@@ -1,0 +1,8 @@
+{
+  "case_name": "052_e_remainderl",
+  "subpath": "freebsd_public_sources/052_e_remainderl",
+  "public_name": "remainderl",
+  "upstream_path": "lib/msun/src/e_remainderl.c",
+  "bytes": 1573,
+  "sha256": "16025b92d60d16161d34b8bfb0f32baade484e9db1cd6b238b7c2ba8063e19d0"
+}

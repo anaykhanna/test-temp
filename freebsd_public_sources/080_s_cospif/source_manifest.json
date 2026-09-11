@@ -1,0 +1,8 @@
+{
+  "case_name": "080_s_cospif",
+  "subpath": "freebsd_public_sources/080_s_cospif",
+  "public_name": "cospif",
+  "upstream_path": "lib/msun/src/s_cospif.c",
+  "bytes": 3288,
+  "sha256": "023d490a045fa2f7b968a6a2f05d8fef97e97ddaf462fe1c17fadfbf41e75d96"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "154_s_signbit",
+  "subpath": "freebsd_public_sources/154_s_signbit",
+  "public_name": "signbit",
+  "upstream_path": "lib/msun/src/s_signbit.c",
+  "bytes": 1774,
+  "sha256": "02f068f67379947ae146b518377b30695e678a8305b59358d17b393349d57aeb"
+}

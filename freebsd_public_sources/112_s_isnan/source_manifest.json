@@ -1,0 +1,8 @@
+{
+  "case_name": "112_s_isnan",
+  "subpath": "freebsd_public_sources/112_s_isnan",
+  "public_name": "isnan",
+  "upstream_path": "lib/msun/src/s_isnan.c",
+  "bytes": 2196,
+  "sha256": "49feb1de62a163cd719d5bef304d925ce16403ce0f13a0048da448434d838276"
+}

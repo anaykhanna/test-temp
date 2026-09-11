@@ -1,0 +1,8 @@
+{
+  "case_name": "048_e_pow",
+  "subpath": "freebsd_public_sources/048_e_pow",
+  "public_name": "pow",
+  "upstream_path": "lib/msun/src/e_pow.c",
+  "bytes": 10324,
+  "sha256": "787a70a02b8816f67b9835b235d72bb98c1a19879970b0c317a1f0b0882cd5bc"
+}

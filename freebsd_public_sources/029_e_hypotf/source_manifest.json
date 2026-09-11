@@ -1,0 +1,8 @@
+{
+  "case_name": "029_e_hypotf",
+  "subpath": "freebsd_public_sources/029_e_hypotf",
+  "public_name": "hypotf",
+  "upstream_path": "lib/msun/src/e_hypotf.c",
+  "bytes": 2200,
+  "sha256": "9058048262d02d16d310f118a370c0fdc4c75ea35aa9e82633b8ebcdc7bd970d"
+}

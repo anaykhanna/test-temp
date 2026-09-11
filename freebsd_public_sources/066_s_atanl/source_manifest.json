@@ -1,0 +1,8 @@
+{
+  "case_name": "066_s_atanl",
+  "subpath": "freebsd_public_sources/066_s_atanl",
+  "public_name": "atanl",
+  "upstream_path": "lib/msun/src/s_atanl.c",
+  "bytes": 2412,
+  "sha256": "34df5b4acb7a0413d142dd9135699c99fde198ed09426c788a53668bca8deb8c"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "034_e_j1f",
+  "subpath": "freebsd_public_sources/034_e_j1f",
+  "public_name": "j1f",
+  "upstream_path": "lib/msun/src/e_j1f.c",
+  "bytes": 10470,
+  "sha256": "1f29f1159e24124267cf12453fc3f21ab098855a5dd612df4f0dde1e1d9e6412"
+}

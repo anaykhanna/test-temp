@@ -1,0 +1,8 @@
+{
+  "case_name": "060_e_sqrtl",
+  "subpath": "freebsd_public_sources/060_e_sqrtl",
+  "public_name": "sqrtl",
+  "upstream_path": "lib/msun/src/e_sqrtl.c",
+  "bytes": 4485,
+  "sha256": "1fb89139898a16e46e28acd3951ff4463fe2fd57b057ad28f4c8b200f0c06511"
+}

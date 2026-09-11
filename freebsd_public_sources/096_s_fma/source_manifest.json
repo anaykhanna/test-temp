@@ -1,0 +1,8 @@
+{
+  "case_name": "096_s_fma",
+  "subpath": "freebsd_public_sources/096_s_fma",
+  "public_name": "fma",
+  "upstream_path": "lib/msun/src/s_fma.c",
+  "bytes": 8499,
+  "sha256": "0d76a7635d641680c9aaacc112c95b8a8d5ac5290f5d58d2ecfc1f0b8dbbd8fa"
+}

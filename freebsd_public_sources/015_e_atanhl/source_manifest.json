@@ -1,0 +1,8 @@
+{
+  "case_name": "015_e_atanhl",
+  "subpath": "freebsd_public_sources/015_e_atanhl",
+  "public_name": "atanhl",
+  "upstream_path": "lib/msun/src/e_atanhl.c",
+  "bytes": 1825,
+  "sha256": "19c56c306ef453b28b6eb9c35da1b8e10fc4cf80cfd177ce7f43ad63df2e4fe9"
+}

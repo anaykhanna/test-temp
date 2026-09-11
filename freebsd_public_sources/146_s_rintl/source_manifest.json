@@ -1,0 +1,8 @@
+{
+  "case_name": "146_s_rintl",
+  "subpath": "freebsd_public_sources/146_s_rintl",
+  "public_name": "rintl",
+  "upstream_path": "lib/msun/src/s_rintl.c",
+  "bytes": 2869,
+  "sha256": "a35a04b6ca2308919552e687522d49d1586abe9c3970997a92f818992d9e441d"
+}

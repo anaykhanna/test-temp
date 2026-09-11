@@ -1,0 +1,8 @@
+{
+  "case_name": "161_s_sinf",
+  "subpath": "freebsd_public_sources/161_s_sinf",
+  "public_name": "sinf",
+  "upstream_path": "lib/msun/src/s_sinf.c",
+  "bytes": 2263,
+  "sha256": "8c5bd80e8147ad1c3f8677e0543201e89bd75cda11c7b8fce0acc0be1fd58895"
+}

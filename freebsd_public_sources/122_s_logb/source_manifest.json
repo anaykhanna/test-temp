@@ -1,0 +1,8 @@
+{
+  "case_name": "122_s_logb",
+  "subpath": "freebsd_public_sources/122_s_logb",
+  "public_name": "logb",
+  "upstream_path": "lib/msun/src/s_logb.c",
+  "bytes": 1154,
+  "sha256": "3c9a3dcea4a55244c21377272c3ea4d8133de4d6968f695c2ba3b330d713c41c"
+}

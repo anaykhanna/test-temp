@@ -1,0 +1,8 @@
+{
+  "case_name": "148_s_roundf",
+  "subpath": "freebsd_public_sources/148_s_roundf",
+  "public_name": "roundf",
+  "upstream_path": "lib/msun/src/s_roundf.c",
+  "bytes": 1784,
+  "sha256": "85d59d45ef9b61fe96a18d2b23c390248cc5bb7f8bf781ecedba2153df04280c"
+}

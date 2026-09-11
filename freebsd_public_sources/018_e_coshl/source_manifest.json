@@ -1,0 +1,8 @@
+{
+  "case_name": "018_e_coshl",
+  "subpath": "freebsd_public_sources/018_e_coshl",
+  "public_name": "coshl",
+  "upstream_path": "lib/msun/src/e_coshl.c",
+  "bytes": 4175,
+  "sha256": "577b017e00d5d5bde42f6fabfdf3cfde78bc19dffb58d39d37670fcc1e0f1198"
+}

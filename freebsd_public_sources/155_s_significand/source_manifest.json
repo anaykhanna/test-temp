@@ -1,0 +1,8 @@
+{
+  "case_name": "155_s_significand",
+  "subpath": "freebsd_public_sources/155_s_significand",
+  "public_name": "significand",
+  "upstream_path": "lib/msun/src/s_significand.c",
+  "bytes": 696,
+  "sha256": "0b9306d4181b6d201146a54551bf7bcc784f5668dcecd3e22149ad8fc336bd11"
+}

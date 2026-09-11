@@ -1,0 +1,8 @@
+{
+  "case_name": "027_e_gammaf_r",
+  "subpath": "freebsd_public_sources/027_e_gammaf_r",
+  "public_name": "gammaf_r",
+  "upstream_path": "lib/msun/src/e_gammaf_r.c",
+  "bytes": 833,
+  "sha256": "a87b4f5ddf78513dbd9189d0b728c1e18a6cbed928d244155346e6a0ca799e86"
+}

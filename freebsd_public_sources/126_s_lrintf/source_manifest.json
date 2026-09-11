@@ -1,0 +1,8 @@
+{
+  "case_name": "126_s_lrintf",
+  "subpath": "freebsd_public_sources/126_s_lrintf",
+  "public_name": "lrintf",
+  "upstream_path": "lib/msun/src/s_lrintf.c",
+  "bytes": 110,
+  "sha256": "62bebda38aaf0623b3553bba89e456a8ccb115493e81e9f472a6cb657cc902fb"
+}

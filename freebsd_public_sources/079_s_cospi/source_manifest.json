@@ -1,0 +1,8 @@
+{
+  "case_name": "079_s_cospi",
+  "subpath": "freebsd_public_sources/079_s_cospi",
+  "public_name": "cospi",
+  "upstream_path": "lib/msun/src/s_cospi.c",
+  "bytes": 4821,
+  "sha256": "da831df728fb8e75e6b1222f5d31a33fca462588c56d4ab2585d8df033f6a835"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "143_s_remquol",
+  "subpath": "freebsd_public_sources/143_s_remquol",
+  "public_name": "remquol",
+  "upstream_path": "lib/msun/src/s_remquol.c",
+  "bytes": 4649,
+  "sha256": "f44958577a98c8e5d4191957117ec724e23b66b17b8f9479265c1e616a225ebb"
+}

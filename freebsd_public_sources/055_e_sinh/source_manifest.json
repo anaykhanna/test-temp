@@ -1,0 +1,8 @@
+{
+  "case_name": "055_e_sinh",
+  "subpath": "freebsd_public_sources/055_e_sinh",
+  "public_name": "sinh",
+  "upstream_path": "lib/msun/src/e_sinh.c",
+  "bytes": 2077,
+  "sha256": "d04785a0e93c5f44dca5334abdd795e2ae4513f88c6858b2df1d9bc6491945f2"
+}

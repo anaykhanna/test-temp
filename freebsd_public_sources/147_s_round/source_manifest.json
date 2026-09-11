@@ -1,0 +1,8 @@
+{
+  "case_name": "147_s_round",
+  "subpath": "freebsd_public_sources/147_s_round",
+  "public_name": "round",
+  "upstream_path": "lib/msun/src/s_round.c",
+  "bytes": 1874,
+  "sha256": "332de83618aa2cbeafeab4d6b9ab6dadcbee2cd689197f4debb73bd6473cd553"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "135_s_nearbyint",
+  "subpath": "freebsd_public_sources/135_s_nearbyint",
+  "public_name": "nearbyint",
+  "upstream_path": "lib/msun/src/s_nearbyint.c",
+  "bytes": 2349,
+  "sha256": "3bc2a78130589c1bcd64b9ee57162052820abed71adbf41e2f12d0fb671fc064"
+}

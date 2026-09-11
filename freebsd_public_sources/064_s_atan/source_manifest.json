@@ -1,0 +1,8 @@
+{
+  "case_name": "064_s_atan",
+  "subpath": "freebsd_public_sources/064_s_atan",
+  "public_name": "atan",
+  "upstream_path": "lib/msun/src/s_atan.c",
+  "bytes": 4252,
+  "sha256": "854e549fda782f0c41a7f40fdb401114e5e8fa6202d6695aa8f17456d5466ea4"
+}

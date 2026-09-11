@@ -1,0 +1,8 @@
+{
+  "case_name": "099_s_fmax",
+  "subpath": "freebsd_public_sources/099_s_fmax",
+  "public_name": "fmax",
+  "upstream_path": "lib/msun/src/s_fmax.c",
+  "bytes": 2170,
+  "sha256": "4ca3f52afdba133cb3a34cd1ac10bc272f511584d0c69f91c25fd4931eba0bb9"
+}

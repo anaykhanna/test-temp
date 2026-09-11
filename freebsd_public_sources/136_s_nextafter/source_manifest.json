@@ -1,0 +1,8 @@
+{
+  "case_name": "136_s_nextafter",
+  "subpath": "freebsd_public_sources/136_s_nextafter",
+  "public_name": "nextafter",
+  "upstream_path": "lib/msun/src/s_nextafter.c",
+  "bytes": 2113,
+  "sha256": "b8150774384639400d1e62d5c0493a0151be1950f48c1cc0620c6fde22ec65eb"
+}

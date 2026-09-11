@@ -1,0 +1,8 @@
+{
+  "case_name": "100_s_fmaxf",
+  "subpath": "freebsd_public_sources/100_s_fmaxf",
+  "public_name": "fmaxf",
+  "upstream_path": "lib/msun/src/s_fmaxf.c",
+  "bytes": 2037,
+  "sha256": "1283929a743e8e24c97360be708d50d291d2f768a8913825fad1b8dfd33615f5"
+}

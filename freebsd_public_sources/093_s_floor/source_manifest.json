@@ -1,0 +1,8 @@
+{
+  "case_name": "093_s_floor",
+  "subpath": "freebsd_public_sources/093_s_floor",
+  "public_name": "floor",
+  "upstream_path": "lib/msun/src/s_floor.c",
+  "bytes": 1807,
+  "sha256": "f207e2d9197408d7f36ffbce9dbee4593be3e402ebd6e45b009e3e780e5eface"
+}

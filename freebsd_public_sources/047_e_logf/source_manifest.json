@@ -1,0 +1,8 @@
+{
+  "case_name": "047_e_logf",
+  "subpath": "freebsd_public_sources/047_e_logf",
+  "public_name": "logf",
+  "upstream_path": "lib/msun/src/e_logf.c",
+  "bytes": 2448,
+  "sha256": "649a88cf6c6eef0df2ac53bfe288d35bfeda27f8ee9f6e6b45d77665a28b74c0"
+}

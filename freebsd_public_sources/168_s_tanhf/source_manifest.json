@@ -1,0 +1,8 @@
+{
+  "case_name": "168_s_tanhf",
+  "subpath": "freebsd_public_sources/168_s_tanhf",
+  "public_name": "tanhf",
+  "upstream_path": "lib/msun/src/s_tanhf.c",
+  "bytes": 1429,
+  "sha256": "e3f997418dabd11798aeeceee53f2f49d4f548b690e2a1f09b5e387d156707cd"
+}

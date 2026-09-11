@@ -1,0 +1,8 @@
+{
+  "case_name": "051_e_remainderf",
+  "subpath": "freebsd_public_sources/051_e_remainderf",
+  "public_name": "remainderf",
+  "upstream_path": "lib/msun/src/e_remainderf.c",
+  "bytes": 1439,
+  "sha256": "81ab4d488c9b2b31050a8beae6286d77f8738cfbdf1b1513c47aa18ce4f148ff"
+}

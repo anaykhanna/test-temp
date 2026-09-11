@@ -1,0 +1,8 @@
+{
+  "case_name": "038_e_lgamma_r",
+  "subpath": "freebsd_public_sources/038_e_lgamma_r",
+  "public_name": "lgamma_r",
+  "upstream_path": "lib/msun/src/e_lgamma_r.c",
+  "bytes": 11134,
+  "sha256": "6070f2ba7936f6876b60d308f4c496df89e1fa593895c5cdf7ae7a5ee1b21fed"
+}

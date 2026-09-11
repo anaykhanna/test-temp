@@ -1,0 +1,8 @@
+{
+  "case_name": "172_s_tanpif",
+  "subpath": "freebsd_public_sources/172_s_tanpif",
+  "public_name": "tanpif",
+  "upstream_path": "lib/msun/src/s_tanpif.c",
+  "bytes": 3373,
+  "sha256": "39b8334bc54819d1a2a3a096a9c9057fd508053558baa039622c9663ee4ae4a5"
+}

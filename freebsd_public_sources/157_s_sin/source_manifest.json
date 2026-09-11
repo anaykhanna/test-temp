@@ -1,0 +1,8 @@
+{
+  "case_name": "157_s_sin",
+  "subpath": "freebsd_public_sources/157_s_sin",
+  "public_name": "sin",
+  "upstream_path": "lib/msun/src/s_sin.c",
+  "bytes": 2268,
+  "sha256": "0b502fb2aae432963d130f7de86eaf4a1c7cdd0924ec61d5c62efce366287a44"
+}

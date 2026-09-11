@@ -1,0 +1,8 @@
+{
+  "case_name": "057_e_sinhl",
+  "subpath": "freebsd_public_sources/057_e_sinhl",
+  "public_name": "sinhl",
+  "upstream_path": "lib/msun/src/e_sinhl.c",
+  "bytes": 4302,
+  "sha256": "e26ae1a7f5e002783612ad5a993f336e5f01238479f2015cbfc23472932ee651"
+}

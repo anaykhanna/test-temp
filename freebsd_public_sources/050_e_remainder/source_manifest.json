@@ -1,0 +1,8 @@
+{
+  "case_name": "050_e_remainder",
+  "subpath": "freebsd_public_sources/050_e_remainder",
+  "public_name": "remainder",
+  "upstream_path": "lib/msun/src/e_remainder.c",
+  "bytes": 1796,
+  "sha256": "24ca791ce7daa8d22bae2835430df98403376f826a998316f241ac8796746d17"
+}

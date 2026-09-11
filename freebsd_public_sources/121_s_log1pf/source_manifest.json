@@ -1,0 +1,8 @@
+{
+  "case_name": "121_s_log1pf",
+  "subpath": "freebsd_public_sources/121_s_log1pf",
+  "public_name": "log1pf",
+  "upstream_path": "lib/msun/src/s_log1pf.c",
+  "bytes": 3280,
+  "sha256": "879c0961ce3ec72966e6b4f51124a9852bed656121a13f793e1aa006046a614e"
+}

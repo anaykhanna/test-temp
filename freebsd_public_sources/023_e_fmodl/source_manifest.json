@@ -1,0 +1,8 @@
+{
+  "case_name": "023_e_fmodl",
+  "subpath": "freebsd_public_sources/023_e_fmodl",
+  "public_name": "fmodl",
+  "upstream_path": "lib/msun/src/e_fmodl.c",
+  "bytes": 3962,
+  "sha256": "13968f2a38266496a46eebe33e39144b966762d6c6fcdb83c1cc6be368140157"
+}

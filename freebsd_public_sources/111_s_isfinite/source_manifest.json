@@ -1,0 +1,8 @@
+{
+  "case_name": "111_s_isfinite",
+  "subpath": "freebsd_public_sources/111_s_isfinite",
+  "public_name": "isfinite",
+  "upstream_path": "lib/msun/src/s_isfinite.c",
+  "bytes": 1797,
+  "sha256": "7f51c157e0e0759ecb758dc75b632650ee3f6e1a0780977baaa761544bc55808"
+}

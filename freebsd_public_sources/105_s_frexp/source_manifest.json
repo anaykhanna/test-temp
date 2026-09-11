@@ -1,0 +1,8 @@
+{
+  "case_name": "105_s_frexp",
+  "subpath": "freebsd_public_sources/105_s_frexp",
+  "public_name": "frexp",
+  "upstream_path": "lib/msun/src/s_frexp.c",
+  "bytes": 1346,
+  "sha256": "b071338eb27b6018879dc34fbfc6323046dc030fef975ca72a2b40be0b14455b"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "141_s_remquo",
+  "subpath": "freebsd_public_sources/141_s_remquo",
+  "public_name": "remquo",
+  "upstream_path": "lib/msun/src/s_remquo.c",
+  "bytes": 4057,
+  "sha256": "d86bfddacc3bdab763537719f4f4816d30df196b8a54b2f12dad852bcfb67823"
+}

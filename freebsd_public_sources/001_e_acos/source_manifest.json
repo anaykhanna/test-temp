@@ -1,0 +1,8 @@
+{
+  "case_name": "001_e_acos",
+  "subpath": "freebsd_public_sources/001_e_acos",
+  "public_name": "acos",
+  "upstream_path": "lib/msun/src/e_acos.c",
+  "bytes": 3501,
+  "sha256": "318126d6e514cbe22084634319295cce0fa33cc7df39e4536577184dd1878935"
+}

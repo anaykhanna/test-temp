@@ -1,0 +1,8 @@
+{
+  "case_name": "076_s_cos",
+  "subpath": "freebsd_public_sources/076_s_cos",
+  "public_name": "cos",
+  "upstream_path": "lib/msun/src/s_cos.c",
+  "bytes": 2284,
+  "sha256": "5462548008bc9f68b0aa7a7709166ab862ca784e1780f3608a8c0f0c7a04333e"
+}

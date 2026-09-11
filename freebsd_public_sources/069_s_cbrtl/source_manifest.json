@@ -1,0 +1,8 @@
+{
+  "case_name": "069_s_cbrtl",
+  "subpath": "freebsd_public_sources/069_s_cbrtl",
+  "public_name": "cbrtl",
+  "upstream_path": "lib/msun/src/s_cbrtl.c",
+  "bytes": 3510,
+  "sha256": "051eb27ba8961945ceb5bd24815c366f33790af06ac8dc484ce31d113c4421bb"
+}

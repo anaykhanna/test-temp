@@ -1,0 +1,8 @@
+{
+  "case_name": "167_s_tanh",
+  "subpath": "freebsd_public_sources/167_s_tanh",
+  "public_name": "tanh",
+  "upstream_path": "lib/msun/src/s_tanh.c",
+  "bytes": 2107,
+  "sha256": "a7cb536144fcff6e1dfe3b371c88104f8e242d9e6efe010f304289fb82db8eee"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "009_e_asinl",
+  "subpath": "freebsd_public_sources/009_e_asinl",
+  "public_name": "asinl",
+  "upstream_path": "lib/msun/src/e_asinl.c",
+  "bytes": 1920,
+  "sha256": "ed51466eb444ff4fd009f17e5c32bf9f6946eb8e6c8d5a87e63fa62eeeff5d5c"
+}

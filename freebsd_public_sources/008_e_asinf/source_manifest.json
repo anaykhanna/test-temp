@@ -1,0 +1,8 @@
+{
+  "case_name": "008_e_asinf",
+  "subpath": "freebsd_public_sources/008_e_asinf",
+  "public_name": "asinf",
+  "upstream_path": "lib/msun/src/e_asinf.c",
+  "bytes": 1888,
+  "sha256": "3ecac4c015dcaa38f59232b48e529052b35ba6738ff4d5b2bdf800023058fb90"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "140_s_nexttowardf",
+  "subpath": "freebsd_public_sources/140_s_nexttowardf",
+  "public_name": "nexttowardf",
+  "upstream_path": "lib/msun/src/s_nexttowardf.c",
+  "bytes": 1465,
+  "sha256": "be150a132ea23ad8b9c6286e4d24fde435672b0d2d1ece2dda039269e0c7b112"
+}

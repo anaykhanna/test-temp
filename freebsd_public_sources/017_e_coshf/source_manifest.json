@@ -1,0 +1,8 @@
+{
+  "case_name": "017_e_coshf",
+  "subpath": "freebsd_public_sources/017_e_coshf",
+  "public_name": "coshf",
+  "upstream_path": "lib/msun/src/e_coshf.c",
+  "bytes": 1462,
+  "sha256": "daa0d57c07607596c5a43a57f80c8f828dd719a53aa97de424368cbb2c6faf6b"
+}

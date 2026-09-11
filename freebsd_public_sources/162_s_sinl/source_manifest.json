@@ -1,0 +1,8 @@
+{
+  "case_name": "162_s_sinl",
+  "subpath": "freebsd_public_sources/162_s_sinl",
+  "public_name": "sinl",
+  "upstream_path": "lib/msun/src/s_sinl.c",
+  "bytes": 2587,
+  "sha256": "4523e9ccf1361e434fdd92299ce82a092bde7c81e9c1e7bafc2d36d927399476"
+}

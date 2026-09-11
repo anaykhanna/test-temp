@@ -1,0 +1,8 @@
+{
+  "case_name": "073_s_copysign",
+  "subpath": "freebsd_public_sources/073_s_copysign",
+  "public_name": "copysign",
+  "upstream_path": "lib/msun/src/s_copysign.c",
+  "bytes": 791,
+  "sha256": "6d47ea6f91868a67f3b41348acf9837292e4a4bbe675f2539dbc24ef9955afa5"
+}

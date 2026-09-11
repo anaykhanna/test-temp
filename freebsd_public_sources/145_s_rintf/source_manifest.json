@@ -1,0 +1,8 @@
+{
+  "case_name": "145_s_rintf",
+  "subpath": "freebsd_public_sources/145_s_rintf",
+  "public_name": "rintf",
+  "upstream_path": "lib/msun/src/s_rintf.c",
+  "bytes": 1248,
+  "sha256": "3e8b7e05f75eee94a0ff6d29adc11c9fb0416649fe15491c35dae0fe13e3533a"
+}

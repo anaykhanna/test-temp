@@ -1,0 +1,8 @@
+{
+  "case_name": "174_s_trunc",
+  "subpath": "freebsd_public_sources/174_s_trunc",
+  "public_name": "trunc",
+  "upstream_path": "lib/msun/src/s_trunc.c",
+  "bytes": 1555,
+  "sha256": "9cbc06689098cb27fa3e7ff17bd5abc92678154147a69bd5a4258133f8057901"
+}

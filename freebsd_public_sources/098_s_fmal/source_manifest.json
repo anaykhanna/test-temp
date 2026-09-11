@@ -1,0 +1,8 @@
+{
+  "case_name": "098_s_fmal",
+  "subpath": "freebsd_public_sources/098_s_fmal",
+  "public_name": "fmal",
+  "upstream_path": "lib/msun/src/s_fmal.c",
+  "bytes": 7783,
+  "sha256": "0ae3f2b6b5cb62321ec638e18629fd6732df670faadd3c0a897310a17ee0fb41"
+}

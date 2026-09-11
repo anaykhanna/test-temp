@@ -1,0 +1,8 @@
+{
+  "case_name": "109_s_ilogbf",
+  "subpath": "freebsd_public_sources/109_s_ilogbf",
+  "public_name": "ilogbf",
+  "upstream_path": "lib/msun/src/s_ilogbf.c",
+  "bytes": 966,
+  "sha256": "f143cdcd0ebcc1342a7f15213dcc6b408c076790f52011cf4335b745cd9d597c"
+}

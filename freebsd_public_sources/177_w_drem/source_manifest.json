@@ -1,0 +1,8 @@
+{
+  "case_name": "177_w_drem",
+  "subpath": "freebsd_public_sources/177_w_drem",
+  "public_name": "drem",
+  "upstream_path": "lib/msun/src/w_drem.c",
+  "bytes": 225,
+  "sha256": "517e62263ed9b80dbcd4839564ed9338907e704001871d49907fae5faa28db37"
+}

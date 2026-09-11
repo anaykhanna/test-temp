@@ -1,0 +1,8 @@
+{
+  "case_name": "058_e_sqrt",
+  "subpath": "freebsd_public_sources/058_e_sqrt",
+  "public_name": "sqrt",
+  "upstream_path": "lib/msun/src/e_sqrt.c",
+  "bytes": 14937,
+  "sha256": "998dc592a3d1a8691580e2fb724db64f179bc66a83849e275b9c15b024622dc8"
+}

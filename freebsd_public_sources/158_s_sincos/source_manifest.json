@@ -1,0 +1,8 @@
+{
+  "case_name": "158_s_sincos",
+  "subpath": "freebsd_public_sources/158_s_sincos",
+  "public_name": "sincos",
+  "upstream_path": "lib/msun/src/s_sincos.c",
+  "bytes": 1666,
+  "sha256": "97167d5383babc326650a1a24079a32fcdbb114697133773ef6d489c8a6b5639"
+}

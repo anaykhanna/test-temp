@@ -1,0 +1,8 @@
+{
+  "case_name": "020_e_expf",
+  "subpath": "freebsd_public_sources/020_e_expf",
+  "public_name": "expf",
+  "upstream_path": "lib/msun/src/e_expf.c",
+  "bytes": 2802,
+  "sha256": "1eded6ee19f669af97d394d88acfade266303c22c936f07057027e73e0b3cd99"
+}

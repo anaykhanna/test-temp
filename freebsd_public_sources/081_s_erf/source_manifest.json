@@ -1,0 +1,8 @@
+{
+  "case_name": "081_s_erf",
+  "subpath": "freebsd_public_sources/081_s_erf",
+  "public_name": "erf",
+  "upstream_path": "lib/msun/src/s_erf.c",
+  "bytes": 11483,
+  "sha256": "6776087389545b276f92c15684a824f24067ce70c4887069c588f44165e49a3a"
+}

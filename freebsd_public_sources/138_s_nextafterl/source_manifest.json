@@ -1,0 +1,8 @@
+{
+  "case_name": "138_s_nextafterl",
+  "subpath": "freebsd_public_sources/138_s_nextafterl",
+  "public_name": "nextafterl",
+  "upstream_path": "lib/msun/src/s_nextafterl.c",
+  "bytes": 2096,
+  "sha256": "1dcb7b14d258ed1f2ecb7db48aeb73e24b4951aee505d6464fa79378d2dcd160"
+}

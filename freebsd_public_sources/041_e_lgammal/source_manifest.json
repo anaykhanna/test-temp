@@ -1,0 +1,8 @@
+{
+  "case_name": "041_e_lgammal",
+  "subpath": "freebsd_public_sources/041_e_lgammal",
+  "public_name": "lgammal",
+  "upstream_path": "lib/msun/src/e_lgammal.c",
+  "bytes": 574,
+  "sha256": "581261c8699b8194e69fbabd4fb7c5622211666cc91a7af7cbf0ed3464288635"
+}

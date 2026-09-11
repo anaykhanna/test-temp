@@ -1,0 +1,8 @@
+{
+  "case_name": "030_e_hypotl",
+  "subpath": "freebsd_public_sources/030_e_hypotl",
+  "public_name": "hypotl",
+  "upstream_path": "lib/msun/src/e_hypotl.c",
+  "bytes": 3309,
+  "sha256": "910658d057249e990dd59bec3bb46212f946ddd8c1e71d85829ae3fca095fdeb"
+}

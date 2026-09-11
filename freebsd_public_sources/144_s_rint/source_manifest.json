@@ -1,0 +1,8 @@
+{
+  "case_name": "144_s_rint",
+  "subpath": "freebsd_public_sources/144_s_rint",
+  "public_name": "rint",
+  "upstream_path": "lib/msun/src/s_rint.c",
+  "bytes": 2430,
+  "sha256": "fc073a34525d6c8c67fcebc5743546bde0d4122ea9d42bc585268be76ceebc4b"
+}

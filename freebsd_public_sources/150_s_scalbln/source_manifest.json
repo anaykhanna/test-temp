@@ -1,0 +1,8 @@
+{
+  "case_name": "150_s_scalbln",
+  "subpath": "freebsd_public_sources/150_s_scalbln",
+  "public_name": "scalbln",
+  "upstream_path": "lib/msun/src/s_scalbln.c",
+  "bytes": 1865,
+  "sha256": "24a14bda65d9ba8267d225c05d60cae3ef17689e1e6916a222b2ba1899104777"
+}

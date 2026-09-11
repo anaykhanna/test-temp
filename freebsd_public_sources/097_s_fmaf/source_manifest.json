@@ -1,0 +1,8 @@
+{
+  "case_name": "097_s_fmaf",
+  "subpath": "freebsd_public_sources/097_s_fmaf",
+  "public_name": "fmaf",
+  "upstream_path": "lib/msun/src/s_fmaf.c",
+  "bytes": 2786,
+  "sha256": "5272dfd72df160fc95b7e55d0a1e496f21dafc17f589a27ea985bff9f24a7736"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "092_s_finitef",
+  "subpath": "freebsd_public_sources/092_s_finitef",
+  "public_name": "finitef",
+  "upstream_path": "lib/msun/src/s_finitef.c",
+  "bytes": 778,
+  "sha256": "1d279ef13335742ebebcbcfb26b1f0661291a2352e09d6b0747c64c7c61c9dc5"
+}

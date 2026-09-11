@@ -1,0 +1,8 @@
+{
+  "case_name": "059_e_sqrtf",
+  "subpath": "freebsd_public_sources/059_e_sqrtf",
+  "public_name": "sqrtf",
+  "upstream_path": "lib/msun/src/e_sqrtf.c",
+  "bytes": 2077,
+  "sha256": "6d4d83d32d64e897c54b952833cb3e0849f7f50c6f6b13cb3d4a12f1886cff01"
+}

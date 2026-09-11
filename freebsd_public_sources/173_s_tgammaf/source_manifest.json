@@ -1,0 +1,8 @@
+{
+  "case_name": "173_s_tgammaf",
+  "subpath": "freebsd_public_sources/173_s_tgammaf",
+  "public_name": "tgammaf",
+  "upstream_path": "lib/msun/src/s_tgammaf.c",
+  "bytes": 1775,
+  "sha256": "ddfc1aded7ecda1327c992d7c961f6c6f158702f1d1b8814dc5f4a7d7856d158"
+}

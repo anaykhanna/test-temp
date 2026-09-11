@@ -1,0 +1,8 @@
+{
+  "case_name": "086_s_expm1f",
+  "subpath": "freebsd_public_sources/086_s_expm1f",
+  "public_name": "expm1f",
+  "upstream_path": "lib/msun/src/s_expm1f.c",
+  "bytes": 3566,
+  "sha256": "1ced4a2a777a2d4b25d00207b7b5f30b3d4cc5e8a1b460b138e6b8993ba3768d"
+}

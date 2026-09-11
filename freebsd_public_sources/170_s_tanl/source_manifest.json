@@ -1,0 +1,8 @@
+{
+  "case_name": "170_s_tanl",
+  "subpath": "freebsd_public_sources/170_s_tanl",
+  "public_name": "tanl",
+  "upstream_path": "lib/msun/src/s_tanl.c",
+  "bytes": 2703,
+  "sha256": "380cfb3525f15b89383efc612b380af7aae971404fad4d41e58880424c41f220"
+}

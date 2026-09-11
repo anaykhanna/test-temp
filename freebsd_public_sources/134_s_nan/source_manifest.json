@@ -1,0 +1,8 @@
+{
+  "case_name": "134_s_nan",
+  "subpath": "freebsd_public_sources/134_s_nan",
+  "public_name": "nan",
+  "upstream_path": "lib/msun/src/s_nan.c",
+  "bytes": 3490,
+  "sha256": "ce9cee2801bf67d6da1b351c56688779307ec3d27c1ef6478bf14652864ceedc"
+}

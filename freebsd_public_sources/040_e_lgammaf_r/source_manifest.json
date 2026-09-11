@@ -1,0 +1,8 @@
+{
+  "case_name": "040_e_lgammaf_r",
+  "subpath": "freebsd_public_sources/040_e_lgammaf_r",
+  "public_name": "lgammaf_r",
+  "upstream_path": "lib/msun/src/e_lgammaf_r.c",
+  "bytes": 6053,
+  "sha256": "e4ac4771520fc147e2bb8d0634303cc255b059c7493dd4d55a23a433c19d5044"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "078_s_cosl",
+  "subpath": "freebsd_public_sources/078_s_cosl",
+  "public_name": "cosl",
+  "upstream_path": "lib/msun/src/s_cosl.c",
+  "bytes": 2867,
+  "sha256": "adc773d16e322f26de6741eac338c424683c1431459158d0f8b7b04f67f78813"
+}

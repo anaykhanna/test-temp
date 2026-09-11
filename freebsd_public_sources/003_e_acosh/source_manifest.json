@@ -1,0 +1,8 @@
+{
+  "case_name": "003_e_acosh",
+  "subpath": "freebsd_public_sources/003_e_acosh",
+  "public_name": "acosh",
+  "upstream_path": "lib/msun/src/e_acosh.c",
+  "bytes": 1648,
+  "sha256": "f4b616ad7ea11600b806a67b510f0ef1ea2ae09b4f2b4a3e3057fe89c36d6197"
+}

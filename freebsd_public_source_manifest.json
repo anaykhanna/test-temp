@@ -1,0 +1,1446 @@
+{
+  "format": "freebsd-r1-public-source-v1",
+  "freebsd_commit": "833d39bd2e38421a14ea489a956261a0fa993fbc",
+  "selection": "one source file per job; libmsun filename normalized to a declaration in its public math.h, plus wmemset.c",
+  "path_recovery_cases": [
+    "freebsd_source_files/006_gen-private",
+    "freebsd_source_files/013_sigsetops",
+    "freebsd_source_files/034_cxa_thread_atexit",
+    "freebsd_source_files/036_mergesort_b",
+    "freebsd_source_files/038_strtoumax"
+  ],
+  "sources": [
+    {
+      "case_name": "001_e_acos",
+      "subpath": "freebsd_public_sources/001_e_acos",
+      "public_name": "acos",
+      "upstream_path": "lib/msun/src/e_acos.c",
+      "bytes": 3501,
+      "sha256": "318126d6e514cbe22084634319295cce0fa33cc7df39e4536577184dd1878935"
+    },
+    {
+      "case_name": "002_e_acosf",
+      "subpath": "freebsd_public_sources/002_e_acosf",
+      "public_name": "acosf",
+      "upstream_path": "lib/msun/src/e_acosf.c",
+      "bytes": 2346,
+      "sha256": "2314efb42bf0476b75f05a55310abb7e292240b46e7a9ee48672a210a37b35d5"
+    },
+    {
+      "case_name": "003_e_acosh",
+      "subpath": "freebsd_public_sources/003_e_acosh",
+      "public_name": "acosh",
+      "upstream_path": "lib/msun/src/e_acosh.c",
+      "bytes": 1648,
+      "sha256": "f4b616ad7ea11600b806a67b510f0ef1ea2ae09b4f2b4a3e3057fe89c36d6197"
+    },
+    {
+      "case_name": "004_e_acoshf",
+      "subpath": "freebsd_public_sources/004_e_acoshf",
+      "public_name": "acoshf",
+      "upstream_path": "lib/msun/src/e_acoshf.c",
+      "bytes": 1251,
+      "sha256": "0a6369f344ce334b49d8299a973cab1422f3e3942feafab8c5b7337340f74f7d"
+    },
+    {
+      "case_name": "005_e_acoshl",
+      "subpath": "freebsd_public_sources/005_e_acoshl",
+      "public_name": "acoshl",
+      "upstream_path": "lib/msun/src/e_acoshl.c",
+      "bytes": 2283,
+      "sha256": "ac4ae11d26bfbb96de7f1f68d2563db3b2239c419c7a6168cf342fc1188652cf"
+    },
+    {
+      "case_name": "006_e_acosl",
+      "subpath": "freebsd_public_sources/006_e_acosl",
+      "public_name": "acosl",
+      "upstream_path": "lib/msun/src/e_acosl.c",
+      "bytes": 2246,
+      "sha256": "4092830f851b6906c4c65d18133942dee3bbdac6b404230a827d8a27473b5f68"
+    },
+    {
+      "case_name": "007_e_asin",
+      "subpath": "freebsd_public_sources/007_e_asin",
+      "public_name": "asin",
+      "upstream_path": "lib/msun/src/e_asin.c",
+      "bytes": 3686,
+      "sha256": "6808b5111a4c9e2f47aae17a23091bae8789e6a6e54663f987d73d987ca323cb"
+    },
+    {
+      "case_name": "008_e_asinf",
+      "subpath": "freebsd_public_sources/008_e_asinf",
+      "public_name": "asinf",
+      "upstream_path": "lib/msun/src/e_asinf.c",
+      "bytes": 1888,
+      "sha256": "3ecac4c015dcaa38f59232b48e529052b35ba6738ff4d5b2bdf800023058fb90"
+    },
+    {
+      "case_name": "009_e_asinl",
+      "subpath": "freebsd_public_sources/009_e_asinl",
+      "public_name": "asinl",
+      "upstream_path": "lib/msun/src/e_asinl.c",
+      "bytes": 1920,
+      "sha256": "ed51466eb444ff4fd009f17e5c32bf9f6946eb8e6c8d5a87e63fa62eeeff5d5c"
+    },
+    {
+      "case_name": "010_e_atan2",
+      "subpath": "freebsd_public_sources/010_e_atan2",
+      "public_name": "atan2",
+      "upstream_path": "lib/msun/src/e_atan2.c",
+      "bytes": 3884,
+      "sha256": "bc6d232556a1fdc8808b5e885abe2e228f0c179bd818acd815a8168eb75a3c8b"
+    },
+    {
+      "case_name": "011_e_atan2f",
+      "subpath": "freebsd_public_sources/011_e_atan2f",
+      "public_name": "atan2f",
+      "upstream_path": "lib/msun/src/e_atan2f.c",
+      "bytes": 2725,
+      "sha256": "62415cb3b20d25c9eac88ec24331d85a7fea07d7479f8d2c7359edd0549ad38f"
+    },
+    {
+      "case_name": "012_e_atan2l",
+      "subpath": "freebsd_public_sources/012_e_atan2l",
+      "public_name": "atan2l",
+      "upstream_path": "lib/msun/src/e_atan2l.c",
+      "bytes": 3574,
+      "sha256": "8231d8a592b3ee1bf618a945b9d2a252a9aeb55ca584638ec775a9d472a44b64"
+    },
+    {
+      "case_name": "013_e_atanh",
+      "subpath": "freebsd_public_sources/013_e_atanh",
+      "public_name": "atanh",
+      "upstream_path": "lib/msun/src/e_atanh.c",
+      "bytes": 1674,
+      "sha256": "0d396324f033ccbaa4c9b0ac55708df29aa10a01fcfd39a646972420818d4939"
+    },
+    {
+      "case_name": "014_e_atanhf",
+      "subpath": "freebsd_public_sources/014_e_atanhf",
+      "public_name": "atanhf",
+      "upstream_path": "lib/msun/src/e_atanhf.c",
+      "bytes": 1128,
+      "sha256": "176ed3e58f6894c6565001687e5dc1321f99398fda6c016cb2f8fd02c5c7b107"
+    },
+    {
+      "case_name": "015_e_atanhl",
+      "subpath": "freebsd_public_sources/015_e_atanhl",
+      "public_name": "atanhl",
+      "upstream_path": "lib/msun/src/e_atanhl.c",
+      "bytes": 1825,
+      "sha256": "19c56c306ef453b28b6eb9c35da1b8e10fc4cf80cfd177ce7f43ad63df2e4fe9"
+    },
+    {
+      "case_name": "016_e_cosh",
+      "subpath": "freebsd_public_sources/016_e_cosh",
+      "public_name": "cosh",
+      "upstream_path": "lib/msun/src/e_cosh.c",
+      "bytes": 2261,
+      "sha256": "58be45cf1582fa030288b2ab0bb0e87e1ad41b8a929964bbcfdc641dca5eafc8"
+    },
+    {
+      "case_name": "017_e_coshf",
+      "subpath": "freebsd_public_sources/017_e_coshf",
+      "public_name": "coshf",
+      "upstream_path": "lib/msun/src/e_coshf.c",
+      "bytes": 1462,
+      "sha256": "daa0d57c07607596c5a43a57f80c8f828dd719a53aa97de424368cbb2c6faf6b"
+    },
+    {
+      "case_name": "018_e_coshl",
+      "subpath": "freebsd_public_sources/018_e_coshl",
+      "public_name": "coshl",
+      "upstream_path": "lib/msun/src/e_coshl.c",
+      "bytes": 4175,
+      "sha256": "577b017e00d5d5bde42f6fabfdf3cfde78bc19dffb58d39d37670fcc1e0f1198"
+    },
+    {
+      "case_name": "019_e_exp",
+      "subpath": "freebsd_public_sources/019_e_exp",
+      "public_name": "exp",
+      "upstream_path": "lib/msun/src/e_exp.c",
+      "bytes": 5282,
+      "sha256": "066a8c681234da54e6a2b09312fd7b2009ced54bc69c6763f6ef43e9d16742e0"
+    },
+    {
+      "case_name": "020_e_expf",
+      "subpath": "freebsd_public_sources/020_e_expf",
+      "public_name": "expf",
+      "upstream_path": "lib/msun/src/e_expf.c",
+      "bytes": 2802,
+      "sha256": "1eded6ee19f669af97d394d88acfade266303c22c936f07057027e73e0b3cd99"
+    },
+    {
+      "case_name": "021_e_fmod",
+      "subpath": "freebsd_public_sources/021_e_fmod",
+      "public_name": "fmod",
+      "upstream_path": "lib/msun/src/e_fmod.c",
+      "bytes": 3485,
+      "sha256": "0b241e3daa4659c821d57c766cf1863b198e57ad3626fb7566eb027e991a4dae"
+    },
+    {
+      "case_name": "022_e_fmodf",
+      "subpath": "freebsd_public_sources/022_e_fmodf",
+      "public_name": "fmodf",
+      "upstream_path": "lib/msun/src/e_fmodf.c",
+      "bytes": 2691,
+      "sha256": "a86883a152878994a5faf95cddce06a4031ac851ff63113debdad38ce49e12ba"
+    },
+    {
+      "case_name": "023_e_fmodl",
+      "subpath": "freebsd_public_sources/023_e_fmodl",
+      "public_name": "fmodl",
+      "upstream_path": "lib/msun/src/e_fmodl.c",
+      "bytes": 3962,
+      "sha256": "13968f2a38266496a46eebe33e39144b966762d6c6fcdb83c1cc6be368140157"
+    },
+    {
+      "case_name": "024_e_gamma",
+      "subpath": "freebsd_public_sources/024_e_gamma",
+      "public_name": "gamma",
+      "upstream_path": "lib/msun/src/e_gamma.c",
+      "bytes": 668,
+      "sha256": "c902fba4051e43b2c63604b09c4b402aa76326c5baee8a5939f714906f9d26cc"
+    },
+    {
+      "case_name": "025_e_gamma_r",
+      "subpath": "freebsd_public_sources/025_e_gamma_r",
+      "public_name": "gamma_r",
+      "upstream_path": "lib/msun/src/e_gamma_r.c",
+      "bytes": 743,
+      "sha256": "8e70273ce0e957096b66e0058c65d7162517975cbc24ce6f0b972bcef179148c"
+    },
+    {
+      "case_name": "026_e_gammaf",
+      "subpath": "freebsd_public_sources/026_e_gammaf",
+      "public_name": "gammaf",
+      "upstream_path": "lib/msun/src/e_gammaf.c",
+      "bytes": 758,
+      "sha256": "ed5e87a148382a107797d2b4198599c4071abc4e9b9892ac439843b147362f65"
+    },
+    {
+      "case_name": "027_e_gammaf_r",
+      "subpath": "freebsd_public_sources/027_e_gammaf_r",
+      "public_name": "gammaf_r",
+      "upstream_path": "lib/msun/src/e_gammaf_r.c",
+      "bytes": 833,
+      "sha256": "a87b4f5ddf78513dbd9189d0b728c1e18a6cbed928d244155346e6a0ca799e86"
+    },
+    {
+      "case_name": "028_e_hypot",
+      "subpath": "freebsd_public_sources/028_e_hypot",
+      "public_name": "hypot",
+      "upstream_path": "lib/msun/src/e_hypot.c",
+      "bytes": 3359,
+      "sha256": "a0a55effda1ee9db95997337007e44fa8e0687b62ecb3f0b1f659ceb12741bae"
+    },
+    {
+      "case_name": "029_e_hypotf",
+      "subpath": "freebsd_public_sources/029_e_hypotf",
+      "public_name": "hypotf",
+      "upstream_path": "lib/msun/src/e_hypotf.c",
+      "bytes": 2200,
+      "sha256": "9058048262d02d16d310f118a370c0fdc4c75ea35aa9e82633b8ebcdc7bd970d"
+    },
+    {
+      "case_name": "030_e_hypotl",
+      "subpath": "freebsd_public_sources/030_e_hypotl",
+      "public_name": "hypotl",
+      "upstream_path": "lib/msun/src/e_hypotl.c",
+      "bytes": 3309,
+      "sha256": "910658d057249e990dd59bec3bb46212f946ddd8c1e71d85829ae3fca095fdeb"
+    },
+    {
+      "case_name": "031_e_j0",
+      "subpath": "freebsd_public_sources/031_e_j0",
+      "public_name": "j0",
+      "upstream_path": "lib/msun/src/e_j0.c",
+      "bytes": 15004,
+      "sha256": "fdd2ae90ad4c716b87358f6090e274d28bb68514477439c5b2fe4f0635cac1b7"
+    },
+    {
+      "case_name": "032_e_j0f",
+      "subpath": "freebsd_public_sources/032_e_j0f",
+      "public_name": "j0f",
+      "upstream_path": "lib/msun/src/e_j0f.c",
+      "bytes": 10802,
+      "sha256": "36550daa1978f7477f7a2e81aa968660816f15bb0dbf3ae646a9dc99f361dd57"
+    },
+    {
+      "case_name": "033_e_j1",
+      "subpath": "freebsd_public_sources/033_e_j1",
+      "public_name": "j1",
+      "upstream_path": "lib/msun/src/e_j1.c",
+      "bytes": 14736,
+      "sha256": "67308958b67d384ba482f349b9e1bf999fd0ca4e3f97b8768e59e983af312b31"
+    },
+    {
+      "case_name": "034_e_j1f",
+      "subpath": "freebsd_public_sources/034_e_j1f",
+      "public_name": "j1f",
+      "upstream_path": "lib/msun/src/e_j1f.c",
+      "bytes": 10470,
+      "sha256": "1f29f1159e24124267cf12453fc3f21ab098855a5dd612df4f0dde1e1d9e6412"
+    },
+    {
+      "case_name": "035_e_jn",
+      "subpath": "freebsd_public_sources/035_e_jn",
+      "public_name": "jn",
+      "upstream_path": "lib/msun/src/e_jn.c",
+      "bytes": 7342,
+      "sha256": "d29c4dc3f6f2e44df79f686042b77f931a4cb20316296349c747451017b35ee1"
+    },
+    {
+      "case_name": "036_e_jnf",
+      "subpath": "freebsd_public_sources/036_e_jnf",
+      "public_name": "jnf",
+      "upstream_path": "lib/msun/src/e_jnf.c",
+      "bytes": 4890,
+      "sha256": "306b19332436c2200da44b41b4914bc06a9d37cd9ad106040e8d5e67e26b387e"
+    },
+    {
+      "case_name": "037_e_lgamma",
+      "subpath": "freebsd_public_sources/037_e_lgamma",
+      "public_name": "lgamma",
+      "upstream_path": "lib/msun/src/e_lgamma.c",
+      "bytes": 768,
+      "sha256": "95c9c3950472b2b5ac18b19ea7d0489332a3da4119847bdc408a778ef5e2c396"
+    },
+    {
+      "case_name": "038_e_lgamma_r",
+      "subpath": "freebsd_public_sources/038_e_lgamma_r",
+      "public_name": "lgamma_r",
+      "upstream_path": "lib/msun/src/e_lgamma_r.c",
+      "bytes": 11134,
+      "sha256": "6070f2ba7936f6876b60d308f4c496df89e1fa593895c5cdf7ae7a5ee1b21fed"
+    },
+    {
+      "case_name": "039_e_lgammaf",
+      "subpath": "freebsd_public_sources/039_e_lgammaf",
+      "public_name": "lgammaf",
+      "upstream_path": "lib/msun/src/e_lgammaf.c",
+      "bytes": 764,
+      "sha256": "f260121dd472b84999e0288257f9b8c0e2952465aa4a0f6ca5dc6de33ab8b713"
+    },
+    {
+      "case_name": "040_e_lgammaf_r",
+      "subpath": "freebsd_public_sources/040_e_lgammaf_r",
+      "public_name": "lgammaf_r",
+      "upstream_path": "lib/msun/src/e_lgammaf_r.c",
+      "bytes": 6053,
+      "sha256": "e4ac4771520fc147e2bb8d0634303cc255b059c7493dd4d55a23a433c19d5044"
+    },
+    {
+      "case_name": "041_e_lgammal",
+      "subpath": "freebsd_public_sources/041_e_lgammal",
+      "public_name": "lgammal",
+      "upstream_path": "lib/msun/src/e_lgammal.c",
+      "bytes": 574,
+      "sha256": "581261c8699b8194e69fbabd4fb7c5622211666cc91a7af7cbf0ed3464288635"
+    },
+    {
+      "case_name": "042_e_log",
+      "subpath": "freebsd_public_sources/042_e_log",
+      "public_name": "log",
+      "upstream_path": "lib/msun/src/e_log.c",
+      "bytes": 4606,
+      "sha256": "e9548bb67359635633cc8744a1618a6f6d156163077395ec02270df3c2f47a8d"
+    },
+    {
+      "case_name": "043_e_log10",
+      "subpath": "freebsd_public_sources/043_e_log10",
+      "public_name": "log10",
+      "upstream_path": "lib/msun/src/e_log10.c",
+      "bytes": 2599,
+      "sha256": "8a0fca66748949c02a3906adbc6cc89a1780780e71c54f62afcc77db4db8e92f"
+    },
+    {
+      "case_name": "044_e_log10f",
+      "subpath": "freebsd_public_sources/044_e_log10f",
+      "public_name": "log10f",
+      "upstream_path": "lib/msun/src/e_log10f.c",
+      "bytes": 1986,
+      "sha256": "c9fbb9e6d42ca115413fa0d1233505b2646973a6520820d07383b208431d79d1"
+    },
+    {
+      "case_name": "045_e_log2",
+      "subpath": "freebsd_public_sources/045_e_log2",
+      "public_name": "log2",
+      "upstream_path": "lib/msun/src/e_log2.c",
+      "bytes": 3782,
+      "sha256": "485093c2763847879245c3c6c76035daf559552b67e0c488dbafdb803f1ce2db"
+    },
+    {
+      "case_name": "046_e_log2f",
+      "subpath": "freebsd_public_sources/046_e_log2f",
+      "public_name": "log2f",
+      "upstream_path": "lib/msun/src/e_log2f.c",
+      "bytes": 2444,
+      "sha256": "2f8d69105e0b38d755290a1bc4a2a1f0eb9968dd7533cb8ba944fd70f8f787fd"
+    },
+    {
+      "case_name": "047_e_logf",
+      "subpath": "freebsd_public_sources/047_e_logf",
+      "public_name": "logf",
+      "upstream_path": "lib/msun/src/e_logf.c",
+      "bytes": 2448,
+      "sha256": "649a88cf6c6eef0df2ac53bfe288d35bfeda27f8ee9f6e6b45d77665a28b74c0"
+    },
+    {
+      "case_name": "048_e_pow",
+      "subpath": "freebsd_public_sources/048_e_pow",
+      "public_name": "pow",
+      "upstream_path": "lib/msun/src/e_pow.c",
+      "bytes": 10324,
+      "sha256": "787a70a02b8816f67b9835b235d72bb98c1a19879970b0c317a1f0b0882cd5bc"
+    },
+    {
+      "case_name": "049_e_powf",
+      "subpath": "freebsd_public_sources/049_e_powf",
+      "public_name": "powf",
+      "upstream_path": "lib/msun/src/e_powf.c",
+      "bytes": 7702,
+      "sha256": "0412140cc29c91daeb2857120a1694e414d5d8a555ac608a2d1c6cdde91951c3"
+    },
+    {
+      "case_name": "050_e_remainder",
+      "subpath": "freebsd_public_sources/050_e_remainder",
+      "public_name": "remainder",
+      "upstream_path": "lib/msun/src/e_remainder.c",
+      "bytes": 1796,
+      "sha256": "24ca791ce7daa8d22bae2835430df98403376f826a998316f241ac8796746d17"
+    },
+    {
+      "case_name": "051_e_remainderf",
+      "subpath": "freebsd_public_sources/051_e_remainderf",
+      "public_name": "remainderf",
+      "upstream_path": "lib/msun/src/e_remainderf.c",
+      "bytes": 1439,
+      "sha256": "81ab4d488c9b2b31050a8beae6286d77f8738cfbdf1b1513c47aa18ce4f148ff"
+    },
+    {
+      "case_name": "052_e_remainderl",
+      "subpath": "freebsd_public_sources/052_e_remainderl",
+      "public_name": "remainderl",
+      "upstream_path": "lib/msun/src/e_remainderl.c",
+      "bytes": 1573,
+      "sha256": "16025b92d60d16161d34b8bfb0f32baade484e9db1cd6b238b7c2ba8063e19d0"
+    },
+    {
+      "case_name": "053_e_scalb",
+      "subpath": "freebsd_public_sources/053_e_scalb",
+      "public_name": "scalb",
+      "upstream_path": "lib/msun/src/e_scalb.c",
+      "bytes": 1058,
+      "sha256": "2c2b7280e1aba17529f53ced98b3bd2583d0f5ba1c64f0a69ca2be059541f1e9"
+    },
+    {
+      "case_name": "054_e_scalbf",
+      "subpath": "freebsd_public_sources/054_e_scalbf",
+      "public_name": "scalbf",
+      "upstream_path": "lib/msun/src/e_scalbf.c",
+      "bytes": 1058,
+      "sha256": "b91249ccadd8dced3e3c3244468cfca18b7c8841bebcf06f3c576cfbf291c8e3"
+    },
+    {
+      "case_name": "055_e_sinh",
+      "subpath": "freebsd_public_sources/055_e_sinh",
+      "public_name": "sinh",
+      "upstream_path": "lib/msun/src/e_sinh.c",
+      "bytes": 2077,
+      "sha256": "d04785a0e93c5f44dca5334abdd795e2ae4513f88c6858b2df1d9bc6491945f2"
+    },
+    {
+      "case_name": "056_e_sinhf",
+      "subpath": "freebsd_public_sources/056_e_sinhf",
+      "public_name": "sinhf",
+      "upstream_path": "lib/msun/src/e_sinhf.c",
+      "bytes": 1452,
+      "sha256": "0f13cb17aabfd5f9390be517bc946ed4e0b54f02df98f101c5333d202241fed1"
+    },
+    {
+      "case_name": "057_e_sinhl",
+      "subpath": "freebsd_public_sources/057_e_sinhl",
+      "public_name": "sinhl",
+      "upstream_path": "lib/msun/src/e_sinhl.c",
+      "bytes": 4302,
+      "sha256": "e26ae1a7f5e002783612ad5a993f336e5f01238479f2015cbfc23472932ee651"
+    },
+    {
+      "case_name": "058_e_sqrt",
+      "subpath": "freebsd_public_sources/058_e_sqrt",
+      "public_name": "sqrt",
+      "upstream_path": "lib/msun/src/e_sqrt.c",
+      "bytes": 14937,
+      "sha256": "998dc592a3d1a8691580e2fb724db64f179bc66a83849e275b9c15b024622dc8"
+    },
+    {
+      "case_name": "059_e_sqrtf",
+      "subpath": "freebsd_public_sources/059_e_sqrtf",
+      "public_name": "sqrtf",
+      "upstream_path": "lib/msun/src/e_sqrtf.c",
+      "bytes": 2077,
+      "sha256": "6d4d83d32d64e897c54b952833cb3e0849f7f50c6f6b13cb3d4a12f1886cff01"
+    },
+    {
+      "case_name": "060_e_sqrtl",
+      "subpath": "freebsd_public_sources/060_e_sqrtl",
+      "public_name": "sqrtl",
+      "upstream_path": "lib/msun/src/e_sqrtl.c",
+      "bytes": 4485,
+      "sha256": "1fb89139898a16e46e28acd3951ff4463fe2fd57b057ad28f4c8b200f0c06511"
+    },
+    {
+      "case_name": "061_s_asinh",
+      "subpath": "freebsd_public_sources/061_s_asinh",
+      "public_name": "asinh",
+      "upstream_path": "lib/msun/src/s_asinh.c",
+      "bytes": 1653,
+      "sha256": "5f301c5064a81709dd8dbf86b3dc01663deef75942c1c4bc40b5288ba71da0ef"
+    },
+    {
+      "case_name": "062_s_asinhf",
+      "subpath": "freebsd_public_sources/062_s_asinhf",
+      "public_name": "asinhf",
+      "upstream_path": "lib/msun/src/s_asinhf.c",
+      "bytes": 1310,
+      "sha256": "b78d9f45633451315ac5f19b97bd3f0f23ab10f7c23a04f328d213512e999996"
+    },
+    {
+      "case_name": "063_s_asinhl",
+      "subpath": "freebsd_public_sources/063_s_asinhl",
+      "public_name": "asinhl",
+      "upstream_path": "lib/msun/src/s_asinhl.c",
+      "bytes": 2505,
+      "sha256": "31ceb1b3576ecf9aa6343ad17dc83705f16b67a457cde68c185cc51586f414bc"
+    },
+    {
+      "case_name": "064_s_atan",
+      "subpath": "freebsd_public_sources/064_s_atan",
+      "public_name": "atan",
+      "upstream_path": "lib/msun/src/s_atan.c",
+      "bytes": 4252,
+      "sha256": "854e549fda782f0c41a7f40fdb401114e5e8fa6202d6695aa8f17456d5466ea4"
+    },
+    {
+      "case_name": "065_s_atanf",
+      "subpath": "freebsd_public_sources/065_s_atanf",
+      "public_name": "atanf",
+      "upstream_path": "lib/msun/src/s_atanf.c",
+      "bytes": 2522,
+      "sha256": "f23e415ea3cf9608298d30f78dee5b5b607d81053de2c96c1d61a11032b3fd69"
+    },
+    {
+      "case_name": "066_s_atanl",
+      "subpath": "freebsd_public_sources/066_s_atanl",
+      "public_name": "atanl",
+      "upstream_path": "lib/msun/src/s_atanl.c",
+      "bytes": 2412,
+      "sha256": "34df5b4acb7a0413d142dd9135699c99fde198ed09426c788a53668bca8deb8c"
+    },
+    {
+      "case_name": "067_s_cbrt",
+      "subpath": "freebsd_public_sources/067_s_cbrt",
+      "public_name": "cbrt",
+      "upstream_path": "lib/msun/src/s_cbrt.c",
+      "bytes": 4191,
+      "sha256": "d93fca033c6b9a080678f1d2b840d33ebfa4d55189c6c7d2373917e25d8200c1"
+    },
+    {
+      "case_name": "068_s_cbrtf",
+      "subpath": "freebsd_public_sources/068_s_cbrtf",
+      "public_name": "cbrtf",
+      "upstream_path": "lib/msun/src/s_cbrtf.c",
+      "bytes": 1921,
+      "sha256": "1a56a616a3ad015bdc43ac6b004eaf23d163040dacbf853dd13ea294f8c9eec3"
+    },
+    {
+      "case_name": "069_s_cbrtl",
+      "subpath": "freebsd_public_sources/069_s_cbrtl",
+      "public_name": "cbrtl",
+      "upstream_path": "lib/msun/src/s_cbrtl.c",
+      "bytes": 3510,
+      "sha256": "051eb27ba8961945ceb5bd24815c366f33790af06ac8dc484ce31d113c4421bb"
+    },
+    {
+      "case_name": "070_s_ceil",
+      "subpath": "freebsd_public_sources/070_s_ceil",
+      "public_name": "ceil",
+      "upstream_path": "lib/msun/src/s_ceil.c",
+      "bytes": 1795,
+      "sha256": "81c8ed5879b57acfdfbaaf5852826ccaa0d1c9e1a425d6d8423eaf518f3beb6c"
+    },
+    {
+      "case_name": "071_s_ceilf",
+      "subpath": "freebsd_public_sources/071_s_ceilf",
+      "public_name": "ceilf",
+      "upstream_path": "lib/msun/src/s_ceilf.c",
+      "bytes": 1271,
+      "sha256": "176d791560fd068f9603abe1da82e6026630f3145063b6ac7db9d86485c4874d"
+    },
+    {
+      "case_name": "072_s_ceill",
+      "subpath": "freebsd_public_sources/072_s_ceill",
+      "public_name": "ceill",
+      "upstream_path": "lib/msun/src/s_ceill.c",
+      "bytes": 2486,
+      "sha256": "c6e01d0034457a11ddfc4c0a5e083d15cda00f9ca855032ca03fbfd905a73695"
+    },
+    {
+      "case_name": "073_s_copysign",
+      "subpath": "freebsd_public_sources/073_s_copysign",
+      "public_name": "copysign",
+      "upstream_path": "lib/msun/src/s_copysign.c",
+      "bytes": 791,
+      "sha256": "6d47ea6f91868a67f3b41348acf9837292e4a4bbe675f2539dbc24ef9955afa5"
+    },
+    {
+      "case_name": "074_s_copysignf",
+      "subpath": "freebsd_public_sources/074_s_copysignf",
+      "public_name": "copysignf",
+      "upstream_path": "lib/msun/src/s_copysignf.c",
+      "bytes": 891,
+      "sha256": "75128d08a05956fceacb11180639150935e569f8d3f67bdae553977af5c9d685"
+    },
+    {
+      "case_name": "075_s_copysignl",
+      "subpath": "freebsd_public_sources/075_s_copysignl",
+      "public_name": "copysignl",
+      "upstream_path": "lib/msun/src/s_copysignl.c",
+      "bytes": 1629,
+      "sha256": "52f42df8bc731d109440c41dd935da4b50f93e5b323b6726b83e7402c1b96a62"
+    },
+    {
+      "case_name": "076_s_cos",
+      "subpath": "freebsd_public_sources/076_s_cos",
+      "public_name": "cos",
+      "upstream_path": "lib/msun/src/s_cos.c",
+      "bytes": 2284,
+      "sha256": "5462548008bc9f68b0aa7a7709166ab862ca784e1780f3608a8c0f0c7a04333e"
+    },
+    {
+      "case_name": "077_s_cosf",
+      "subpath": "freebsd_public_sources/077_s_cosf",
+      "public_name": "cosf",
+      "upstream_path": "lib/msun/src/s_cosf.c",
+      "bytes": 2285,
+      "sha256": "f5ccea096a056e453fbb64804da3d5253edca65ecaf7709fb79e8fbde9cade9b"
+    },
+    {
+      "case_name": "078_s_cosl",
+      "subpath": "freebsd_public_sources/078_s_cosl",
+      "public_name": "cosl",
+      "upstream_path": "lib/msun/src/s_cosl.c",
+      "bytes": 2867,
+      "sha256": "adc773d16e322f26de6741eac338c424683c1431459158d0f8b7b04f67f78813"
+    },
+    {
+      "case_name": "079_s_cospi",
+      "subpath": "freebsd_public_sources/079_s_cospi",
+      "public_name": "cospi",
+      "upstream_path": "lib/msun/src/s_cospi.c",
+      "bytes": 4821,
+      "sha256": "da831df728fb8e75e6b1222f5d31a33fca462588c56d4ab2585d8df033f6a835"
+    },
+    {
+      "case_name": "080_s_cospif",
+      "subpath": "freebsd_public_sources/080_s_cospif",
+      "public_name": "cospif",
+      "upstream_path": "lib/msun/src/s_cospif.c",
+      "bytes": 3288,
+      "sha256": "023d490a045fa2f7b968a6a2f05d8fef97e97ddaf462fe1c17fadfbf41e75d96"
+    },
+    {
+      "case_name": "081_s_erf",
+      "subpath": "freebsd_public_sources/081_s_erf",
+      "public_name": "erf",
+      "upstream_path": "lib/msun/src/s_erf.c",
+      "bytes": 11483,
+      "sha256": "6776087389545b276f92c15684a824f24067ce70c4887069c588f44165e49a3a"
+    },
+    {
+      "case_name": "082_s_erff",
+      "subpath": "freebsd_public_sources/082_s_erff",
+      "public_name": "erff",
+      "upstream_path": "lib/msun/src/s_erff.c",
+      "bytes": 5366,
+      "sha256": "d9729442b3323ecc3cf67a774cc2d672de49048907c080284f4172c8b551fe94"
+    },
+    {
+      "case_name": "083_s_exp2",
+      "subpath": "freebsd_public_sources/083_s_exp2",
+      "public_name": "exp2",
+      "upstream_path": "lib/msun/src/s_exp2.c",
+      "bytes": 14708,
+      "sha256": "e327499d03d0d2b082188fa9dbe9a4e3deebaf57bbe9ebd97ef25c71b8bfdb7e"
+    },
+    {
+      "case_name": "084_s_exp2f",
+      "subpath": "freebsd_public_sources/084_s_exp2f",
+      "public_name": "exp2f",
+      "upstream_path": "lib/msun/src/s_exp2f.c",
+      "bytes": 4323,
+      "sha256": "3b7891b0a19f1f918f50be4b413d2ca630138fa632b6b716d91478684109bd4d"
+    },
+    {
+      "case_name": "085_s_expm1",
+      "subpath": "freebsd_public_sources/085_s_expm1",
+      "public_name": "expm1",
+      "upstream_path": "lib/msun/src/s_expm1.c",
+      "bytes": 7522,
+      "sha256": "f398a49aa3f3041844303c2d48117aba60981f790f45786bfdd6841eb07d1f61"
+    },
+    {
+      "case_name": "086_s_expm1f",
+      "subpath": "freebsd_public_sources/086_s_expm1f",
+      "public_name": "expm1f",
+      "upstream_path": "lib/msun/src/s_expm1f.c",
+      "bytes": 3566,
+      "sha256": "1ced4a2a777a2d4b25d00207b7b5f30b3d4cc5e8a1b460b138e6b8993ba3768d"
+    },
+    {
+      "case_name": "087_s_fabs",
+      "subpath": "freebsd_public_sources/087_s_fabs",
+      "public_name": "fabs",
+      "upstream_path": "lib/msun/src/s_fabs.c",
+      "bytes": 657,
+      "sha256": "9ba511c32e5038d78fc28dda566447e5c716f52afc4ed2896ed08a5b1901cab8"
+    },
+    {
+      "case_name": "088_s_fabsf",
+      "subpath": "freebsd_public_sources/088_s_fabsf",
+      "public_name": "fabsf",
+      "upstream_path": "lib/msun/src/s_fabsf.c",
+      "bytes": 748,
+      "sha256": "e8251792a4381fa1a5619cb456d74194800850c12f1f3dd05ba2417dea194f3a"
+    },
+    {
+      "case_name": "089_s_fabsl",
+      "subpath": "freebsd_public_sources/089_s_fabsl",
+      "public_name": "fabsl",
+      "upstream_path": "lib/msun/src/s_fabsl.c",
+      "bytes": 1744,
+      "sha256": "066175f97caf2163d42415761898473390f20df8ec070d3071c3d410bc23f841"
+    },
+    {
+      "case_name": "090_s_fdim",
+      "subpath": "freebsd_public_sources/090_s_fdim",
+      "public_name": "fdim",
+      "upstream_path": "lib/msun/src/s_fdim.c",
+      "bytes": 1729,
+      "sha256": "8917941130e29923db96578d64d2f3c90a8fd3124b743fd066a6695e29f4d078"
+    },
+    {
+      "case_name": "091_s_finite",
+      "subpath": "freebsd_public_sources/091_s_finite",
+      "public_name": "finite",
+      "upstream_path": "lib/msun/src/s_finite.c",
+      "bytes": 679,
+      "sha256": "866574f579e0ee1d84fa913c5d9cc053cfac5d6e2a749e64dc8327c0ef391471"
+    },
+    {
+      "case_name": "092_s_finitef",
+      "subpath": "freebsd_public_sources/092_s_finitef",
+      "public_name": "finitef",
+      "upstream_path": "lib/msun/src/s_finitef.c",
+      "bytes": 778,
+      "sha256": "1d279ef13335742ebebcbcfb26b1f0661291a2352e09d6b0747c64c7c61c9dc5"
+    },
+    {
+      "case_name": "093_s_floor",
+      "subpath": "freebsd_public_sources/093_s_floor",
+      "public_name": "floor",
+      "upstream_path": "lib/msun/src/s_floor.c",
+      "bytes": 1807,
+      "sha256": "f207e2d9197408d7f36ffbce9dbee4593be3e402ebd6e45b009e3e780e5eface"
+    },
+    {
+      "case_name": "094_s_floorf",
+      "subpath": "freebsd_public_sources/094_s_floorf",
+      "public_name": "floorf",
+      "upstream_path": "lib/msun/src/s_floorf.c",
+      "bytes": 1456,
+      "sha256": "1f613546ee7e42599b186c64ac5c795631badeb49598692ccbb67f7031782f86"
+    },
+    {
+      "case_name": "095_s_floorl",
+      "subpath": "freebsd_public_sources/095_s_floorl",
+      "public_name": "floorl",
+      "upstream_path": "lib/msun/src/s_floorl.c",
+      "bytes": 2488,
+      "sha256": "971e9c5be242f86062a1eb246f15ac4403762bc6cb0773693996bc3a830654c2"
+    },
+    {
+      "case_name": "096_s_fma",
+      "subpath": "freebsd_public_sources/096_s_fma",
+      "public_name": "fma",
+      "upstream_path": "lib/msun/src/s_fma.c",
+      "bytes": 8499,
+      "sha256": "0d76a7635d641680c9aaacc112c95b8a8d5ac5290f5d58d2ecfc1f0b8dbbd8fa"
+    },
+    {
+      "case_name": "097_s_fmaf",
+      "subpath": "freebsd_public_sources/097_s_fmaf",
+      "public_name": "fmaf",
+      "upstream_path": "lib/msun/src/s_fmaf.c",
+      "bytes": 2786,
+      "sha256": "5272dfd72df160fc95b7e55d0a1e496f21dafc17f589a27ea985bff9f24a7736"
+    },
+    {
+      "case_name": "098_s_fmal",
+      "subpath": "freebsd_public_sources/098_s_fmal",
+      "public_name": "fmal",
+      "upstream_path": "lib/msun/src/s_fmal.c",
+      "bytes": 7783,
+      "sha256": "0ae3f2b6b5cb62321ec638e18629fd6732df670faadd3c0a897310a17ee0fb41"
+    },
+    {
+      "case_name": "099_s_fmax",
+      "subpath": "freebsd_public_sources/099_s_fmax",
+      "public_name": "fmax",
+      "upstream_path": "lib/msun/src/s_fmax.c",
+      "bytes": 2170,
+      "sha256": "4ca3f52afdba133cb3a34cd1ac10bc272f511584d0c69f91c25fd4931eba0bb9"
+    },
+    {
+      "case_name": "100_s_fmaxf",
+      "subpath": "freebsd_public_sources/100_s_fmaxf",
+      "public_name": "fmaxf",
+      "upstream_path": "lib/msun/src/s_fmaxf.c",
+      "bytes": 2037,
+      "sha256": "1283929a743e8e24c97360be708d50d291d2f768a8913825fad1b8dfd33615f5"
+    },
+    {
+      "case_name": "101_s_fmaxl",
+      "subpath": "freebsd_public_sources/101_s_fmaxl",
+      "public_name": "fmaxl",
+      "upstream_path": "lib/msun/src/s_fmaxl.c",
+      "bytes": 2031,
+      "sha256": "08f62f985c66ac1f0d175f6ca372126111bd2905cfd1566381b64d9e3e985cfe"
+    },
+    {
+      "case_name": "102_s_fmin",
+      "subpath": "freebsd_public_sources/102_s_fmin",
+      "public_name": "fmin",
+      "upstream_path": "lib/msun/src/s_fmin.c",
+      "bytes": 2170,
+      "sha256": "4e411b570060af7e02acff989dd8706f692497698cfdfa8fd81f591f9a7789fd"
+    },
+    {
+      "case_name": "103_s_fminf",
+      "subpath": "freebsd_public_sources/103_s_fminf",
+      "public_name": "fminf",
+      "upstream_path": "lib/msun/src/s_fminf.c",
+      "bytes": 2037,
+      "sha256": "d860006b3226494eaf99647dabb2731b8fc960c053ef2ce1988366b536e6a407"
+    },
+    {
+      "case_name": "104_s_fminl",
+      "subpath": "freebsd_public_sources/104_s_fminl",
+      "public_name": "fminl",
+      "upstream_path": "lib/msun/src/s_fminl.c",
+      "bytes": 2031,
+      "sha256": "7cb829ec17050731169de59ac6389dc4202fa0bb6a743f911086dc2a5fa5e4ff"
+    },
+    {
+      "case_name": "105_s_frexp",
+      "subpath": "freebsd_public_sources/105_s_frexp",
+      "public_name": "frexp",
+      "upstream_path": "lib/msun/src/s_frexp.c",
+      "bytes": 1346,
+      "sha256": "b071338eb27b6018879dc34fbfc6323046dc030fef975ca72a2b40be0b14455b"
+    },
+    {
+      "case_name": "106_s_frexpf",
+      "subpath": "freebsd_public_sources/106_s_frexpf",
+      "public_name": "frexpf",
+      "upstream_path": "lib/msun/src/s_frexpf.c",
+      "bytes": 1041,
+      "sha256": "803fe850172493607eaa030225f5074da6dbcf6b4bb2e9288589e1fe95847712"
+    },
+    {
+      "case_name": "107_s_frexpl",
+      "subpath": "freebsd_public_sources/107_s_frexpl",
+      "public_name": "frexpl",
+      "upstream_path": "lib/msun/src/s_frexpl.c",
+      "bytes": 2081,
+      "sha256": "f6de29a8e6b15fb1d0caff82677898125c9fbde4d9f468d66532101f07d450cd"
+    },
+    {
+      "case_name": "108_s_ilogb",
+      "subpath": "freebsd_public_sources/108_s_ilogb",
+      "public_name": "ilogb",
+      "upstream_path": "lib/msun/src/s_ilogb.c",
+      "bytes": 1162,
+      "sha256": "0473c1a0c45f271716c91794607aaf77dd51de0256d0e6e2fc7ffde4d45fec66"
+    },
+    {
+      "case_name": "109_s_ilogbf",
+      "subpath": "freebsd_public_sources/109_s_ilogbf",
+      "public_name": "ilogbf",
+      "upstream_path": "lib/msun/src/s_ilogbf.c",
+      "bytes": 966,
+      "sha256": "f143cdcd0ebcc1342a7f15213dcc6b408c076790f52011cf4335b745cd9d597c"
+    },
+    {
+      "case_name": "110_s_ilogbl",
+      "subpath": "freebsd_public_sources/110_s_ilogbl",
+      "public_name": "ilogbl",
+      "upstream_path": "lib/msun/src/s_ilogbl.c",
+      "bytes": 1237,
+      "sha256": "931575f04dd19b42818b4221d7cae281a3254cd7e47d00831c725410ebec8079"
+    },
+    {
+      "case_name": "111_s_isfinite",
+      "subpath": "freebsd_public_sources/111_s_isfinite",
+      "public_name": "isfinite",
+      "upstream_path": "lib/msun/src/s_isfinite.c",
+      "bytes": 1797,
+      "sha256": "7f51c157e0e0759ecb758dc75b632650ee3f6e1a0780977baaa761544bc55808"
+    },
+    {
+      "case_name": "112_s_isnan",
+      "subpath": "freebsd_public_sources/112_s_isnan",
+      "public_name": "isnan",
+      "upstream_path": "lib/msun/src/s_isnan.c",
+      "bytes": 2196,
+      "sha256": "49feb1de62a163cd719d5bef304d925ce16403ce0f13a0048da448434d838276"
+    },
+    {
+      "case_name": "113_s_isnormal",
+      "subpath": "freebsd_public_sources/113_s_isnormal",
+      "public_name": "isnormal",
+      "upstream_path": "lib/msun/src/s_isnormal.c",
+      "bytes": 1854,
+      "sha256": "33839e3065fb73dbadb5c7b84ec82d198b3cd0da8af7a72143fe7f462e47be44"
+    },
+    {
+      "case_name": "114_s_llrint",
+      "subpath": "freebsd_public_sources/114_s_llrint",
+      "public_name": "llrint",
+      "upstream_path": "lib/msun/src/s_llrint.c",
+      "bytes": 115,
+      "sha256": "e7281f0bb3062c89ce27e4b39665c8909778aa329985b731aaf9da4ceacd5245"
+    },
+    {
+      "case_name": "115_s_llrintf",
+      "subpath": "freebsd_public_sources/115_s_llrintf",
+      "public_name": "llrintf",
+      "upstream_path": "lib/msun/src/s_llrintf.c",
+      "bytes": 116,
+      "sha256": "ad9955b72ab12dd0b281cffdabfd95c5c113848775873120dbc3c40820a21c3e"
+    },
+    {
+      "case_name": "116_s_llrintl",
+      "subpath": "freebsd_public_sources/116_s_llrintl",
+      "public_name": "llrintl",
+      "upstream_path": "lib/msun/src/s_llrintl.c",
+      "bytes": 122,
+      "sha256": "d9050f679aad64bdd7faf0b78fa4c410ec3d2e72806ae21bf995674bc6b91b1a"
+    },
+    {
+      "case_name": "117_s_llround",
+      "subpath": "freebsd_public_sources/117_s_llround",
+      "public_name": "llround",
+      "upstream_path": "lib/msun/src/s_llround.c",
+      "bytes": 176,
+      "sha256": "237c937c41372517675998a7d032dff77c63ed95ad5016b408beb73f7c21fbd0"
+    },
+    {
+      "case_name": "118_s_llroundf",
+      "subpath": "freebsd_public_sources/118_s_llroundf",
+      "public_name": "llroundf",
+      "upstream_path": "lib/msun/src/s_llroundf.c",
+      "bytes": 177,
+      "sha256": "da099f9d69c295edd7519c0d533358a76333d890636b5d9806028632d460515e"
+    },
+    {
+      "case_name": "119_s_llroundl",
+      "subpath": "freebsd_public_sources/119_s_llroundl",
+      "public_name": "llroundl",
+      "upstream_path": "lib/msun/src/s_llroundl.c",
+      "bytes": 183,
+      "sha256": "e84b82d2032fa4095fdb711865acad5014e06cc1bf912a0ba0eeea29b6308367"
+    },
+    {
+      "case_name": "120_s_log1p",
+      "subpath": "freebsd_public_sources/120_s_log1p",
+      "public_name": "log1p",
+      "upstream_path": "lib/msun/src/s_log1p.c",
+      "bytes": 5866,
+      "sha256": "a5ac956a0a336762c625d6ab33f700e66f0ab50c2be7acaba73b0f54fe2b6319"
+    },
+    {
+      "case_name": "121_s_log1pf",
+      "subpath": "freebsd_public_sources/121_s_log1pf",
+      "public_name": "log1pf",
+      "upstream_path": "lib/msun/src/s_log1pf.c",
+      "bytes": 3280,
+      "sha256": "879c0961ce3ec72966e6b4f51124a9852bed656121a13f793e1aa006046a614e"
+    },
+    {
+      "case_name": "122_s_logb",
+      "subpath": "freebsd_public_sources/122_s_logb",
+      "public_name": "logb",
+      "upstream_path": "lib/msun/src/s_logb.c",
+      "bytes": 1154,
+      "sha256": "3c9a3dcea4a55244c21377272c3ea4d8133de4d6968f695c2ba3b330d713c41c"
+    },
+    {
+      "case_name": "123_s_logbf",
+      "subpath": "freebsd_public_sources/123_s_logbf",
+      "public_name": "logbf",
+      "upstream_path": "lib/msun/src/s_logbf.c",
+      "bytes": 1013,
+      "sha256": "5b17645204be3839505932d4c650106c69ec110d6a5c2450d3409e24aef3fd5f"
+    },
+    {
+      "case_name": "124_s_logbl",
+      "subpath": "freebsd_public_sources/124_s_logbl",
+      "public_name": "logbl",
+      "upstream_path": "lib/msun/src/s_logbl.c",
+      "bytes": 1276,
+      "sha256": "4a4af234ec26c0c785b1c35f2893b5b4f873eeaa7884e0dba815de77cb11de96"
+    },
+    {
+      "case_name": "125_s_lrint",
+      "subpath": "freebsd_public_sources/125_s_lrint",
+      "public_name": "lrint",
+      "upstream_path": "lib/msun/src/s_lrint.c",
+      "bytes": 2151,
+      "sha256": "15cb025339c99b8c144bb55eef4e48ebcf710bf172c4764f264587266ff9e14b"
+    },
+    {
+      "case_name": "126_s_lrintf",
+      "subpath": "freebsd_public_sources/126_s_lrintf",
+      "public_name": "lrintf",
+      "upstream_path": "lib/msun/src/s_lrintf.c",
+      "bytes": 110,
+      "sha256": "62bebda38aaf0623b3553bba89e456a8ccb115493e81e9f472a6cb657cc902fb"
+    },
+    {
+      "case_name": "127_s_lrintl",
+      "subpath": "freebsd_public_sources/127_s_lrintl",
+      "public_name": "lrintl",
+      "upstream_path": "lib/msun/src/s_lrintl.c",
+      "bytes": 116,
+      "sha256": "732912ad6841087dda8a0b43d20436ff70f44ac27ff4ff297cffb46838bfe3d3"
+    },
+    {
+      "case_name": "128_s_lround",
+      "subpath": "freebsd_public_sources/128_s_lround",
+      "public_name": "lround",
+      "upstream_path": "lib/msun/src/s_lround.c",
+      "bytes": 2604,
+      "sha256": "3820b5a707f71655e400ef7c6d291248fa949d7786b63c7a110ace386a34a22b"
+    },
+    {
+      "case_name": "129_s_lroundf",
+      "subpath": "freebsd_public_sources/129_s_lroundf",
+      "public_name": "lroundf",
+      "upstream_path": "lib/msun/src/s_lroundf.c",
+      "bytes": 169,
+      "sha256": "8583c0bbc84f75ac0602e2e371979c5bc19d09099728527026d852a6c3f4a8b6"
+    },
+    {
+      "case_name": "130_s_lroundl",
+      "subpath": "freebsd_public_sources/130_s_lroundl",
+      "public_name": "lroundl",
+      "upstream_path": "lib/msun/src/s_lroundl.c",
+      "bytes": 175,
+      "sha256": "ff2076de6c91ef4222d535a6e908a4a26ca31cbb9cc9bc744cf7d1774455dde6"
+    },
+    {
+      "case_name": "131_s_modf",
+      "subpath": "freebsd_public_sources/131_s_modf",
+      "public_name": "modf",
+      "upstream_path": "lib/msun/src/s_modf.c",
+      "bytes": 1948,
+      "sha256": "edfeb0f9068c7fe54d0960aca89fadd3bd5d5778c55772a791b3e8807e72c2a7"
+    },
+    {
+      "case_name": "132_s_modff",
+      "subpath": "freebsd_public_sources/132_s_modff",
+      "public_name": "modff",
+      "upstream_path": "lib/msun/src/s_modff.c",
+      "bytes": 1432,
+      "sha256": "4d2d656c1a0c4339c97647cc7127f815a92a5681238a45817d7ad71e69934b31"
+    },
+    {
+      "case_name": "133_s_modfl",
+      "subpath": "freebsd_public_sources/133_s_modfl",
+      "public_name": "modfl",
+      "upstream_path": "lib/msun/src/s_modfl.c",
+      "bytes": 3571,
+      "sha256": "d4299c8564f70590f7794882bb4d666b75e3707177359fee11824ad2a538e8f2"
+    },
+    {
+      "case_name": "134_s_nan",
+      "subpath": "freebsd_public_sources/134_s_nan",
+      "public_name": "nan",
+      "upstream_path": "lib/msun/src/s_nan.c",
+      "bytes": 3490,
+      "sha256": "ce9cee2801bf67d6da1b351c56688779307ec3d27c1ef6478bf14652864ceedc"
+    },
+    {
+      "case_name": "135_s_nearbyint",
+      "subpath": "freebsd_public_sources/135_s_nearbyint",
+      "public_name": "nearbyint",
+      "upstream_path": "lib/msun/src/s_nearbyint.c",
+      "bytes": 2349,
+      "sha256": "3bc2a78130589c1bcd64b9ee57162052820abed71adbf41e2f12d0fb671fc064"
+    },
+    {
+      "case_name": "136_s_nextafter",
+      "subpath": "freebsd_public_sources/136_s_nextafter",
+      "public_name": "nextafter",
+      "upstream_path": "lib/msun/src/s_nextafter.c",
+      "bytes": 2113,
+      "sha256": "b8150774384639400d1e62d5c0493a0151be1950f48c1cc0620c6fde22ec65eb"
+    },
+    {
+      "case_name": "137_s_nextafterf",
+      "subpath": "freebsd_public_sources/137_s_nextafterf",
+      "public_name": "nextafterf",
+      "upstream_path": "lib/msun/src/s_nextafterf.c",
+      "bytes": 1666,
+      "sha256": "936dee1eb1f9e6d453c8624b7b15f9d89913262a92785596c73cc0878e91595d"
+    },
+    {
+      "case_name": "138_s_nextafterl",
+      "subpath": "freebsd_public_sources/138_s_nextafterl",
+      "public_name": "nextafterl",
+      "upstream_path": "lib/msun/src/s_nextafterl.c",
+      "bytes": 2096,
+      "sha256": "1dcb7b14d258ed1f2ecb7db48aeb73e24b4951aee505d6464fa79378d2dcd160"
+    },
+    {
+      "case_name": "139_s_nexttoward",
+      "subpath": "freebsd_public_sources/139_s_nexttoward",
+      "public_name": "nexttoward",
+      "upstream_path": "lib/msun/src/s_nexttoward.c",
+      "bytes": 1818,
+      "sha256": "4c0a34bef2e01d6729ed353693a0894a15f5cc31870f68f8570b0b7b0192d845"
+    },
+    {
+      "case_name": "140_s_nexttowardf",
+      "subpath": "freebsd_public_sources/140_s_nexttowardf",
+      "public_name": "nexttowardf",
+      "upstream_path": "lib/msun/src/s_nexttowardf.c",
+      "bytes": 1465,
+      "sha256": "be150a132ea23ad8b9c6286e4d24fde435672b0d2d1ece2dda039269e0c7b112"
+    },
+    {
+      "case_name": "141_s_remquo",
+      "subpath": "freebsd_public_sources/141_s_remquo",
+      "public_name": "remquo",
+      "upstream_path": "lib/msun/src/s_remquo.c",
+      "bytes": 4057,
+      "sha256": "d86bfddacc3bdab763537719f4f4816d30df196b8a54b2f12dad852bcfb67823"
+    },
+    {
+      "case_name": "142_s_remquof",
+      "subpath": "freebsd_public_sources/142_s_remquof",
+      "public_name": "remquof",
+      "upstream_path": "lib/msun/src/s_remquof.c",
+      "bytes": 3169,
+      "sha256": "10dd9c5d44cf21ba95f4b90abda44c92bd5e0ee31354ddbd6edc15daa0398196"
+    },
+    {
+      "case_name": "143_s_remquol",
+      "subpath": "freebsd_public_sources/143_s_remquol",
+      "public_name": "remquol",
+      "upstream_path": "lib/msun/src/s_remquol.c",
+      "bytes": 4649,
+      "sha256": "f44958577a98c8e5d4191957117ec724e23b66b17b8f9479265c1e616a225ebb"
+    },
+    {
+      "case_name": "144_s_rint",
+      "subpath": "freebsd_public_sources/144_s_rint",
+      "public_name": "rint",
+      "upstream_path": "lib/msun/src/s_rint.c",
+      "bytes": 2430,
+      "sha256": "fc073a34525d6c8c67fcebc5743546bde0d4122ea9d42bc585268be76ceebc4b"
+    },
+    {
+      "case_name": "145_s_rintf",
+      "subpath": "freebsd_public_sources/145_s_rintf",
+      "public_name": "rintf",
+      "upstream_path": "lib/msun/src/s_rintf.c",
+      "bytes": 1248,
+      "sha256": "3e8b7e05f75eee94a0ff6d29adc11c9fb0416649fe15491c35dae0fe13e3533a"
+    },
+    {
+      "case_name": "146_s_rintl",
+      "subpath": "freebsd_public_sources/146_s_rintl",
+      "public_name": "rintl",
+      "upstream_path": "lib/msun/src/s_rintl.c",
+      "bytes": 2869,
+      "sha256": "a35a04b6ca2308919552e687522d49d1586abe9c3970997a92f818992d9e441d"
+    },
+    {
+      "case_name": "147_s_round",
+      "subpath": "freebsd_public_sources/147_s_round",
+      "public_name": "round",
+      "upstream_path": "lib/msun/src/s_round.c",
+      "bytes": 1874,
+      "sha256": "332de83618aa2cbeafeab4d6b9ab6dadcbee2cd689197f4debb73bd6473cd553"
+    },
+    {
+      "case_name": "148_s_roundf",
+      "subpath": "freebsd_public_sources/148_s_roundf",
+      "public_name": "roundf",
+      "upstream_path": "lib/msun/src/s_roundf.c",
+      "bytes": 1784,
+      "sha256": "85d59d45ef9b61fe96a18d2b23c390248cc5bb7f8bf781ecedba2153df04280c"
+    },
+    {
+      "case_name": "149_s_roundl",
+      "subpath": "freebsd_public_sources/149_s_roundl",
+      "public_name": "roundl",
+      "upstream_path": "lib/msun/src/s_roundl.c",
+      "bytes": 1895,
+      "sha256": "346c00202cdeff0f9dbb74cefaa84a362586c6b7a96241f15309f25618db2c58"
+    },
+    {
+      "case_name": "150_s_scalbln",
+      "subpath": "freebsd_public_sources/150_s_scalbln",
+      "public_name": "scalbln",
+      "upstream_path": "lib/msun/src/s_scalbln.c",
+      "bytes": 1865,
+      "sha256": "24a14bda65d9ba8267d225c05d60cae3ef17689e1e6916a222b2ba1899104777"
+    },
+    {
+      "case_name": "151_s_scalbn",
+      "subpath": "freebsd_public_sources/151_s_scalbn",
+      "public_name": "scalbn",
+      "upstream_path": "lib/msun/src/s_scalbn.c",
+      "bytes": 955,
+      "sha256": "39452e5b94097708873d8fe07c1d312d209674dac19491176b5ec2afd34dc797"
+    },
+    {
+      "case_name": "152_s_scalbnf",
+      "subpath": "freebsd_public_sources/152_s_scalbnf",
+      "public_name": "scalbnf",
+      "upstream_path": "lib/msun/src/s_scalbnf.c",
+      "bytes": 746,
+      "sha256": "94b405b54f8bf0fbddc6364cec70b4bd3baae527fa624f19be327c48840d85c9"
+    },
+    {
+      "case_name": "153_s_scalbnl",
+      "subpath": "freebsd_public_sources/153_s_scalbnl",
+      "public_name": "scalbnl",
+      "upstream_path": "lib/msun/src/s_scalbnl.c",
+      "bytes": 1093,
+      "sha256": "ec16991db9d578a5dacbc1729eac405135b73df2716d59ef31b46c85674c81d4"
+    },
+    {
+      "case_name": "154_s_signbit",
+      "subpath": "freebsd_public_sources/154_s_signbit",
+      "public_name": "signbit",
+      "upstream_path": "lib/msun/src/s_signbit.c",
+      "bytes": 1774,
+      "sha256": "02f068f67379947ae146b518377b30695e678a8305b59358d17b393349d57aeb"
+    },
+    {
+      "case_name": "155_s_significand",
+      "subpath": "freebsd_public_sources/155_s_significand",
+      "public_name": "significand",
+      "upstream_path": "lib/msun/src/s_significand.c",
+      "bytes": 696,
+      "sha256": "0b9306d4181b6d201146a54551bf7bcc784f5668dcecd3e22149ad8fc336bd11"
+    },
+    {
+      "case_name": "156_s_significandf",
+      "subpath": "freebsd_public_sources/156_s_significandf",
+      "public_name": "significandf",
+      "upstream_path": "lib/msun/src/s_significandf.c",
+      "bytes": 657,
+      "sha256": "ede5d2296210630c8705723380a405b7b85259b4047c4aff06b5cab9f02979a2"
+    },
+    {
+      "case_name": "157_s_sin",
+      "subpath": "freebsd_public_sources/157_s_sin",
+      "public_name": "sin",
+      "upstream_path": "lib/msun/src/s_sin.c",
+      "bytes": 2268,
+      "sha256": "0b502fb2aae432963d130f7de86eaf4a1c7cdd0924ec61d5c62efce366287a44"
+    },
+    {
+      "case_name": "158_s_sincos",
+      "subpath": "freebsd_public_sources/158_s_sincos",
+      "public_name": "sincos",
+      "upstream_path": "lib/msun/src/s_sincos.c",
+      "bytes": 1666,
+      "sha256": "97167d5383babc326650a1a24079a32fcdbb114697133773ef6d489c8a6b5639"
+    },
+    {
+      "case_name": "159_s_sincosf",
+      "subpath": "freebsd_public_sources/159_s_sincosf",
+      "public_name": "sincosf",
+      "upstream_path": "lib/msun/src/s_sincosf.c",
+      "bytes": 2709,
+      "sha256": "cbf4d8bb7f148ae96118fb16fc0b57a6e0a899dc06a485557d8b7b44e86aa4eb"
+    },
+    {
+      "case_name": "160_s_sincosl",
+      "subpath": "freebsd_public_sources/160_s_sincosl",
+      "public_name": "sincosl",
+      "upstream_path": "lib/msun/src/s_sincosl.c",
+      "bytes": 2768,
+      "sha256": "ef88a970949ac07442fb4214b92d81722b502e0557a2c0d12ba76447a463bc44"
+    },
+    {
+      "case_name": "161_s_sinf",
+      "subpath": "freebsd_public_sources/161_s_sinf",
+      "public_name": "sinf",
+      "upstream_path": "lib/msun/src/s_sinf.c",
+      "bytes": 2263,
+      "sha256": "8c5bd80e8147ad1c3f8677e0543201e89bd75cda11c7b8fce0acc0be1fd58895"
+    },
+    {
+      "case_name": "162_s_sinl",
+      "subpath": "freebsd_public_sources/162_s_sinl",
+      "public_name": "sinl",
+      "upstream_path": "lib/msun/src/s_sinl.c",
+      "bytes": 2587,
+      "sha256": "4523e9ccf1361e434fdd92299ce82a092bde7c81e9c1e7bafc2d36d927399476"
+    },
+    {
+      "case_name": "163_s_sinpi",
+      "subpath": "freebsd_public_sources/163_s_sinpi",
+      "public_name": "sinpi",
+      "upstream_path": "lib/msun/src/s_sinpi.c",
+      "bytes": 5302,
+      "sha256": "c932e61bc1c598e06cd0653cd5bfcef449cc49a075b9c50c2bedebce49c3607d"
+    },
+    {
+      "case_name": "164_s_sinpif",
+      "subpath": "freebsd_public_sources/164_s_sinpif",
+      "public_name": "sinpif",
+      "upstream_path": "lib/msun/src/s_sinpif.c",
+      "bytes": 3454,
+      "sha256": "92c4a360cc709dfc798566fe5d15902f5318155dc30478377da109b2841831a1"
+    },
+    {
+      "case_name": "165_s_tan",
+      "subpath": "freebsd_public_sources/165_s_tan",
+      "public_name": "tan",
+      "upstream_path": "lib/msun/src/s_tan.c",
+      "bytes": 2102,
+      "sha256": "3940544645790fa4532e924d817de6e278ef3f19b74780c0ec1d026e950e61c7"
+    },
+    {
+      "case_name": "166_s_tanf",
+      "subpath": "freebsd_public_sources/166_s_tanf",
+      "public_name": "tanf",
+      "upstream_path": "lib/msun/src/s_tanf.c",
+      "bytes": 2038,
+      "sha256": "11af94a8ad7976359566fc6a9c229af08f1e30f53ded89fc88f0165df0449166"
+    },
+    {
+      "case_name": "167_s_tanh",
+      "subpath": "freebsd_public_sources/167_s_tanh",
+      "public_name": "tanh",
+      "upstream_path": "lib/msun/src/s_tanh.c",
+      "bytes": 2107,
+      "sha256": "a7cb536144fcff6e1dfe3b371c88104f8e242d9e6efe010f304289fb82db8eee"
+    },
+    {
+      "case_name": "168_s_tanhf",
+      "subpath": "freebsd_public_sources/168_s_tanhf",
+      "public_name": "tanhf",
+      "upstream_path": "lib/msun/src/s_tanhf.c",
+      "bytes": 1429,
+      "sha256": "e3f997418dabd11798aeeceee53f2f49d4f548b690e2a1f09b5e387d156707cd"
+    },
+    {
+      "case_name": "169_s_tanhl",
+      "subpath": "freebsd_public_sources/169_s_tanhl",
+      "public_name": "tanhl",
+      "upstream_path": "lib/msun/src/s_tanhl.c",
+      "bytes": 5338,
+      "sha256": "9fcd9a9e291a72bcff865a96fc84496f12371cb8f032cba1c0acc9e8ab607c6c"
+    },
+    {
+      "case_name": "170_s_tanl",
+      "subpath": "freebsd_public_sources/170_s_tanl",
+      "public_name": "tanl",
+      "upstream_path": "lib/msun/src/s_tanl.c",
+      "bytes": 2703,
+      "sha256": "380cfb3525f15b89383efc612b380af7aae971404fad4d41e58880424c41f220"
+    },
+    {
+      "case_name": "171_s_tanpi",
+      "subpath": "freebsd_public_sources/171_s_tanpi",
+      "public_name": "tanpi",
+      "upstream_path": "lib/msun/src/s_tanpi.c",
+      "bytes": 5926,
+      "sha256": "1b35b8ab7067cc9a47256636a71f591a0e12943f9ae3223a52687d6fae2c9d6f"
+    },
+    {
+      "case_name": "172_s_tanpif",
+      "subpath": "freebsd_public_sources/172_s_tanpif",
+      "public_name": "tanpif",
+      "upstream_path": "lib/msun/src/s_tanpif.c",
+      "bytes": 3373,
+      "sha256": "39b8334bc54819d1a2a3a096a9c9057fd508053558baa039622c9663ee4ae4a5"
+    },
+    {
+      "case_name": "173_s_tgammaf",
+      "subpath": "freebsd_public_sources/173_s_tgammaf",
+      "public_name": "tgammaf",
+      "upstream_path": "lib/msun/src/s_tgammaf.c",
+      "bytes": 1775,
+      "sha256": "ddfc1aded7ecda1327c992d7c961f6c6f158702f1d1b8814dc5f4a7d7856d158"
+    },
+    {
+      "case_name": "174_s_trunc",
+      "subpath": "freebsd_public_sources/174_s_trunc",
+      "public_name": "trunc",
+      "upstream_path": "lib/msun/src/s_trunc.c",
+      "bytes": 1555,
+      "sha256": "9cbc06689098cb27fa3e7ff17bd5abc92678154147a69bd5a4258133f8057901"
+    },
+    {
+      "case_name": "175_s_truncf",
+      "subpath": "freebsd_public_sources/175_s_truncf",
+      "public_name": "truncf",
+      "upstream_path": "lib/msun/src/s_truncf.c",
+      "bytes": 1239,
+      "sha256": "2ac38eb6ab726f1d2adcf680e486b7e02ba2999bf5c7deac1022cf92cd04bcd1"
+    },
+    {
+      "case_name": "176_s_truncl",
+      "subpath": "freebsd_public_sources/176_s_truncl",
+      "public_name": "truncl",
+      "upstream_path": "lib/msun/src/s_truncl.c",
+      "bytes": 1664,
+      "sha256": "e38d20a331adba5570dcb7b2ba05b4180cdc47f438001d5fd10d6ec995868e46"
+    },
+    {
+      "case_name": "177_w_drem",
+      "subpath": "freebsd_public_sources/177_w_drem",
+      "public_name": "drem",
+      "upstream_path": "lib/msun/src/w_drem.c",
+      "bytes": 225,
+      "sha256": "517e62263ed9b80dbcd4839564ed9338907e704001871d49907fae5faa28db37"
+    },
+    {
+      "case_name": "178_w_dremf",
+      "subpath": "freebsd_public_sources/178_w_dremf",
+      "public_name": "dremf",
+      "upstream_path": "lib/msun/src/w_dremf.c",
+      "bytes": 253,
+      "sha256": "641c866d82f2e643d928afad512818ef1f3b405d16ec5db90f6a1a6707169283"
+    },
+    {
+      "case_name": "179_wmemset",
+      "subpath": "freebsd_public_sources/179_wmemset",
+      "public_name": "wmemset",
+      "upstream_path": "lib/libc/string/wmemset.c",
+      "bytes": 1876,
+      "sha256": "cc630d136d7c0739e92527b99b438a42115c3aca273bd8ad529aa0eaa18559ad"
+    }
+  ]
+}

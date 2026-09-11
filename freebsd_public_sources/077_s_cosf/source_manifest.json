@@ -1,0 +1,8 @@
+{
+  "case_name": "077_s_cosf",
+  "subpath": "freebsd_public_sources/077_s_cosf",
+  "public_name": "cosf",
+  "upstream_path": "lib/msun/src/s_cosf.c",
+  "bytes": 2285,
+  "sha256": "f5ccea096a056e453fbb64804da3d5253edca65ecaf7709fb79e8fbde9cade9b"
+}

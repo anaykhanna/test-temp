@@ -1,0 +1,8 @@
+{
+  "case_name": "106_s_frexpf",
+  "subpath": "freebsd_public_sources/106_s_frexpf",
+  "public_name": "frexpf",
+  "upstream_path": "lib/msun/src/s_frexpf.c",
+  "bytes": 1041,
+  "sha256": "803fe850172493607eaa030225f5074da6dbcf6b4bb2e9288589e1fe95847712"
+}

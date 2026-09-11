@@ -1,0 +1,8 @@
+{
+  "case_name": "178_w_dremf",
+  "subpath": "freebsd_public_sources/178_w_dremf",
+  "public_name": "dremf",
+  "upstream_path": "lib/msun/src/w_dremf.c",
+  "bytes": 253,
+  "sha256": "641c866d82f2e643d928afad512818ef1f3b405d16ec5db90f6a1a6707169283"
+}

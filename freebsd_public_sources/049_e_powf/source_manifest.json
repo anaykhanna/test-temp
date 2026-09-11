@@ -1,0 +1,8 @@
+{
+  "case_name": "049_e_powf",
+  "subpath": "freebsd_public_sources/049_e_powf",
+  "public_name": "powf",
+  "upstream_path": "lib/msun/src/e_powf.c",
+  "bytes": 7702,
+  "sha256": "0412140cc29c91daeb2857120a1694e414d5d8a555ac608a2d1c6cdde91951c3"
+}

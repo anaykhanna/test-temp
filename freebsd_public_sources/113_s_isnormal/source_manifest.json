@@ -1,0 +1,8 @@
+{
+  "case_name": "113_s_isnormal",
+  "subpath": "freebsd_public_sources/113_s_isnormal",
+  "public_name": "isnormal",
+  "upstream_path": "lib/msun/src/s_isnormal.c",
+  "bytes": 1854,
+  "sha256": "33839e3065fb73dbadb5c7b84ec82d198b3cd0da8af7a72143fe7f462e47be44"
+}

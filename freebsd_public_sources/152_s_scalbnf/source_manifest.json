@@ -1,0 +1,8 @@
+{
+  "case_name": "152_s_scalbnf",
+  "subpath": "freebsd_public_sources/152_s_scalbnf",
+  "public_name": "scalbnf",
+  "upstream_path": "lib/msun/src/s_scalbnf.c",
+  "bytes": 746,
+  "sha256": "94b405b54f8bf0fbddc6364cec70b4bd3baae527fa624f19be327c48840d85c9"
+}

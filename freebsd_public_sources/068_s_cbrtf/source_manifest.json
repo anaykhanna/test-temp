@@ -1,0 +1,8 @@
+{
+  "case_name": "068_s_cbrtf",
+  "subpath": "freebsd_public_sources/068_s_cbrtf",
+  "public_name": "cbrtf",
+  "upstream_path": "lib/msun/src/s_cbrtf.c",
+  "bytes": 1921,
+  "sha256": "1a56a616a3ad015bdc43ac6b004eaf23d163040dacbf853dd13ea294f8c9eec3"
+}

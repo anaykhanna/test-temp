@@ -1,0 +1,8 @@
+{
+  "case_name": "088_s_fabsf",
+  "subpath": "freebsd_public_sources/088_s_fabsf",
+  "public_name": "fabsf",
+  "upstream_path": "lib/msun/src/s_fabsf.c",
+  "bytes": 748,
+  "sha256": "e8251792a4381fa1a5619cb456d74194800850c12f1f3dd05ba2417dea194f3a"
+}

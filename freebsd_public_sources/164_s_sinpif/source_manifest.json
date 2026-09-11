@@ -1,0 +1,8 @@
+{
+  "case_name": "164_s_sinpif",
+  "subpath": "freebsd_public_sources/164_s_sinpif",
+  "public_name": "sinpif",
+  "upstream_path": "lib/msun/src/s_sinpif.c",
+  "bytes": 3454,
+  "sha256": "92c4a360cc709dfc798566fe5d15902f5318155dc30478377da109b2841831a1"
+}

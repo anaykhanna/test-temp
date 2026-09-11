@@ -1,0 +1,8 @@
+{
+  "case_name": "045_e_log2",
+  "subpath": "freebsd_public_sources/045_e_log2",
+  "public_name": "log2",
+  "upstream_path": "lib/msun/src/e_log2.c",
+  "bytes": 3782,
+  "sha256": "485093c2763847879245c3c6c76035daf559552b67e0c488dbafdb803f1ce2db"
+}

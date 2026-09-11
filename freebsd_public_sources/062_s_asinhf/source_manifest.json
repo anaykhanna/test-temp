@@ -1,0 +1,8 @@
+{
+  "case_name": "062_s_asinhf",
+  "subpath": "freebsd_public_sources/062_s_asinhf",
+  "public_name": "asinhf",
+  "upstream_path": "lib/msun/src/s_asinhf.c",
+  "bytes": 1310,
+  "sha256": "b78d9f45633451315ac5f19b97bd3f0f23ab10f7c23a04f328d213512e999996"
+}

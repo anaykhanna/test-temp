@@ -1,0 +1,8 @@
+{
+  "case_name": "128_s_lround",
+  "subpath": "freebsd_public_sources/128_s_lround",
+  "public_name": "lround",
+  "upstream_path": "lib/msun/src/s_lround.c",
+  "bytes": 2604,
+  "sha256": "3820b5a707f71655e400ef7c6d291248fa949d7786b63c7a110ace386a34a22b"
+}

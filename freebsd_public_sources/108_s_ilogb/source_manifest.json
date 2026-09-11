@@ -1,0 +1,8 @@
+{
+  "case_name": "108_s_ilogb",
+  "subpath": "freebsd_public_sources/108_s_ilogb",
+  "public_name": "ilogb",
+  "upstream_path": "lib/msun/src/s_ilogb.c",
+  "bytes": 1162,
+  "sha256": "0473c1a0c45f271716c91794607aaf77dd51de0256d0e6e2fc7ffde4d45fec66"
+}

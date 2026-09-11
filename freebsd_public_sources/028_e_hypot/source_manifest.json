@@ -1,0 +1,8 @@
+{
+  "case_name": "028_e_hypot",
+  "subpath": "freebsd_public_sources/028_e_hypot",
+  "public_name": "hypot",
+  "upstream_path": "lib/msun/src/e_hypot.c",
+  "bytes": 3359,
+  "sha256": "a0a55effda1ee9db95997337007e44fa8e0687b62ecb3f0b1f659ceb12741bae"
+}

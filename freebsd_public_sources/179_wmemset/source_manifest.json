@@ -1,0 +1,8 @@
+{
+  "case_name": "179_wmemset",
+  "subpath": "freebsd_public_sources/179_wmemset",
+  "public_name": "wmemset",
+  "upstream_path": "lib/libc/string/wmemset.c",
+  "bytes": 1876,
+  "sha256": "cc630d136d7c0739e92527b99b438a42115c3aca273bd8ad529aa0eaa18559ad"
+}

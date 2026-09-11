@@ -1,0 +1,8 @@
+{
+  "case_name": "032_e_j0f",
+  "subpath": "freebsd_public_sources/032_e_j0f",
+  "public_name": "j0f",
+  "upstream_path": "lib/msun/src/e_j0f.c",
+  "bytes": 10802,
+  "sha256": "36550daa1978f7477f7a2e81aa968660816f15bb0dbf3ae646a9dc99f361dd57"
+}

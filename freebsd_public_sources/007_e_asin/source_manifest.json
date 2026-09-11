@@ -1,0 +1,8 @@
+{
+  "case_name": "007_e_asin",
+  "subpath": "freebsd_public_sources/007_e_asin",
+  "public_name": "asin",
+  "upstream_path": "lib/msun/src/e_asin.c",
+  "bytes": 3686,
+  "sha256": "6808b5111a4c9e2f47aae17a23091bae8789e6a6e54663f987d73d987ca323cb"
+}

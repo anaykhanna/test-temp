@@ -1,0 +1,8 @@
+{
+  "case_name": "156_s_significandf",
+  "subpath": "freebsd_public_sources/156_s_significandf",
+  "public_name": "significandf",
+  "upstream_path": "lib/msun/src/s_significandf.c",
+  "bytes": 657,
+  "sha256": "ede5d2296210630c8705723380a405b7b85259b4047c4aff06b5cab9f02979a2"
+}

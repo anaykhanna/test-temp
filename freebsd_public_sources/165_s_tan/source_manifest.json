@@ -1,0 +1,8 @@
+{
+  "case_name": "165_s_tan",
+  "subpath": "freebsd_public_sources/165_s_tan",
+  "public_name": "tan",
+  "upstream_path": "lib/msun/src/s_tan.c",
+  "bytes": 2102,
+  "sha256": "3940544645790fa4532e924d817de6e278ef3f19b74780c0ec1d026e950e61c7"
+}

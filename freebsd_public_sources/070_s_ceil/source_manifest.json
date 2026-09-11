@@ -1,0 +1,8 @@
+{
+  "case_name": "070_s_ceil",
+  "subpath": "freebsd_public_sources/070_s_ceil",
+  "public_name": "ceil",
+  "upstream_path": "lib/msun/src/s_ceil.c",
+  "bytes": 1795,
+  "sha256": "81c8ed5879b57acfdfbaaf5852826ccaa0d1c9e1a425d6d8423eaf518f3beb6c"
+}

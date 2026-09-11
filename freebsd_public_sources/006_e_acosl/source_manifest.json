@@ -1,0 +1,8 @@
+{
+  "case_name": "006_e_acosl",
+  "subpath": "freebsd_public_sources/006_e_acosl",
+  "public_name": "acosl",
+  "upstream_path": "lib/msun/src/e_acosl.c",
+  "bytes": 2246,
+  "sha256": "4092830f851b6906c4c65d18133942dee3bbdac6b404230a827d8a27473b5f68"
+}

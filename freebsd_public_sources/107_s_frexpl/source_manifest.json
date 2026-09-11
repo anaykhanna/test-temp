@@ -1,0 +1,8 @@
+{
+  "case_name": "107_s_frexpl",
+  "subpath": "freebsd_public_sources/107_s_frexpl",
+  "public_name": "frexpl",
+  "upstream_path": "lib/msun/src/s_frexpl.c",
+  "bytes": 2081,
+  "sha256": "f6de29a8e6b15fb1d0caff82677898125c9fbde4d9f468d66532101f07d450cd"
+}

@@ -1,0 +1,8 @@
+{
+  "case_name": "129_s_lroundf",
+  "subpath": "freebsd_public_sources/129_s_lroundf",
+  "public_name": "lroundf",
+  "upstream_path": "lib/msun/src/s_lroundf.c",
+  "bytes": 169,
+  "sha256": "8583c0bbc84f75ac0602e2e371979c5bc19d09099728527026d852a6c3f4a8b6"
+}

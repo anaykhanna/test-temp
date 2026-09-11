@@ -1,0 +1,8 @@
+{
+  "case_name": "036_e_jnf",
+  "subpath": "freebsd_public_sources/036_e_jnf",
+  "public_name": "jnf",
+  "upstream_path": "lib/msun/src/e_jnf.c",
+  "bytes": 4890,
+  "sha256": "306b19332436c2200da44b41b4914bc06a9d37cd9ad106040e8d5e67e26b387e"
+}

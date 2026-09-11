@@ -1,0 +1,8 @@
+{
+  "case_name": "171_s_tanpi",
+  "subpath": "freebsd_public_sources/171_s_tanpi",
+  "public_name": "tanpi",
+  "upstream_path": "lib/msun/src/s_tanpi.c",
+  "bytes": 5926,
+  "sha256": "1b35b8ab7067cc9a47256636a71f591a0e12943f9ae3223a52687d6fae2c9d6f"
+}

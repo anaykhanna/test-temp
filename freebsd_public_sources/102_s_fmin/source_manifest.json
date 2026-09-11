@@ -1,0 +1,8 @@
+{
+  "case_name": "102_s_fmin",
+  "subpath": "freebsd_public_sources/102_s_fmin",
+  "public_name": "fmin",
+  "upstream_path": "lib/msun/src/s_fmin.c",
+  "bytes": 2170,
+  "sha256": "4e411b570060af7e02acff989dd8706f692497698cfdfa8fd81f591f9a7789fd"
+}

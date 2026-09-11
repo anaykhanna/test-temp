@@ -1,0 +1,8 @@
+{
+  "case_name": "091_s_finite",
+  "subpath": "freebsd_public_sources/091_s_finite",
+  "public_name": "finite",
+  "upstream_path": "lib/msun/src/s_finite.c",
+  "bytes": 679,
+  "sha256": "866574f579e0ee1d84fa913c5d9cc053cfac5d6e2a749e64dc8327c0ef391471"
+}

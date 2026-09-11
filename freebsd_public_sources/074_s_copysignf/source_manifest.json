@@ -1,0 +1,8 @@
+{
+  "case_name": "074_s_copysignf",
+  "subpath": "freebsd_public_sources/074_s_copysignf",
+  "public_name": "copysignf",
+  "upstream_path": "lib/msun/src/s_copysignf.c",
+  "bytes": 891,
+  "sha256": "75128d08a05956fceacb11180639150935e569f8d3f67bdae553977af5c9d685"
+}

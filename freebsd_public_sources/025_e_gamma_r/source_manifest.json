@@ -1,0 +1,8 @@
+{
+  "case_name": "025_e_gamma_r",
+  "subpath": "freebsd_public_sources/025_e_gamma_r",
+  "public_name": "gamma_r",
+  "upstream_path": "lib/msun/src/e_gamma_r.c",
+  "bytes": 743,
+  "sha256": "8e70273ce0e957096b66e0058c65d7162517975cbc24ce6f0b972bcef179148c"
+}

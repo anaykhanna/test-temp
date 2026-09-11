@@ -1,0 +1,8 @@
+{
+  "case_name": "127_s_lrintl",
+  "subpath": "freebsd_public_sources/127_s_lrintl",
+  "public_name": "lrintl",
+  "upstream_path": "lib/msun/src/s_lrintl.c",
+  "bytes": 116,
+  "sha256": "732912ad6841087dda8a0b43d20436ff70f44ac27ff4ff297cffb46838bfe3d3"
+}

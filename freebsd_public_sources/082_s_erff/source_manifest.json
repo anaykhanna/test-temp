@@ -1,0 +1,8 @@
+{
+  "case_name": "082_s_erff",
+  "subpath": "freebsd_public_sources/082_s_erff",
+  "public_name": "erff",
+  "upstream_path": "lib/msun/src/s_erff.c",
+  "bytes": 5366,
+  "sha256": "d9729442b3323ecc3cf67a774cc2d672de49048907c080284f4172c8b551fe94"
+}
