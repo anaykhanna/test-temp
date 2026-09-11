@@ -1,0 +1,2 @@
+The upstream glibc 2.44 archive stores COPYING.LIB as a symbolic link to
+COPYING.LESSERv2. The target license text is included as COPYING.LESSERv2.
